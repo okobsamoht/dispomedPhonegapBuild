@@ -1,0 +1,10882 @@
+[
+  {
+    "id": "3",
+    "name": "ACINET 1G CPR B/10"
+  },
+  {
+    "id": "4",
+    "name": "ACLAV 500MG/62,5MG SACH B/12"
+  },
+  {
+    "id": "5",
+    "name": "ACLAV 1G/125MG SACH B/12"
+  },
+  {
+    "id": "6",
+    "name": "ACLAV 100MG/12,5MG F/60ML"
+  },
+  {
+    "id": "7",
+    "name": "ACLOGEL 1,5% GEL T/30G"
+  },
+  {
+    "id": "8",
+    "name": "ACTAPULGITE 3G PDRE SUSP BUV SACH B/30"
+  },
+  {
+    "id": "9",
+    "name": "ACTAPULGITE PED 1G PDRE SACH B/20"
+  },
+  {
+    "id": "10",
+    "name": "ACTIMAG SP F/100ML"
+  },
+  {
+    "id": "11",
+    "name": "ACTINAC 100MG CPR B/30"
+  },
+  {
+    "id": "12",
+    "name": "ACTINAC 100MG CPR B/10"
+  },
+  {
+    "id": "13",
+    "name": "ACTINAC PLUS 100MG/500MG CPR 1BL10"
+  },
+  {
+    "id": "14",
+    "name": "ACUMOL 100MG/500MG CPR B/20"
+  },
+  {
+    "id": "15",
+    "name": "ADALATE LP 20MG CPR ANF B/30"
+  },
+  {
+    "id": "16",
+    "name": "ADVIL 200MG CPR BT 20"
+  },
+  {
+    "id": "17",
+    "name": "ADVIL 20MG/ML SUSP PEDIA F/200ML"
+  },
+  {
+    "id": "18",
+    "name": "AERIUS SP F/60ML + CUIL/1"
+  },
+  {
+    "id": "19",
+    "name": "AFSC 1G/1G/150MG KIT B/1"
+  },
+  {
+    "id": "20",
+    "name": "ALERID 10MG CPR B/30 HP"
+  },
+  {
+    "id": "21",
+    "name": "ALFER 100MG CPR B/30"
+  },
+  {
+    "id": "22",
+    "name": "ALLERGOSONE SOL BUV FL/30ML"
+  },
+  {
+    "id": "23",
+    "name": "ALOFACT 100/500MG CPR B/20"
+  },
+  {
+    "id": "24",
+    "name": "ALVITYL VITALITE CPR B/40"
+  },
+  {
+    "id": "25",
+    "name": "ALVITYL VITALITE TONUS ORANG CPR EFFV/20"
+  },
+  {
+    "id": "26",
+    "name": "ALZOL 400MG SUSP BUV F/10ML"
+  },
+  {
+    "id": "27",
+    "name": "AMAREL 1MG CPR BTE 30"
+  },
+  {
+    "id": "28",
+    "name": "AMAREL 4MG CPR BTE 30"
+  },
+  {
+    "id": "29",
+    "name": "AMARYL M 2MG/500MG CPR B/30"
+  },
+  {
+    "id": "30",
+    "name": "AMIFER SP F/200ML"
+  },
+  {
+    "id": "31",
+    "name": "AMLOPRES 5MG CPR B/100 HP"
+  },
+  {
+    "id": "32",
+    "name": "AMLOTENSINE 5MG CPR B/30"
+  },
+  {
+    "id": "33",
+    "name": "AMLOPRES 10MG CPR B/100 HP"
+  },
+  {
+    "id": "34",
+    "name": "AMLOPERIN 5MG/5MG CPR B/30"
+  },
+  {
+    "id": "35",
+    "name": "AMODEX 250MG PDRE SUSP F/30G"
+  },
+  {
+    "id": "36",
+    "name": "AMOXICILLIN CREAT 125MG PDR SP"
+  },
+  {
+    "id": "37",
+    "name": "AMOXICILLIN CREAT 250MG PDR SP"
+  },
+  {
+    "id": "38",
+    "name": "AMOXICILLIN UBI 250MG/5ML PDR SUSP F60ML"
+  },
+  {
+    "id": "39",
+    "name": "AMOXI DENK 1000MG CPR B/10"
+  },
+  {
+    "id": "40",
+    "name": "AMOXICLAV DENK 500MG/62,5MG CPR B/16"
+  },
+  {
+    "id": "41",
+    "name": "AMOXICLAV DENK 1000/125MG SACH B/12"
+  },
+  {
+    "id": "42",
+    "name": "AMPICILLINE UBI 1G PDRE SOL INJ 7ML B/50"
+  },
+  {
+    "id": "43",
+    "name": "ANALGIN 500MG CPR B/10"
+  },
+  {
+    "id": "44",
+    "name": "ANDROTARDYL 250MG IM A.1ML BT1"
+  },
+  {
+    "id": "45",
+    "name": "ANGINOVAG AERO/10ML"
+  },
+  {
+    "id": "46",
+    "name": "ANTIBIO SYNALAR GTT AURIC 10ML"
+  },
+  {
+    "id": "47",
+    "name": "ANDOL 500MG CPR B/20"
+  },
+  {
+    "id": "48",
+    "name": "ANTIDOL 500MG CPR B/20"
+  },
+  {
+    "id": "49",
+    "name": "ANTIHEMORROIDAL PDE T/30G"
+  },
+  {
+    "id": "50",
+    "name": "APDROPS COLL F/3ML"
+  },
+  {
+    "id": "51",
+    "name": "APETAMIN 2MG SP F/110ML"
+  },
+  {
+    "id": "52",
+    "name": "APIFEN 400 CPR B/30"
+  },
+  {
+    "id": "53",
+    "name": "APROVEL 300MG CPR BTE 28"
+  },
+  {
+    "id": "54",
+    "name": "ARGIL VERTE SURFINE LAINO SACH 300G"
+  },
+  {
+    "id": "55",
+    "name": "ARPHOS MAGN BUV AMP 10ML B/20"
+  },
+  {
+    "id": "56",
+    "name": "ARTEFAN 80/480MG CPR B/6"
+  },
+  {
+    "id": "57",
+    "name": "ARTEFAN PDRE SUSP F/60ML"
+  },
+  {
+    "id": "58",
+    "name": "ARTEFAN 60/360MG CPR B/6"
+  },
+  {
+    "id": "59",
+    "name": "ARTEFAN 40/240MG CPR B/6"
+  },
+  {
+    "id": "60",
+    "name": "ARTESUN 30MG IV SOL INJ B/1"
+  },
+  {
+    "id": "61",
+    "name": "ARTIZ DP 80/480MG CPR B/6"
+  },
+  {
+    "id": "62",
+    "name": "ARTXON 1G INJ IM/IV B/1"
+  },
+  {
+    "id": "63",
+    "name": "ASCABIOL EMUL EXT FL 125ML"
+  },
+  {
+    "id": "64",
+    "name": "ASCORIL SP F/100ML"
+  },
+  {
+    "id": "65",
+    "name": "ASMOFLOX-OZ 200MG/500MG CPR B/20"
+  },
+  {
+    "id": "66",
+    "name": "ASPEGIC 1000 PDR ORAL SAC.BT20"
+  },
+  {
+    "id": "67",
+    "name": "ASPEGIC 100MG NN PDRE SOL BUV SACH B/20"
+  },
+  {
+    "id": "68",
+    "name": "ASTAPH 500MG GEL B/12"
+  },
+  {
+    "id": "69",
+    "name": "ASTHALIN 100MCG INH DOSE F/200 HP"
+  },
+  {
+    "id": "70",
+    "name": "ASTYFER CAPS B/30"
+  },
+  {
+    "id": "71",
+    "name": "ASTYMIN C GTTE BUV F/15ML"
+  },
+  {
+    "id": "72",
+    "name": "ASTYMIN FORTE CAPS B/20"
+  },
+  {
+    "id": "73",
+    "name": "ASTYMIN SP F/110ML"
+  },
+  {
+    "id": "74",
+    "name": "ASTYMIN SN INJ PERF F/200ML"
+  },
+  {
+    "id": "75",
+    "name": "ATARAX 25MG CPR B/30"
+  },
+  {
+    "id": "76",
+    "name": "ATARAX 2MG/ML SP FV 200ML"
+  },
+  {
+    "id": "77",
+    "name": "ATORLIP 40MG CPR B/30 HP"
+  },
+  {
+    "id": "78",
+    "name": "ATORFIT 10MG CPR B/30"
+  },
+  {
+    "id": "79",
+    "name": "ATURGYL NAS SOL FL NEB 15ML"
+  },
+  {
+    "id": "80",
+    "name": "AUGMENTIN 100MG BB PDR/SP 30ML"
+  },
+  {
+    "id": "81",
+    "name": "AUGMENTIN 100MG ENF PDRSP 60ML"
+  },
+  {
+    "id": "82",
+    "name": "AUGMENTIN 1G PDRE SUSP BUV SACH B/12"
+  },
+  {
+    "id": "83",
+    "name": "AUGMACILLIN 200MG PDRE SUSP F/60ML"
+  },
+  {
+    "id": "84",
+    "name": "AUGMACILLIN 400MG PDRE SUSP F/60ML"
+  },
+  {
+    "id": "85",
+    "name": "AUREOMYCINE VALDA 3% PDE DERM T/15G"
+  },
+  {
+    "id": "86",
+    "name": "AUREOMYCIN SPECIA3% PDE T/15G"
+  },
+  {
+    "id": "87",
+    "name": "AURIPAX SOLUT AURICULAIRE 15ML"
+  },
+  {
+    "id": "88",
+    "name": "AVAMYS 27,5MCG/PULV SUSP NAS F/120DOSES"
+  },
+  {
+    "id": "89",
+    "name": "AVENE EAU THERMAL AERO FL300ML"
+  },
+  {
+    "id": "90",
+    "name": "ALBEN 4% SUSP.10ML FL 1"
+  },
+  {
+    "id": "91",
+    "name": "AVENE CLEANANCE GEL NETT 200ML"
+  },
+  {
+    "id": "92",
+    "name": "AVENE HYDRANCE OPTIMALE CR LEGERE T/40ML"
+  },
+  {
+    "id": "93",
+    "name": "AVENE CICALFATE CR T/40ML"
+  },
+  {
+    "id": "94",
+    "name": "AVENE HYDRANCE OPTIMAL UV CR LEGER T40ML"
+  },
+  {
+    "id": "95",
+    "name": "AVENE HYDRANCE OPTIMAL UV CR RICHE T40ML"
+  },
+  {
+    "id": "96",
+    "name": "AVENE TRIACNEAL ANTI IMPERF CR F/30ML"
+  },
+  {
+    "id": "97",
+    "name": "AVENE SERENAGE CR JOUR NUTRI REDENS/40ML"
+  },
+  {
+    "id": "98",
+    "name": "AVENE HUILE CORPORELLE F/200ML"
+  },
+  {
+    "id": "99",
+    "name": "AVENE ELUAGE CONTOUR YEUX F/15ML"
+  },
+  {
+    "id": "100",
+    "name": "AVENE SERENAGE CR NUIT F/40ML"
+  },
+  {
+    "id": "101",
+    "name": "AVENE XERACALM AD DEFI CR RELIPID/200ML"
+  },
+  {
+    "id": "102",
+    "name": "AVENE XERACALM AD HLE LAV RELIP F/400ML"
+  },
+  {
+    "id": "103",
+    "name": "AVENE CLEANANCE EXPERT EMULS T/40ML"
+  },
+  {
+    "id": "104",
+    "name": "AVENE CLEANANCE MAT EMULS MATIF T/40ML"
+  },
+  {
+    "id": "105",
+    "name": "AVENE CLEANANCE EAU MICELL F/400ML"
+  },
+  {
+    "id": "106",
+    "name": "AZANTAC 50MG INJ AMP 2ML BT 5"
+  },
+  {
+    "id": "107",
+    "name": "AZEE 500MG CPR B/3 HP"
+  },
+  {
+    "id": "108",
+    "name": "AZEE 200MG/5ML SP F/15ML HP"
+  },
+  {
+    "id": "109",
+    "name": "AZITHRO 100MG PDRE SUSP BUV SACH B/3"
+  },
+  {
+    "id": "110",
+    "name": "AZITHRO 200MG PDRE SUSP BUV SACH B/3"
+  },
+  {
+    "id": "111",
+    "name": "AZITRINE 500MG CPR B/3"
+  },
+  {
+    "id": "112",
+    "name": "AZITHRO 500MG GEL B/3"
+  },
+  {
+    "id": "113",
+    "name": "AZIX 500MG CPR B/3"
+  },
+  {
+    "id": "114",
+    "name": "BACTRIM ADULTE CPR B/20"
+  },
+  {
+    "id": "115",
+    "name": "BACTOX 500MG GELULE BT 12"
+  },
+  {
+    "id": "116",
+    "name": "BACTRIM PEDIAT BUV F/100ML"
+  },
+  {
+    "id": "117",
+    "name": "BACTOX 250MG/5ML PDRE SUSP BUV F/60ML"
+  },
+  {
+    "id": "118",
+    "name": "BACTOX 125MG/5ML PDRE SUSP BUV F/60ML"
+  },
+  {
+    "id": "119",
+    "name": "BACTIFLOX 500MG LACTAB B/10"
+  },
+  {
+    "id": "120",
+    "name": "BACTIFLOX 750MG CPR B/10"
+  },
+  {
+    "id": "121",
+    "name": "BACTYL 0,025% COLL F/10ML"
+  },
+  {
+    "id": "122",
+    "name": "BACTOCLAV 1G CPR B/12"
+  },
+  {
+    "id": "123",
+    "name": "ACTINAC PLUS 100MG/500MG CPR B/20"
+  },
+  {
+    "id": "124",
+    "name": "ASTAPH 125MG SP F/60ML"
+  },
+  {
+    "id": "125",
+    "name": "BANEOCIN POUDRE FL 10G"
+  },
+  {
+    "id": "126",
+    "name": "AROMA BME CR T/50G"
+  },
+  {
+    "id": "127",
+    "name": "BECIDOUZE DRAGEE B/20"
+  },
+  {
+    "id": "128",
+    "name": "BECLAV 500MG/125MG CPR B/20"
+  },
+  {
+    "id": "129",
+    "name": "BECLAV 312,5MG SUSP F/100ML"
+  },
+  {
+    "id": "130",
+    "name": "BECTACEF 1000MG/500MG PDR PPI+SOLV F10ML"
+  },
+  {
+    "id": "131",
+    "name": "BENDEX 200MG/5ML SUSP BUV F/10ML HP"
+  },
+  {
+    "id": "132",
+    "name": "BENDEX 400MG CPR SACH/1 B/20 HP"
+  },
+  {
+    "id": "133",
+    "name": "BERLOCID 240MG SP F/100ML"
+  },
+  {
+    "id": "134",
+    "name": "BETADINE OVULES B/8"
+  },
+  {
+    "id": "135",
+    "name": "BETOPTIC 0,5% COLL F/3ML"
+  },
+  {
+    "id": "136",
+    "name": "BIBACTIN 240MG SP F/100ML"
+  },
+  {
+    "id": "137",
+    "name": "BIBACTIN 480MG CPR B/100"
+  },
+  {
+    "id": "138",
+    "name": "BIBLOC 5MG CPR PELL B/30"
+  },
+  {
+    "id": "139",
+    "name": "BILOR 5MG SP F/60ML"
+  },
+  {
+    "id": "140",
+    "name": "BIMALARIL ENF SUSP F/30ML"
+  },
+  {
+    "id": "141",
+    "name": "BIMALARIL BB SUSP F/30ML"
+  },
+  {
+    "id": "142",
+    "name": "BIMALARIL ADO SUSP F/30ML"
+  },
+  {
+    "id": "143",
+    "name": "BIMALARIL 40/240MG ENF CPR DISP B/6"
+  },
+  {
+    "id": "144",
+    "name": "BIODROXIL CPR 1000MG BTE 12"
+  },
+  {
+    "id": "145",
+    "name": "BIOFERON GEL B/30"
+  },
+  {
+    "id": "146",
+    "name": "BIOZOLE 500MG CPR B/14"
+  },
+  {
+    "id": "147",
+    "name": "BRAIN ACTIVE DENK CAPS B/30+6"
+  },
+  {
+    "id": "148",
+    "name": "BRONCHODERMINE POMMADE TB 60G"
+  },
+  {
+    "id": "149",
+    "name": "BRONCALENE ENFANT SIR FL150ML"
+  },
+  {
+    "id": "150",
+    "name": "BRONKIREX 2% SIROP ENF 125ML"
+  },
+  {
+    "id": "151",
+    "name": "BRONCALENE ADULTE SP FL/150ML"
+  },
+  {
+    "id": "152",
+    "name": "BRONCATHIOL ADULTE SP FL/150ML"
+  },
+  {
+    "id": "153",
+    "name": "BRONCHO SP F/120ML"
+  },
+  {
+    "id": "154",
+    "name": "BRONQUIDIAZINA C.R. SP F/150ML"
+  },
+  {
+    "id": "155",
+    "name": "BRONCATHIOL ENF SP F/125ML"
+  },
+  {
+    "id": "156",
+    "name": "BROXOL SP F/100ML"
+  },
+  {
+    "id": "157",
+    "name": "AUGMENTIN 500MG CPR PELL B/16"
+  },
+  {
+    "id": "158",
+    "name": "BRUFEN 400MG CPR DRG B/30"
+  },
+  {
+    "id": "159",
+    "name": "BRUMED 100MG/5ML SUSP BUV F/100ML"
+  },
+  {
+    "id": "160",
+    "name": "BRUSTAN SUSP PDRE F/100ML"
+  },
+  {
+    "id": "161",
+    "name": "BUTO-ASMA AEROSOL"
+  },
+  {
+    "id": "162",
+    "name": "C-TAX PDRE SUSP BUV F/100ML"
+  },
+  {
+    "id": "163",
+    "name": "CACHEWORM SUSP BUV F/30ML"
+  },
+  {
+    "id": "164",
+    "name": "CA C 1000 SANDOZ CPR EFFV BT10"
+  },
+  {
+    "id": "165",
+    "name": "CALCIBRONAT 2G CPR EFFV BT 20"
+  },
+  {
+    "id": "166",
+    "name": "CALCIUM SDZ FORTE CPR EFFV B20"
+  },
+  {
+    "id": "167",
+    "name": "CAL C VITA CPR EFFV B/10"
+  },
+  {
+    "id": "168",
+    "name": "CALCIUM SANDOZ 500MG SACH B/30 AFR"
+  },
+  {
+    "id": "169",
+    "name": "CALTOUX 100MG NN SUPPO B/10"
+  },
+  {
+    "id": "170",
+    "name": "CANDEREL CPR SODIQ S/SOD B/100"
+  },
+  {
+    "id": "171",
+    "name": "CANDEREL CPR SODIQ S/SOD B/300"
+  },
+  {
+    "id": "172",
+    "name": "CAPLEX SUSP BUV F/100ML"
+  },
+  {
+    "id": "173",
+    "name": "CAPRAZOLE 20MG GEL B/30"
+  },
+  {
+    "id": "174",
+    "name": "CAPTRIM 960MG CPR B/10"
+  },
+  {
+    "id": "175",
+    "name": "CARBOSYLANE 24DOSE DE 2 GELULE"
+  },
+  {
+    "id": "176",
+    "name": "CARBEN 500MG CPR B/1"
+  },
+  {
+    "id": "177",
+    "name": "CARBOTOUX 375MG GEL B/20"
+  },
+  {
+    "id": "178",
+    "name": "CARMOX 500MG GEL B/10"
+  },
+  {
+    "id": "179",
+    "name": "CARMOX 250MG SUSP F/60ML"
+  },
+  {
+    "id": "180",
+    "name": "CARTEOL 2% LP COLL F/3ML"
+  },
+  {
+    "id": "181",
+    "name": "CARVEDI DENK 6,25MG CPR B/30"
+  },
+  {
+    "id": "182",
+    "name": "CARY 500MG CPR B/10"
+  },
+  {
+    "id": "183",
+    "name": "CARY 250MG/5ML SUSP BUV F/60ML"
+  },
+  {
+    "id": "184",
+    "name": "AMOXICLAV DENK 1000MG PDR SACH B/8"
+  },
+  {
+    "id": "185",
+    "name": "CASODEX 50MG CPR B/30"
+  },
+  {
+    "id": "186",
+    "name": "CATACOL COLLYRE FL 10ML"
+  },
+  {
+    "id": "187",
+    "name": "CATAFLAM * 25MG * CPR BT 20"
+  },
+  {
+    "id": "188",
+    "name": "APPETINE VIT SP F/100ML"
+  },
+  {
+    "id": "189",
+    "name": "CALTOUX 100MG SP ENF F/100ML"
+  },
+  {
+    "id": "190",
+    "name": "CAZITHRO SUSP BUV 200MG/5ML F/15ML"
+  },
+  {
+    "id": "191",
+    "name": "CEBESINE COLLYRE F/10ML"
+  },
+  {
+    "id": "192",
+    "name": "CEFALORAL 200MG CPR B/10"
+  },
+  {
+    "id": "193",
+    "name": "CEFICAP 400MG GEL B/10"
+  },
+  {
+    "id": "194",
+    "name": "CEFICAP 100MG/5ML PDRE SUSP BUV F/50ML"
+  },
+  {
+    "id": "195",
+    "name": "CEFTRIAZ 500MG PDR S INJ 1FL+SOLV AMP5ML"
+  },
+  {
+    "id": "196",
+    "name": "ASPIRINE UPSA VIT C CPR EFFV T/10 B/2"
+  },
+  {
+    "id": "197",
+    "name": "ASPIRINE UPSA 1G CPR EFFV B/20"
+  },
+  {
+    "id": "198",
+    "name": "CEFTRIAZ 1G PDRE S INJ 1FL+SOLV AMP/10ML"
+  },
+  {
+    "id": "199",
+    "name": "CELESTENE 4MG/ML SOL INJ AMP/1ML B/3"
+  },
+  {
+    "id": "200",
+    "name": "CELESTAMINE 0.25MG CPR B/30"
+  },
+  {
+    "id": "201",
+    "name": "CELESTENE 0,05% SOL BUV GTTE F/30ML"
+  },
+  {
+    "id": "202",
+    "name": "CELESTENE 2MG CPR DISP SEC B/20"
+  },
+  {
+    "id": "203",
+    "name": "CELLTRIAXON 1G AMP INJ B/1"
+  },
+  {
+    "id": "204",
+    "name": "CERULYSE GTTE AURICUL FL 10ML"
+  },
+  {
+    "id": "205",
+    "name": "CETAVLON 5% CR T/80G"
+  },
+  {
+    "id": "206",
+    "name": "CHIBRO-CADRON COLLYRE FL 5ML"
+  },
+  {
+    "id": "207",
+    "name": "CHINTHER 40/240MG CPR B/12"
+  },
+  {
+    "id": "208",
+    "name": "ALPHAVIT SP F/120ML"
+  },
+  {
+    "id": "209",
+    "name": "CICA CARE PLAQ GEL 6X12CM B/1"
+  },
+  {
+    "id": "210",
+    "name": "CIMETIDINE CREAT 400MG 10BL/10"
+  },
+  {
+    "id": "211",
+    "name": "CINET 10MG CPR DISP B/40"
+  },
+  {
+    "id": "212",
+    "name": "CIPLOX 500MG CPR B/2X10 HP"
+  },
+  {
+    "id": "213",
+    "name": "CIPLACEF 1G PDR INJ IM/IV F1+SOLV/1 HP"
+  },
+  {
+    "id": "214",
+    "name": "CIPROZOLE 250/300MG CPR B/10"
+  },
+  {
+    "id": "215",
+    "name": "CIPRO 0,3% COLL 5ML"
+  },
+  {
+    "id": "216",
+    "name": "CIPROFLOXACINE UBI 750MG CPR 10 BL 10"
+  },
+  {
+    "id": "217",
+    "name": "CIPROZED 750MG CPR B/10"
+  },
+  {
+    "id": "218",
+    "name": "CIPTIN 250MG CPR B/10"
+  },
+  {
+    "id": "219",
+    "name": "CITRATE BETAIN UPSA SS CITRON CPR EFF/20"
+  },
+  {
+    "id": "220",
+    "name": "CIVASTINE 20MG CPR B/28"
+  },
+  {
+    "id": "221",
+    "name": "CLAMOXYL 500MG GELULE BT 12"
+  },
+  {
+    "id": "222",
+    "name": "ALZOL 400MG CPR B/1"
+  },
+  {
+    "id": "223",
+    "name": "AZITRINE SUSP F/15ML"
+  },
+  {
+    "id": "224",
+    "name": "CLAMOXYL 125MG PDR SIR FL 60ML"
+  },
+  {
+    "id": "225",
+    "name": "CLAMOXYL 1G CPR DISP B/12"
+  },
+  {
+    "id": "226",
+    "name": "CLANOXY 200/28,5MG PDRE SUSP BUV F/100ML"
+  },
+  {
+    "id": "227",
+    "name": "CLANOXY 500MG/125MG CPR B/10"
+  },
+  {
+    "id": "228",
+    "name": "CLARADOL 500MG CPR EFFV B/16"
+  },
+  {
+    "id": "229",
+    "name": "CLAVUMOCCID 250MG SUSP F/60ML B/2"
+  },
+  {
+    "id": "230",
+    "name": "CLEDOMOX NN 281,25MG/5ML SUSP BUV F/60ML"
+  },
+  {
+    "id": "231",
+    "name": "CLOTRI DENK 1% CR T/20G"
+  },
+  {
+    "id": "232",
+    "name": "COAMOX 1000MG CPR B/12"
+  },
+  {
+    "id": "233",
+    "name": "COAMOX 457MG PED PDRE SUSP BUV F/70ML"
+  },
+  {
+    "id": "234",
+    "name": "COAMOX 156,25MG BB PDRE SUSP BUV F/100ML"
+  },
+  {
+    "id": "235",
+    "name": "CO ARTESIANE SUSP F/60ML"
+  },
+  {
+    "id": "236",
+    "name": "CO ARTESIANE SUSP BUV F/120ML"
+  },
+  {
+    "id": "237",
+    "name": "CO ARINATE FDC AD CPR B/3"
+  },
+  {
+    "id": "238",
+    "name": "COARTEM 20/120MG CPR DISP B/6 I08"
+  },
+  {
+    "id": "239",
+    "name": "COARTEM 20/120MG CPR DISP B/12 I08"
+  },
+  {
+    "id": "240",
+    "name": "COARTEM 80/480MG CPR B/6 I08"
+  },
+  {
+    "id": "241",
+    "name": "BETADINE SOL.DERMQ 500ML JAUNE"
+  },
+  {
+    "id": "242",
+    "name": "BETADINE TULLE 10X10 CPRES B10"
+  },
+  {
+    "id": "243",
+    "name": "CODOLIPRANE CPR BT 16"
+  },
+  {
+    "id": "244",
+    "name": "COFANTRINE 180/1080MG SUSP BUV F/60ML"
+  },
+  {
+    "id": "245",
+    "name": "COFANTRINE AD 80/480MG CPR B/6"
+  },
+  {
+    "id": "246",
+    "name": "CHOPHYTOL BUV GTTE FL 120ML"
+  },
+  {
+    "id": "247",
+    "name": "COFANTRINE 20/120MG CPR DISP B/6"
+  },
+  {
+    "id": "248",
+    "name": "COLINIL GTTE F/15ML"
+  },
+  {
+    "id": "249",
+    "name": "COLLYRE BLEU LAITER FL 10ML"
+  },
+  {
+    "id": "250",
+    "name": "BIMALARIL 80/480MG CPR B/6"
+  },
+  {
+    "id": "251",
+    "name": "COLOSAR DENK 50/12,5 MG CPR B/28"
+  },
+  {
+    "id": "252",
+    "name": "COMBANTRIN SOLUTE BUV F/15ML"
+  },
+  {
+    "id": "253",
+    "name": "COMBIMAL CPR B/3"
+  },
+  {
+    "id": "254",
+    "name": "COMBIART 80MG/480MG CPR SEC B/6"
+  },
+  {
+    "id": "255",
+    "name": "COQUELUSEDAL NN SUPPO B/10"
+  },
+  {
+    "id": "256",
+    "name": "COQUELUSEDAL ENF SUPPO B/10"
+  },
+  {
+    "id": "257",
+    "name": "CORRECTOL COLLYRE FL 10ML"
+  },
+  {
+    "id": "258",
+    "name": "CORTANCYL 5MG CPR BT 30"
+  },
+  {
+    "id": "259",
+    "name": "COTIPRED 20MG CPR EFFV B/20"
+  },
+  {
+    "id": "260",
+    "name": "COTRIM FORT CREAT 960MG 10BL10"
+  },
+  {
+    "id": "261",
+    "name": "COTRIMOXAZOLE UBI 480MG CPR 10BL10"
+  },
+  {
+    "id": "262",
+    "name": "CRAYON PORTE NITRATE NM B/1"
+  },
+  {
+    "id": "263",
+    "name": "CROMOPTIC COLLYRE F/10ML"
+  },
+  {
+    "id": "264",
+    "name": "CURAM 1000MG CPR B/10"
+  },
+  {
+    "id": "265",
+    "name": "COLLUNOVAR ATOMISEUR FL 40ML"
+  },
+  {
+    "id": "266",
+    "name": "CURAM 100/12,5MG/ML NN PDR SUSP BUV/30ML"
+  },
+  {
+    "id": "267",
+    "name": "CURAM100/12,5MG/ML ENF PDR SUSP BUV/60ML"
+  },
+  {
+    "id": "268",
+    "name": "CURTEC 10MG CPR B/15"
+  },
+  {
+    "id": "269",
+    "name": "CURTEC 1MG/ML SOL BUV F/60ML"
+  },
+  {
+    "id": "270",
+    "name": "CUTISAN 1% PDRE TALC B/80G"
+  },
+  {
+    "id": "271",
+    "name": "CUTICELL CLASSIC PANS GRAS 10X10CM B/10"
+  },
+  {
+    "id": "272",
+    "name": "CYCLO 3 FORT GEL B/30"
+  },
+  {
+    "id": "273",
+    "name": "DACRYOSERUM COLL UNID 5ML B/20"
+  },
+  {
+    "id": "274",
+    "name": "DAFLON 500MG CPR B/30"
+  },
+  {
+    "id": "275",
+    "name": "AMOXICILLIN SANDOZ 500MG CPR B/100"
+  },
+  {
+    "id": "276",
+    "name": "BIODROXIL SUSP 250MG/5ML F60ML"
+  },
+  {
+    "id": "277",
+    "name": "CURAM 125MG SIROP FL/60ML"
+  },
+  {
+    "id": "278",
+    "name": "DAKIN CPF SOL EXTERNE FL 250ML"
+  },
+  {
+    "id": "279",
+    "name": "DAKIN CPF SOL EXT 500ML F/1"
+  },
+  {
+    "id": "280",
+    "name": "DAKTARIN GEL BUCCAL TB 40G"
+  },
+  {
+    "id": "281",
+    "name": "DARTE Q SACH B/16"
+  },
+  {
+    "id": "282",
+    "name": "DARTE Q 15MG/120MG SACH B/8"
+  },
+  {
+    "id": "283",
+    "name": "ASPEGIC 250 PDR ORAL SACH BT20"
+  },
+  {
+    "id": "284",
+    "name": "DEBRIDAT BUV SUSP F/250ML"
+  },
+  {
+    "id": "285",
+    "name": "DEBRIDAT ENF NN SUSP F/125ML"
+  },
+  {
+    "id": "286",
+    "name": "DECONTRACTYL 250MG CPR B/50"
+  },
+  {
+    "id": "287",
+    "name": "DEPAKINE CHRONO 500MG CPR BT30"
+  },
+  {
+    "id": "288",
+    "name": "DEPAKINE BUV SOL FL 40ML"
+  },
+  {
+    "id": "289",
+    "name": "DEPAKINE SIROP FV 150ML"
+  },
+  {
+    "id": "290",
+    "name": "DEPIWHITE LAIT ECLAIRC F/500ML"
+  },
+  {
+    "id": "291",
+    "name": "DERMOFIX CREME TUBE 20GR"
+  },
+  {
+    "id": "292",
+    "name": "DERMOBACTER SOL EXT FL/125ML"
+  },
+  {
+    "id": "293",
+    "name": "DERMOBACTER SOL EXT F/300ML"
+  },
+  {
+    "id": "294",
+    "name": "DESLOR 5MG CPR B/15"
+  },
+  {
+    "id": "295",
+    "name": "DESOMEDINE COLLYRE F/10ML"
+  },
+  {
+    "id": "296",
+    "name": "DETURGYLONE NAS FL NEB 10ML"
+  },
+  {
+    "id": "297",
+    "name": "DEXTROCIDINE 0,3% SP F/150ML"
+  },
+  {
+    "id": "298",
+    "name": "DIACOL 27MG/15ML SP F/200ML"
+  },
+  {
+    "id": "299",
+    "name": "DIAFORMINE SL 1G CPR B/30"
+  },
+  {
+    "id": "300",
+    "name": "DIAFORMINE 500MG CPR B/30"
+  },
+  {
+    "id": "301",
+    "name": "DIAGLIM 1MG CPR B/30"
+  },
+  {
+    "id": "302",
+    "name": "DIAGLIM 2MG CPR B/30"
+  },
+  {
+    "id": "303",
+    "name": "DELABARRE GEL GINGIVAL T/20G"
+  },
+  {
+    "id": "304",
+    "name": "DIANTALEX 500MG/250MG/50MG CPR SEC B/10"
+  },
+  {
+    "id": "305",
+    "name": "BIOCALYPTOL SP NF F/200ML"
+  },
+  {
+    "id": "306",
+    "name": "DIARYL SP F/60ML"
+  },
+  {
+    "id": "307",
+    "name": "DIARUM 2MG GEL B/20"
+  },
+  {
+    "id": "308",
+    "name": "DICLO DENK 100MG SUPPO B/10"
+  },
+  {
+    "id": "309",
+    "name": "DICLIN 75MG AMP INJ B/2"
+  },
+  {
+    "id": "310",
+    "name": "DICLO PHARMA5 100MG SUPPO B/10"
+  },
+  {
+    "id": "311",
+    "name": "DICYNONE 500MG GEL B/20"
+  },
+  {
+    "id": "312",
+    "name": "DIFRAREL 100MG CPR BT 20"
+  },
+  {
+    "id": "313",
+    "name": "DIOVENOR 600MG CPR B/15"
+  },
+  {
+    "id": "314",
+    "name": "DIPROSTENE SUSP INJ SER PRER/1ML+AIG B/1"
+  },
+  {
+    "id": "315",
+    "name": "DIPROSONE 0,05% PDE T/30G"
+  },
+  {
+    "id": "316",
+    "name": "DISTEM 300MG/380MG CPR B/50"
+  },
+  {
+    "id": "317",
+    "name": "DISWAR PLUS 250/62,5MG PDR SUSP BUV/60ML"
+  },
+  {
+    "id": "318",
+    "name": "COMPRESS STER.LABELL 20X20/10"
+  },
+  {
+    "id": "319",
+    "name": "COMPRESS STER.LABELL 40X40/10"
+  },
+  {
+    "id": "320",
+    "name": "COMPRESS STER.LABELL 30X30/10"
+  },
+  {
+    "id": "321",
+    "name": "DOLEX 50MG CPR B/30"
+  },
+  {
+    "id": "322",
+    "name": "DOLIPRANE 500MG CPR B/16"
+  },
+  {
+    "id": "323",
+    "name": "DOLIPRANE 500MG PDRE SACH BT12"
+  },
+  {
+    "id": "324",
+    "name": "BANDE CREPE LABELL ETUI 4MX15"
+  },
+  {
+    "id": "325",
+    "name": "DOLIPRANE NN 100MG SUPPO B/10"
+  },
+  {
+    "id": "326",
+    "name": "DOLIPRANE 150MG SACH B/12"
+  },
+  {
+    "id": "327",
+    "name": "CLIVON HYG INT F/250ML"
+  },
+  {
+    "id": "328",
+    "name": "CALCIUM+MAG BIOFAR CPR EFFV/20"
+  },
+  {
+    "id": "329",
+    "name": "DOLIPRANE 300MG PDRE SACH.BT12"
+  },
+  {
+    "id": "330",
+    "name": "DOLIPRANE 2,4% SP F/60ML"
+  },
+  {
+    "id": "331",
+    "name": "DOLIPRANEVITC 500MG/150MG CPR EFFV T/16"
+  },
+  {
+    "id": "332",
+    "name": "CATHETER LABELL IV 24G 19MM JAUNE/1"
+  },
+  {
+    "id": "333",
+    "name": "DOLIPRANE 1G CPR B/8"
+  },
+  {
+    "id": "334",
+    "name": "DOLIMEX MIGRAINE CPR EFFV B/16"
+  },
+  {
+    "id": "335",
+    "name": "DOLKO ADULT 500MG CPR BT 16"
+  },
+  {
+    "id": "336",
+    "name": "DOLKO 1G CPR B/8"
+  },
+  {
+    "id": "337",
+    "name": "DONTOMYCINE 3MUI CPR B/10"
+  },
+  {
+    "id": "338",
+    "name": "DOXY DENK 100MG CPR B/20"
+  },
+  {
+    "id": "339",
+    "name": "DRENOXOL 3MG/ML AMP BUV/10ML B/20"
+  },
+  {
+    "id": "340",
+    "name": "DRENOXOL 30MG/10ML SP F/200ML"
+  },
+  {
+    "id": "341",
+    "name": "DRILL SS SUCRE PASTILLE BT 24"
+  },
+  {
+    "id": "342",
+    "name": "DRILL EXPECT SIROP AD FL/200ML"
+  },
+  {
+    "id": "343",
+    "name": "DRILL SS TX SECHE AD SP F/125ML"
+  },
+  {
+    "id": "344",
+    "name": "DUCRAY ICTYANE CR MAINS T/50ML"
+  },
+  {
+    "id": "345",
+    "name": "DUCRAY ICTYANE STICK LEVRES SECH/ABIM/3G"
+  },
+  {
+    "id": "346",
+    "name": "DUCRAY ICTYANE PAIN SURGR 200G"
+  },
+  {
+    "id": "347",
+    "name": "DUCRAY GEL CAPILL RUBEFIANT T/30ML"
+  },
+  {
+    "id": "348",
+    "name": "DUCRAY ICTYANE HD BME CORP F/400ML"
+  },
+  {
+    "id": "349",
+    "name": "DUCRAY MELASCREEN SOIN DEPIGM F/30ML"
+  },
+  {
+    "id": "350",
+    "name": "DUCRAY NEOPTIDE CHUT CHVX CHRO LOT30ML/3"
+  },
+  {
+    "id": "351",
+    "name": "DUCRAY KERACNYL LOT PURIF F/200ML"
+  },
+  {
+    "id": "352",
+    "name": "DUCRAY ANACAPS ANTI CHUTE CAPS B/30"
+  },
+  {
+    "id": "353",
+    "name": "DUCRAY KERACNYL STOP BOUTON GEL T/10ML"
+  },
+  {
+    "id": "354",
+    "name": "DUCRAY ANAPHASE SH CR REVIT T/200ML"
+  },
+  {
+    "id": "355",
+    "name": "DUCRAY SQUANORM SH ANTIPELL SEC F/200ML"
+  },
+  {
+    "id": "356",
+    "name": "DUCRAY KERACNYL GEL MOUSS SEBO REG/200ML"
+  },
+  {
+    "id": "357",
+    "name": "DUCRAY KERACNYL PP CR SOIN IMPERF /30ML"
+  },
+  {
+    "id": "358",
+    "name": "DUCRAY MELASCREEN ECLAT CR LEGERE/40ML"
+  },
+  {
+    "id": "359",
+    "name": "DUCRAY ICTYANE LAIT CORP HYD PROTEC500ML"
+  },
+  {
+    "id": "360",
+    "name": "DUCRAY KERACNYL MATIF HYDR JOUR CR/30ML"
+  },
+  {
+    "id": "361",
+    "name": "DULCOLAX 5MG CPR B/30"
+  },
+  {
+    "id": "362",
+    "name": "DUPHASTON 10MG CPR B/10"
+  },
+  {
+    "id": "363",
+    "name": "DUPHALAC SP FP/200ML"
+  },
+  {
+    "id": "364",
+    "name": "DUPHALAC 10G/15ML SOL BUV SACH-DOSE/20"
+  },
+  {
+    "id": "365",
+    "name": "DYNAMOGEN AMPOULE BTE 20"
+  },
+  {
+    "id": "366",
+    "name": "BICARBONATE BOITE 12MCG 75G"
+  },
+  {
+    "id": "367",
+    "name": "BOIS BANDE SOL BUV F/125ML"
+  },
+  {
+    "id": "368",
+    "name": "DYNAPAR EC 50MG CPR 10BL10"
+  },
+  {
+    "id": "369",
+    "name": "AIDA CREME REGULATRICE TB 40G"
+  },
+  {
+    "id": "370",
+    "name": "DYNAPAR 1% GEL T/30G"
+  },
+  {
+    "id": "371",
+    "name": "ARTHRODONT PATE GGVL T/80G"
+  },
+  {
+    "id": "372",
+    "name": "ECOX 90MG CPR B/30"
+  },
+  {
+    "id": "373",
+    "name": "EDOLFENE 0,3MG/ML COLL F/5ML"
+  },
+  {
+    "id": "374",
+    "name": "EFFERALGAN CODEIN CPR EFFV B/16"
+  },
+  {
+    "id": "375",
+    "name": "EFFERALGAN 500MG CPR EFFV B/16"
+  },
+  {
+    "id": "376",
+    "name": "EFFERALGAN 150MG ENF SACH B/12"
+  },
+  {
+    "id": "377",
+    "name": "EFFERALGAN PED BUV F/90ML"
+  },
+  {
+    "id": "378",
+    "name": "EFFERALGAN 250MG SACH B/12"
+  },
+  {
+    "id": "379",
+    "name": "DEPIWHITE DAY SPF20 CR ECLAIRC T/40ML"
+  },
+  {
+    "id": "380",
+    "name": "EFFERALGAN 1G CPR EFFV T/8"
+  },
+  {
+    "id": "381",
+    "name": "EFFERALGAN 1G CPR PELL B/8"
+  },
+  {
+    "id": "382",
+    "name": "ELANCYL CONCENTRE VERGETUR GEL CR T/75ML"
+  },
+  {
+    "id": "383",
+    "name": "ELGYDIUM DENTIFRICE TB 100G"
+  },
+  {
+    "id": "384",
+    "name": "ELGYDIUM PROTECT CARIE T/75ML"
+  },
+  {
+    "id": "385",
+    "name": "ELGYDIUM DENTIF BLANCHEUR T/75ML"
+  },
+  {
+    "id": "386",
+    "name": "ELGYDIUM KIDS 2-6 ANS MENTH FRAIS T/50ML"
+  },
+  {
+    "id": "387",
+    "name": "ELICA 0,1% PDE T/30G"
+  },
+  {
+    "id": "388",
+    "name": "ELIXIR PAREGORIQUE 30CC VALD"
+  },
+  {
+    "id": "389",
+    "name": "ELLE TEST GROSSESSE 25UI/L B/1"
+  },
+  {
+    "id": "390",
+    "name": "ELUDRILPRO BAIN BCHE F/200ML"
+  },
+  {
+    "id": "391",
+    "name": "ENTAMIZOLE DS 500MG/400MG CPR B/15"
+  },
+  {
+    "id": "392",
+    "name": "ERLUS 2,5MG/5ML SP F/60ML"
+  },
+  {
+    "id": "393",
+    "name": "ERLUS 5MG CPR B/7"
+  },
+  {
+    "id": "394",
+    "name": "EROS POUR HOMME CAPS B/60"
+  },
+  {
+    "id": "395",
+    "name": "ERY 125MG GLE SACH BT 24"
+  },
+  {
+    "id": "396",
+    "name": "ERY 250MG GLE SACH BT 24"
+  },
+  {
+    "id": "397",
+    "name": "ESCODYNE CPR EFFV B/10"
+  },
+  {
+    "id": "398",
+    "name": "AMLOCLASS 5MG CPR B/30"
+  },
+  {
+    "id": "399",
+    "name": "CIPOTAX 500/600MG CPR B/30"
+  },
+  {
+    "id": "400",
+    "name": "ENOXA 2000 SOL INJ SERING B/2"
+  },
+  {
+    "id": "401",
+    "name": "ENOXA 6000 SOL INJ SERING B/2"
+  },
+  {
+    "id": "402",
+    "name": "EUPHON PASTILLE SS SUCRE B/70"
+  },
+  {
+    "id": "403",
+    "name": "AIRTAL 100MG CPR BT 10"
+  },
+  {
+    "id": "404",
+    "name": "BLOKIUM 100MG CPR B/30"
+  },
+  {
+    "id": "405",
+    "name": "CETRAXAL+ 3MG/0,25MG GTTE AURIC F/10ML"
+  },
+  {
+    "id": "406",
+    "name": "DEFAL 22,75MG/ML SOL BUV GTTE F/13ML"
+  },
+  {
+    "id": "407",
+    "name": "DOLOTREN 50MG CPR BTE 20"
+  },
+  {
+    "id": "408",
+    "name": "DOLOTREN DISPERSIBLE BT40"
+  },
+  {
+    "id": "409",
+    "name": "EUPHON MENTHOL PAST B/70"
+  },
+  {
+    "id": "410",
+    "name": "EUROMOX 125MG SP F/60ML"
+  },
+  {
+    "id": "411",
+    "name": "AMLOPERIN 10MG/10MG CPR B/30"
+  },
+  {
+    "id": "412",
+    "name": "AMLOPERIN 10MG/5MG CPR B/30"
+  },
+  {
+    "id": "413",
+    "name": "BONCIPRO 750MG CPR B/20"
+  },
+  {
+    "id": "414",
+    "name": "EXACYL 1G SOL BUV AMP10ML BT 5"
+  },
+  {
+    "id": "415",
+    "name": "EXODERIL CREME TB 15G"
+  },
+  {
+    "id": "416",
+    "name": "EXODERIL SOLUTION FL 10ML"
+  },
+  {
+    "id": "417",
+    "name": "EXOFENE SILIC.EXT TALC BT 160G"
+  },
+  {
+    "id": "418",
+    "name": "EXOMUC 200MG GRAN.SS SACH BT30"
+  },
+  {
+    "id": "419",
+    "name": "FALCIART 180MG/1080MG SP F/60ML"
+  },
+  {
+    "id": "420",
+    "name": "FANTEM 20MG/120MG CPR B/12"
+  },
+  {
+    "id": "421",
+    "name": "FEBRILEX+ SP F/150ML"
+  },
+  {
+    "id": "422",
+    "name": "FEBRILEX CPR POCH/4"
+  },
+  {
+    "id": "423",
+    "name": "FEBREX PLUS SP F/60ML"
+  },
+  {
+    "id": "424",
+    "name": "FEBREX TM 325MG/37,5MG B/10"
+  },
+  {
+    "id": "425",
+    "name": "CIVASTINE 10MG CPR B/28"
+  },
+  {
+    "id": "426",
+    "name": "FEDATE SP FL/200ML"
+  },
+  {
+    "id": "427",
+    "name": "FEDATE GEL B/30"
+  },
+  {
+    "id": "428",
+    "name": "FERCEFOL CPR B/30"
+  },
+  {
+    "id": "429",
+    "name": "ALDACTONE 50MG CPR B/20"
+  },
+  {
+    "id": "430",
+    "name": "DETENSIEL 10MG CPR B/30"
+  },
+  {
+    "id": "431",
+    "name": "FERROSTRANE SIROP F/125ML"
+  },
+  {
+    "id": "432",
+    "name": "FERROSTRANE 0,68% SP F/200ML"
+  },
+  {
+    "id": "433",
+    "name": "FERROMIX SP F/120ML"
+  },
+  {
+    "id": "434",
+    "name": "FERROLEX 150MG/0,5MG/2,5MCG/40MG SP200ML"
+  },
+  {
+    "id": "435",
+    "name": "FERTILO FORTE DENK PDRE SACH B/30"
+  },
+  {
+    "id": "436",
+    "name": "FERVEX AD GR SOL BUV SACH B/8"
+  },
+  {
+    "id": "437",
+    "name": "BETASERC 24MG CPR B/60"
+  },
+  {
+    "id": "438",
+    "name": "AMOXICILLIN CREAC 500MG 100B12"
+  },
+  {
+    "id": "439",
+    "name": "FERVEX AD SS GR SOL BUV SACH B/8"
+  },
+  {
+    "id": "440",
+    "name": "ARTESIANE 40MG SUPPOGEL B/6"
+  },
+  {
+    "id": "441",
+    "name": "CO ARINATE FDC ENF CPR B/3"
+  },
+  {
+    "id": "442",
+    "name": "CIPRONAT 750MG CPR B/14"
+  },
+  {
+    "id": "443",
+    "name": "FERVEX FRAMBOISE AD GR SOL BUV SACH B/8"
+  },
+  {
+    "id": "444",
+    "name": "ANOMEX SUPPO B/10"
+  },
+  {
+    "id": "445",
+    "name": "BILOR 10MG CPR B/10"
+  },
+  {
+    "id": "446",
+    "name": "CLAVUMOCCID 1G CPR B/20"
+  },
+  {
+    "id": "447",
+    "name": "CUPID 50MG CPR B/1"
+  },
+  {
+    "id": "448",
+    "name": "ENHANCIN 1G CPR PELL B/10"
+  },
+  {
+    "id": "449",
+    "name": "FIGURIN GEL B/60"
+  },
+  {
+    "id": "450",
+    "name": "AMTIBA 500MG CPR B/4"
+  },
+  {
+    "id": "451",
+    "name": "CIPROX 500MG CPR PELL B/10"
+  },
+  {
+    "id": "452",
+    "name": "DIAFORMINE 850MG CPR B/30"
+  },
+  {
+    "id": "453",
+    "name": "ENHANCIN 1,2G INJ B/1"
+  },
+  {
+    "id": "454",
+    "name": "FIXICAL VIT D3 500MG CPR B/60"
+  },
+  {
+    "id": "455",
+    "name": "FIXIM 200MG CPR B/10"
+  },
+  {
+    "id": "456",
+    "name": "FIXIM 100MG/5ML PDRE SUSP BUV F/60ML"
+  },
+  {
+    "id": "457",
+    "name": "FLAGYL 125MG/5ML SUSP BUV120ML"
+  },
+  {
+    "id": "458",
+    "name": "FLAGYL 500MG OVULE BT 10"
+  },
+  {
+    "id": "459",
+    "name": "FLAGYL INJ 100ML POCHE /1"
+  },
+  {
+    "id": "460",
+    "name": "CEFALORAL 100MG CPR DISP B/10"
+  },
+  {
+    "id": "461",
+    "name": "BETOPTIC 0.25% COLL F/3ML"
+  },
+  {
+    "id": "462",
+    "name": "AZOPT 10MG COLL F/5ML"
+  },
+  {
+    "id": "463",
+    "name": "FLEMING 500/62,5MG SUSP BUV F/60ML"
+  },
+  {
+    "id": "464",
+    "name": "ALDACTONE 75MG CPR B/20"
+  },
+  {
+    "id": "465",
+    "name": "FLIXONASE 50MCG SUSP NAS120DOS"
+  },
+  {
+    "id": "466",
+    "name": "BIDONTOGYL 1,5MUI/250MG CPR B/15"
+  },
+  {
+    "id": "467",
+    "name": "AMAREL 3MG CPR BTE 30"
+  },
+  {
+    "id": "468",
+    "name": "CLOMID 50MG CPR BT 10"
+  },
+  {
+    "id": "469",
+    "name": "COAPROVEL 300/12,5MG CPR PELL B/28"
+  },
+  {
+    "id": "470",
+    "name": "ERCEFURYL 200MG GELULE BT 28"
+  },
+  {
+    "id": "471",
+    "name": "FLIXOTIDE 50MCG SUSP INH AER 120DOS B/1"
+  },
+  {
+    "id": "472",
+    "name": "FLOXSOL 0,3% COLL F/5ML"
+  },
+  {
+    "id": "473",
+    "name": "FLOXAPEN 125MG SP F/100ML"
+  },
+  {
+    "id": "474",
+    "name": "FLOXAPEN 250MG SP F/100ML"
+  },
+  {
+    "id": "475",
+    "name": "FLOXIN 750MG CPR B/10"
+  },
+  {
+    "id": "476",
+    "name": "FLOXAPEN 500MG GEL B/20 SD"
+  },
+  {
+    "id": "477",
+    "name": "FLUCAZOL 100MG GEL B/10"
+  },
+  {
+    "id": "478",
+    "name": "FLUCAZOL 50MG/5ML PDRE SUSP BUV F/60ML"
+  },
+  {
+    "id": "479",
+    "name": "FLUCA COLL F/5ML"
+  },
+  {
+    "id": "480",
+    "name": "FLUDITEC AD SP 5% F/300ML"
+  },
+  {
+    "id": "481",
+    "name": "FLUDITEC 750MG SP SACH 10ML B/15"
+  },
+  {
+    "id": "482",
+    "name": "FLUGEN 100MG CPR B/10"
+  },
+  {
+    "id": "483",
+    "name": "FLUGEN 50MG/5ML PDRE SUSP BUV F/60ML"
+  },
+  {
+    "id": "484",
+    "name": "FLUIMUCIL EXPECT 200MG GR SOL BUV SACH30"
+  },
+  {
+    "id": "485",
+    "name": "FLUDITEC AD SIROP 5% FL125ML"
+  },
+  {
+    "id": "486",
+    "name": "FLUOCARIL KID DENTIF FRAIS 2/6ANS T/50ML"
+  },
+  {
+    "id": "487",
+    "name": "FLUTIAIR 0,05% SOL PULV NAS F/12ML B/120"
+  },
+  {
+    "id": "488",
+    "name": "FLUVERMAL 100MG CPR BT 6"
+  },
+  {
+    "id": "489",
+    "name": "FLUVERMAL 20MG/ML SUSP FL 30ML"
+  },
+  {
+    "id": "490",
+    "name": "FORCAN 150MG CAPS B/1 HP"
+  },
+  {
+    "id": "491",
+    "name": "FORLAX 10G PDRE SOL BUV SACH B/20"
+  },
+  {
+    "id": "492",
+    "name": "FORLAX 10G BUV SACH B/10"
+  },
+  {
+    "id": "493",
+    "name": "FORTONIC VITALITE AMP BUV B/20"
+  },
+  {
+    "id": "494",
+    "name": "FORTICOL SUSP BUV AMP10ML B/20"
+  },
+  {
+    "id": "495",
+    "name": "FRAKIDEX COLLYRE FL 5ML"
+  },
+  {
+    "id": "496",
+    "name": "FRAKIDEX POMMADE OPHT TB 5G"
+  },
+  {
+    "id": "497",
+    "name": "FUCIDINE 2% CREME DERMQ TB 15G"
+  },
+  {
+    "id": "498",
+    "name": "FUCIDINE 2% POMMADE DERM TB15G"
+  },
+  {
+    "id": "499",
+    "name": "FUCLO 500MG GEL B/24"
+  },
+  {
+    "id": "500",
+    "name": "FUMAFER 200MG (FER66MG) CPR B/100"
+  },
+  {
+    "id": "501",
+    "name": "FUMAFER POUDRE CHOCOLAT BT 50G"
+  },
+  {
+    "id": "502",
+    "name": "FUNGIZONE NN FL/40ML + PIPETTE"
+  },
+  {
+    "id": "503",
+    "name": "FUROSEMIDE 40MG CREA CP 10BL10"
+  },
+  {
+    "id": "504",
+    "name": "GALACTOGIL LACT PDR S BUV SACH/3,226G/24"
+  },
+  {
+    "id": "505",
+    "name": "GAMALATE B6 COMP B/20"
+  },
+  {
+    "id": "506",
+    "name": "GAMALATE B6 SOL BUV FL 80ML"
+  },
+  {
+    "id": "507",
+    "name": "GANT CHIRUR STER LABELL T8 /1"
+  },
+  {
+    "id": "508",
+    "name": "GANT CHIRUR STER LABELL T7,5/1"
+  },
+  {
+    "id": "509",
+    "name": "GANT CHIRUR STER LABELL T7/1"
+  },
+  {
+    "id": "510",
+    "name": "GARDENAL 50MG CPR B/30"
+  },
+  {
+    "id": "511",
+    "name": "GARDENAL 10MG CPR BT 80"
+  },
+  {
+    "id": "512",
+    "name": "GASPRAL 20MG GEL B/30"
+  },
+  {
+    "id": "513",
+    "name": "GASPRAL 40MG PDRE INJ + SOLV 5ML B/1"
+  },
+  {
+    "id": "514",
+    "name": "GASTROGEL CPR B/40"
+  },
+  {
+    "id": "515",
+    "name": "GASTROGEL SUSP BUV F/250ML"
+  },
+  {
+    "id": "516",
+    "name": "GASTROMAG 250/250MG SP F/200ML"
+  },
+  {
+    "id": "517",
+    "name": "GATISTAR COLL F/5ML"
+  },
+  {
+    "id": "518",
+    "name": "GELDENE 0,5% GEL EXT T/50G"
+  },
+  {
+    "id": "519",
+    "name": "GENES PLUS CPR EFFV BL B/12"
+  },
+  {
+    "id": "520",
+    "name": "GINKOR FORT GELULE BT 30"
+  },
+  {
+    "id": "521",
+    "name": "GLIBOMET 400MG/2,5MG CPR B/40"
+  },
+  {
+    "id": "522",
+    "name": "GLUCOPHAGE 850MG CPR BT 30"
+  },
+  {
+    "id": "523",
+    "name": "GLUCOVANCE 500MG/5MG CPR B/30"
+  },
+  {
+    "id": "524",
+    "name": "GLUCOPHAGE 500MG CPR B/30"
+  },
+  {
+    "id": "525",
+    "name": "GLUCOPHAGE 1000MG CPR B/30"
+  },
+  {
+    "id": "526",
+    "name": "GRISEOFULVINE CR*500MG 10BLI10"
+  },
+  {
+    "id": "527",
+    "name": "GRISEOFULVINE CR*250MG 10BLI10"
+  },
+  {
+    "id": "528",
+    "name": "GUAFLEX SP F/120ML"
+  },
+  {
+    "id": "529",
+    "name": "GUDOO EAU DIGESTIVE SOL BUV F/120ML"
+  },
+  {
+    "id": "530",
+    "name": "GYNECLINE 200MG CPR B/10"
+  },
+  {
+    "id": "531",
+    "name": "HALDOL 5MG CPR BT 30"
+  },
+  {
+    "id": "532",
+    "name": "HELICIDINE 10% SIROP 250ML"
+  },
+  {
+    "id": "533",
+    "name": "HELICOCIN 750MG/500MG CPR B/42"
+  },
+  {
+    "id": "534",
+    "name": "HELMINTOX 125MG CPR BT 6"
+  },
+  {
+    "id": "535",
+    "name": "HELMINTOX 250MG CPR BT 3"
+  },
+  {
+    "id": "536",
+    "name": "HELMINTOX 5% SUSP BUV FV 15ML"
+  },
+  {
+    "id": "537",
+    "name": "HELMINTOX SACH 15ML B/1"
+  },
+  {
+    "id": "538",
+    "name": "HEMAFER FOL 100MG CPR EFFV B/12"
+  },
+  {
+    "id": "539",
+    "name": "HEMI DAONIL 2,5MG CPR BT 60"
+  },
+  {
+    "id": "540",
+    "name": "HEMOREX SUPPO B/10"
+  },
+  {
+    "id": "541",
+    "name": "HEPAX SOL BUV F/125ML"
+  },
+  {
+    "id": "542",
+    "name": "HEPTAMYL 187,8MG CPR B/20"
+  },
+  {
+    "id": "543",
+    "name": "HEXASPRAY COLLU FL PRESSUR 30G"
+  },
+  {
+    "id": "544",
+    "name": "HICONCIL 500MG PDRE SIR F/60ML"
+  },
+  {
+    "id": "545",
+    "name": "HICONCIL 250MG PDRE SIR F/60ML"
+  },
+  {
+    "id": "546",
+    "name": "HICONCIL 125MG PDRE SIR F/60ML"
+  },
+  {
+    "id": "547",
+    "name": "HOMEOVOX CPR DRG BT 60"
+  },
+  {
+    "id": "548",
+    "name": "HUMEX PHOLCODINE AD SP TX SECHE F/250ML"
+  },
+  {
+    "id": "549",
+    "name": "HUMEX0,33MG/ML TX SECHE OXOMEMA SP/150ML"
+  },
+  {
+    "id": "550",
+    "name": "HYDROSOL POLYVIT PHARMA BUV GTE F/20ML"
+  },
+  {
+    "id": "551",
+    "name": "HYDROXYDE ALU+MG CPR 10BL12"
+  },
+  {
+    "id": "552",
+    "name": "IBEX 200/235/30MG GEL B/24"
+  },
+  {
+    "id": "553",
+    "name": "IBUFEN SUSP BUV F/200ML"
+  },
+  {
+    "id": "554",
+    "name": "IBUMOL 400MG/325MG CPR B/30"
+  },
+  {
+    "id": "555",
+    "name": "IBUMOL SP F/60ML"
+  },
+  {
+    "id": "556",
+    "name": "IBUPROFENE 400MG COMP 10BL/10"
+  },
+  {
+    "id": "557",
+    "name": "IBUPROFENE UBI  400MG CPR 10 BL 10"
+  },
+  {
+    "id": "558",
+    "name": "IBUPROFEN DENK 400MG CPR B/20"
+  },
+  {
+    "id": "559",
+    "name": "IDEOS CPR B/30"
+  },
+  {
+    "id": "560",
+    "name": "IMODIUM 2MG GELULE BT 20"
+  },
+  {
+    "id": "561",
+    "name": "INDOCOLLYRE 0,1% ETO F/5ML B/1"
+  },
+  {
+    "id": "562",
+    "name": "INEXIUM 40MG CPR B/14"
+  },
+  {
+    "id": "563",
+    "name": "INFLACAM 20MG CPR DISP B/10"
+  },
+  {
+    "id": "564",
+    "name": "INSULIN ACTRAPID 100UI/ML SOL INJ F/10ML"
+  },
+  {
+    "id": "565",
+    "name": "INTETRIX GEL B/20"
+  },
+  {
+    "id": "566",
+    "name": "INTIMY GEL LUBRIF INTIME T/70ML"
+  },
+  {
+    "id": "567",
+    "name": "IPOZOLE 20MG CPR B/10"
+  },
+  {
+    "id": "568",
+    "name": "IPOZOLE 20MG GEL B/30"
+  },
+  {
+    "id": "569",
+    "name": "ISOBAR 50 COMP BTE 30"
+  },
+  {
+    "id": "570",
+    "name": "ISOFRA GTTES NASAL FL 15ML"
+  },
+  {
+    "id": "571",
+    "name": "ISOLONE 5MG CPR EFFV B/30"
+  },
+  {
+    "id": "572",
+    "name": "ISOLONE 20MG CPR EFFV B/20"
+  },
+  {
+    "id": "573",
+    "name": "IZ 200 200MG/5ML PDRE SUSP BUV F/15ML"
+  },
+  {
+    "id": "574",
+    "name": "IZ-500 CPR B/3"
+  },
+  {
+    "id": "575",
+    "name": "JOINT ACTIVE DENK CPR B/30"
+  },
+  {
+    "id": "576",
+    "name": "JOSACINE 500MG CPR BT 20"
+  },
+  {
+    "id": "577",
+    "name": "JOSACINE 500MG BUV GLE FL 60ML"
+  },
+  {
+    "id": "578",
+    "name": "JOSACINE 250MG BUV GLE FL 60ML"
+  },
+  {
+    "id": "579",
+    "name": "JOSACINE 125MG BUV GLE FL 60ML"
+  },
+  {
+    "id": "580",
+    "name": "JOUVENCE ABBE SOURY FV 210ML"
+  },
+  {
+    "id": "581",
+    "name": "JOUVENCE ABBE SOURY CPR B/180"
+  },
+  {
+    "id": "582",
+    "name": "JUVAMINE FIZZ MG+VIT B6B2EFF30"
+  },
+  {
+    "id": "583",
+    "name": "JUVAMINE VIT C 1000 CPR EFFV30"
+  },
+  {
+    "id": "584",
+    "name": "KEFOTAX 1G IM/IV PDRE INJ 1FL+SOLV /1"
+  },
+  {
+    "id": "585",
+    "name": "KEFROX 125MG/5ML SUSP ORALE F/50ML"
+  },
+  {
+    "id": "586",
+    "name": "KETESSE 25MG CPR B/20"
+  },
+  {
+    "id": "587",
+    "name": "KETODERM 2% CREME DERMQ TB 15G"
+  },
+  {
+    "id": "588",
+    "name": "KETONAL 100MG SOL INJ B/5"
+  },
+  {
+    "id": "589",
+    "name": "KETUM 2,5% GEL T/60G"
+  },
+  {
+    "id": "590",
+    "name": "KETUM 2,5% GEL TUBE DOSEUR /120G"
+  },
+  {
+    "id": "591",
+    "name": "KINAL PROMETHAZINE SUPPO ENF10"
+  },
+  {
+    "id": "592",
+    "name": "KINAL PROMETHAZINE SUPPO BB/10"
+  },
+  {
+    "id": "593",
+    "name": "KLACIN PED 156,25MG/5ML PDRE SUSP/100ML"
+  },
+  {
+    "id": "594",
+    "name": "KLACIN PED FORT312,5MG/5ML PDR SUSP100ML"
+  },
+  {
+    "id": "595",
+    "name": "KL BB GEL MOUS CHV/CORPS 500ML"
+  },
+  {
+    "id": "596",
+    "name": "KL BB LING B/70"
+  },
+  {
+    "id": "597",
+    "name": "KL BB LAIT HYDR F/750ML"
+  },
+  {
+    "id": "598",
+    "name": "KL BB SAVON SURGRAS PAIN 250G"
+  },
+  {
+    "id": "599",
+    "name": "KLIPAL CODEINE 300MG CPR B/16"
+  },
+  {
+    "id": "600",
+    "name": "KLIPAL CODEINE 600MG CPR B/12"
+  },
+  {
+    "id": "601",
+    "name": "KL BB EAU FRAICH PARF F/500ML"
+  },
+  {
+    "id": "602",
+    "name": "LACOMA COLL F/2,5ML"
+  },
+  {
+    "id": "603",
+    "name": "LAMISIL 1% CR T/15G"
+  },
+  {
+    "id": "604",
+    "name": "LANSEC 30MG CAPS B/14 HP"
+  },
+  {
+    "id": "605",
+    "name": "LARITEM 80/480MG CPR B/6"
+  },
+  {
+    "id": "606",
+    "name": "LARMES ARTIFICIEL COLLY FL10ML"
+  },
+  {
+    "id": "607",
+    "name": "LAROSCORBINE 500MG SS CPR CROQ B/30"
+  },
+  {
+    "id": "608",
+    "name": "LASILIX RETARD 60MG GELU BT 30"
+  },
+  {
+    "id": "609",
+    "name": "LASILIX 40MG CPR B/30"
+  },
+  {
+    "id": "610",
+    "name": "LERIN 0,125MG CPR B/30"
+  },
+  {
+    "id": "611",
+    "name": "LESSTROL 20MG CPR B/30"
+  },
+  {
+    "id": "612",
+    "name": "LESSTROL 10MG CPR B/30"
+  },
+  {
+    "id": "613",
+    "name": "LEUKOPLAST S 5MX2CM"
+  },
+  {
+    "id": "614",
+    "name": "LEUKOPLAST S 5MX18CM PERF"
+  },
+  {
+    "id": "615",
+    "name": "LEUKOPLAST S 5MX5CM PERF"
+  },
+  {
+    "id": "616",
+    "name": "LEVOPHTA 0,05% COLLYRE FL 5ML"
+  },
+  {
+    "id": "617",
+    "name": "LEVO TEST DE GROSSESSE"
+  },
+  {
+    "id": "618",
+    "name": "LEXOFEN PLUS 500/400MG CPR B/20"
+  },
+  {
+    "id": "619",
+    "name": "LEXOFEN 600MG CPR B/20"
+  },
+  {
+    "id": "620",
+    "name": "LEXOFEN PLUS JR 100/125MG SUSP BUV/100ML"
+  },
+  {
+    "id": "621",
+    "name": "LIBIDO WOMEN GEL B/45"
+  },
+  {
+    "id": "622",
+    "name": "LILGRO-H SP F/100ML"
+  },
+  {
+    "id": "623",
+    "name": "LINCOMYCINE 500MG ETUI 12"
+  },
+  {
+    "id": "624",
+    "name": "LIPANTHYL 200MG GEL B/30"
+  },
+  {
+    "id": "625",
+    "name": "LIPOVAS 10MG CPR B/30"
+  },
+  {
+    "id": "626",
+    "name": "LITACOLD CPR B/80"
+  },
+  {
+    "id": "627",
+    "name": "LITACOLD SP F/100ML"
+  },
+  {
+    "id": "628",
+    "name": "L-MESITRAN SOFT GEL T/15G"
+  },
+  {
+    "id": "629",
+    "name": "LOCOID CREME DERMQ TB 30G"
+  },
+  {
+    "id": "630",
+    "name": "LODOZ 5MG/6,25MG CPR PELL B/30"
+  },
+  {
+    "id": "631",
+    "name": "LODOZ 2,5MG/6,25MG CPR PELL B/30"
+  },
+  {
+    "id": "632",
+    "name": "LOFNAC P 50MG/500MG CPR B/10"
+  },
+  {
+    "id": "633",
+    "name": "LOMAC 40MG INJ PDRE+SOLV F/10ML B/1 HP"
+  },
+  {
+    "id": "634",
+    "name": "LOMAC 20MG CAPS B/14 HP"
+  },
+  {
+    "id": "635",
+    "name": "LONGAMYCINE 200MG CPR B/8"
+  },
+  {
+    "id": "636",
+    "name": "LOPERAMIDE CREAT 2MG GEL B/20"
+  },
+  {
+    "id": "637",
+    "name": "LOPERAMIDE CREAT 2MG GEL B/100"
+  },
+  {
+    "id": "638",
+    "name": "LOPINE 5MG CPR B/30"
+  },
+  {
+    "id": "639",
+    "name": "LOPINE 10MG CPR B/30"
+  },
+  {
+    "id": "640",
+    "name": "LORHIST 5MG SUSP BUV F/60ML"
+  },
+  {
+    "id": "641",
+    "name": "LOVENOX 8000UI ANTI XA SER 0,8ML B/2"
+  },
+  {
+    "id": "642",
+    "name": "LOXAIR 100MCG AER DOSES/200"
+  },
+  {
+    "id": "643",
+    "name": "LRJ 30MG COLL F/10ML"
+  },
+  {
+    "id": "644",
+    "name": "LUFANTER 180/1080MG SUSP BUV F/60ML"
+  },
+  {
+    "id": "645",
+    "name": "LUFANTER 40MG/240MG CPR B/12"
+  },
+  {
+    "id": "646",
+    "name": "LUFANTER PED CPR DISP B/6"
+  },
+  {
+    "id": "647",
+    "name": "LUFANTER 80/480MG PDRE SUSP BUV SACH B/6"
+  },
+  {
+    "id": "648",
+    "name": "LUMARTEM 20/120MG CPR B/24 HP"
+  },
+  {
+    "id": "649",
+    "name": "MAALOX BUV SUSP FV 250ML"
+  },
+  {
+    "id": "650",
+    "name": "MAGNE B6 BUV AMP 10ML BT 10"
+  },
+  {
+    "id": "651",
+    "name": "MAGNESIUM B6B2 BIOFAR CP EFF20"
+  },
+  {
+    "id": "652",
+    "name": "MAGNESIUM MARIN FORT CPR B/30"
+  },
+  {
+    "id": "653",
+    "name": "MAGNES DIRECT DENK PDRE SACH B/30"
+  },
+  {
+    "id": "654",
+    "name": "MAG 2 INJECTABLE AMP 10ML BT12"
+  },
+  {
+    "id": "655",
+    "name": "MAG 2 SS SUCRE AMP 10ML B/30"
+  },
+  {
+    "id": "656",
+    "name": "MALACUR 90MG/720MG SUSP BUV F/60ML"
+  },
+  {
+    "id": "657",
+    "name": "MALACUR 40MG/320MG CPR B/9"
+  },
+  {
+    "id": "658",
+    "name": "MANIX GEL B/20"
+  },
+  {
+    "id": "659",
+    "name": "MANIX GEL MASS FRAISE COMESTIBLE F/200ML"
+  },
+  {
+    "id": "660",
+    "name": "MAXIDEX COLL F/3ML"
+  },
+  {
+    "id": "661",
+    "name": "MAXILASE 3000 CPR DRG BT 24"
+  },
+  {
+    "id": "662",
+    "name": "MAXIDROL PDE OPHT T/3,5G"
+  },
+  {
+    "id": "663",
+    "name": "MAXILASE 200U/ML SIROP FL125ML"
+  },
+  {
+    "id": "664",
+    "name": "MAXIMAG AMP BUV B/30"
+  },
+  {
+    "id": "665",
+    "name": "MEBENDAZOLE UBI 100MG/5ML SP F/30ML"
+  },
+  {
+    "id": "666",
+    "name": "MEDOMOX 250MG/5ML SUSP BUV F/60ML"
+  },
+  {
+    "id": "667",
+    "name": "MEDVITE SOL BUV GTTE F/25ML"
+  },
+  {
+    "id": "668",
+    "name": "MEPAFLOXIN 750MG CPR B/5"
+  },
+  {
+    "id": "669",
+    "name": "MERONIA 1G PDRE SOL INJ F/30ML"
+  },
+  {
+    "id": "670",
+    "name": "MESPORIN 1G AMP INJ IM B/1"
+  },
+  {
+    "id": "671",
+    "name": "MESPORIN 1G AMP INJ IV B/1"
+  },
+  {
+    "id": "672",
+    "name": "METFORMIN DENK500MG CPR/100 BL"
+  },
+  {
+    "id": "673",
+    "name": "METFORMIN DENK850MG CPR/120 BL"
+  },
+  {
+    "id": "674",
+    "name": "METFORMIN DENK 1G CPR B/30"
+  },
+  {
+    "id": "675",
+    "name": "METFORAL 1G CPR B/30"
+  },
+  {
+    "id": "676",
+    "name": "METHYLDOPA 250MG CPR BL/10"
+  },
+  {
+    "id": "677",
+    "name": "METRONIDAZOL CREA*250MG 10BL10"
+  },
+  {
+    "id": "678",
+    "name": "METRONIDAZOL CREAT 500MG CPR 10BL10"
+  },
+  {
+    "id": "679",
+    "name": "METRONYL 500MG CPR B/20"
+  },
+  {
+    "id": "680",
+    "name": "METRONIDAZOLE UBI 250MG CPR 100 BL 10"
+  },
+  {
+    "id": "681",
+    "name": "METRONIDAZOLE UBI 500MG SOL INJ F/100ML"
+  },
+  {
+    "id": "682",
+    "name": "METRONIDAZOLE UBI 125MG/5ML SP F/100ML"
+  },
+  {
+    "id": "683",
+    "name": "METROWIN 500MG SOL INJ F/100"
+  },
+  {
+    "id": "684",
+    "name": "MIGRETIL 1MG/100MG/0,1MG/400MG CPR B/20"
+  },
+  {
+    "id": "685",
+    "name": "MIOREL 4MG GELULE BTE 12"
+  },
+  {
+    "id": "686",
+    "name": "MIOREL 4MG/2ML SOL INJ AMP 2ML B/5"
+  },
+  {
+    "id": "687",
+    "name": "MITOSYL POMMADE DERMQ TB 150G"
+  },
+  {
+    "id": "688",
+    "name": "MITOSYL PDE DERMQ ALUMINIUM T/65G"
+  },
+  {
+    "id": "689",
+    "name": "MUCODRENOL 6MG/ML SP F/200ML"
+  },
+  {
+    "id": "690",
+    "name": "MUKESTAT 150MG CPR B/4"
+  },
+  {
+    "id": "691",
+    "name": "MULTIVIT12 FLAVO BIOFAR CPR EFFV T20"
+  },
+  {
+    "id": "692",
+    "name": "MYCOSTATINE BUV SUSP FL 24ML"
+  },
+  {
+    "id": "693",
+    "name": "MYCOLEX 2% CR T/20G"
+  },
+  {
+    "id": "694",
+    "name": "NABYOL FORTE 100MG CPR PELL B/50"
+  },
+  {
+    "id": "695",
+    "name": "NATRIXAM 1,5/5MG CPR B/30"
+  },
+  {
+    "id": "696",
+    "name": "NATRIXAM 1,5/10MG CPR B/30"
+  },
+  {
+    "id": "697",
+    "name": "NAUSELIUM 1MG/ML F/200ML"
+  },
+  {
+    "id": "698",
+    "name": "NEALGYL 80MG CPR DISP B/10"
+  },
+  {
+    "id": "699",
+    "name": "NEOCODION CPR DRG BT 20"
+  },
+  {
+    "id": "700",
+    "name": "NEOCODION ADULTE SIROP FL180ML"
+  },
+  {
+    "id": "701",
+    "name": "NEOCODION ENFANT SIROP FL125ML"
+  },
+  {
+    "id": "702",
+    "name": "NEOCODION BEBE SIROP FL 125ML"
+  },
+  {
+    "id": "703",
+    "name": "NEOPRED COLL F/5ML"
+  },
+  {
+    "id": "704",
+    "name": "NESTEFFER 1000MG CPR EFFV B/8"
+  },
+  {
+    "id": "705",
+    "name": "NIDAZOL 500MG CPR B/20"
+  },
+  {
+    "id": "706",
+    "name": "NIFEDI DENK 10MG LP CPR B/100"
+  },
+  {
+    "id": "707",
+    "name": "NIFELAT RETARD 20MG CPR B/200 HP"
+  },
+  {
+    "id": "708",
+    "name": "NOBACTER SAV PSENS PAIN/100G"
+  },
+  {
+    "id": "709",
+    "name": "NOOTROPYL 1G INJ AMP 5ML BT 12"
+  },
+  {
+    "id": "710",
+    "name": "NOOTROPYL 800MG CPR B/45"
+  },
+  {
+    "id": "711",
+    "name": "NORFIX 400MG CPR ENR B/10"
+  },
+  {
+    "id": "712",
+    "name": "NORLEVO 1,5MG CPR B/1"
+  },
+  {
+    "id": "713",
+    "name": "NORMACOL LAVEMENT ADULT.F130ML"
+  },
+  {
+    "id": "714",
+    "name": "NORMACOL LAVEMENT ENF. FL 60ML"
+  },
+  {
+    "id": "715",
+    "name": "NORMET SUSP F/30ML"
+  },
+  {
+    "id": "716",
+    "name": "NORMET 200MG CPR B/10"
+  },
+  {
+    "id": "717",
+    "name": "NORMOPTIC 0,5% COLL F/5ML"
+  },
+  {
+    "id": "718",
+    "name": "NO SPA 40MG CPR B/20"
+  },
+  {
+    "id": "719",
+    "name": "NO SPA 40MG CPR B/100"
+  },
+  {
+    "id": "720",
+    "name": "NO SPA FORTE 80MG CPR B/20"
+  },
+  {
+    "id": "721",
+    "name": "NOVATEN 50 CPR B/28"
+  },
+  {
+    "id": "722",
+    "name": "NOVATEN AM CPR B/28"
+  },
+  {
+    "id": "723",
+    "name": "NOVEX 8000UI/0,8ML SER PREREMPL B/2"
+  },
+  {
+    "id": "724",
+    "name": "NOZINAN 100MG CPR BT 20"
+  },
+  {
+    "id": "725",
+    "name": "NOZINAN 25MG CPR BT 20"
+  },
+  {
+    "id": "726",
+    "name": "NUCLEO CMP INJ AMP BTE 3"
+  },
+  {
+    "id": "727",
+    "name": "NUCLEO CMP FORTE CAPS BTE 30"
+  },
+  {
+    "id": "728",
+    "name": "NURABOL 2MG SP F/125ML"
+  },
+  {
+    "id": "729",
+    "name": "NURAVIT SP F/125ML"
+  },
+  {
+    "id": "730",
+    "name": "NURABOL 4MG SP F/125ML"
+  },
+  {
+    "id": "731",
+    "name": "OFLOCET GOUTTES AURIC 1,5G B20"
+  },
+  {
+    "id": "732",
+    "name": "OFLOCINE PERF F/100ML"
+  },
+  {
+    "id": "733",
+    "name": "OLFEN 50MG GEL T/1"
+  },
+  {
+    "id": "734",
+    "name": "OLFEN 75MG SR DEPOTABS B/30"
+  },
+  {
+    "id": "735",
+    "name": "OMEPRAL 20MG GEL B/28"
+  },
+  {
+    "id": "736",
+    "name": "OMEZYN 20MG CAPS B/15"
+  },
+  {
+    "id": "737",
+    "name": "OMPRANYT 20MG GEL B/14"
+  },
+  {
+    "id": "738",
+    "name": "OPATANOL 1MG/ML COLL SOL F/5ML"
+  },
+  {
+    "id": "739",
+    "name": "OPTIFLOX COLL F/5ML"
+  },
+  {
+    "id": "740",
+    "name": "OPTICIN 0,3% COLL F/5ML"
+  },
+  {
+    "id": "741",
+    "name": "ORACEFAL 500MG/5ML PDRE SUSP BUV F/60ML"
+  },
+  {
+    "id": "742",
+    "name": "ORACEFAL 125MG/5ML PDRE SUSP BUV F/60ML"
+  },
+  {
+    "id": "743",
+    "name": "ORADROXYL 250MG/5ML SUSP F/60ML"
+  },
+  {
+    "id": "744",
+    "name": "ORCHAZIDE COLL F/5ML"
+  },
+  {
+    "id": "745",
+    "name": "ORELOX 40MG/5ML SUSP.PED.FL50ML"
+  },
+  {
+    "id": "746",
+    "name": "ORELOX 40MG/5ML SUSP.PED.FL100ML"
+  },
+  {
+    "id": "747",
+    "name": "ORELOX 100MG CPR BTE 10"
+  },
+  {
+    "id": "748",
+    "name": "ORELOX 200MG CPR PELL B/10"
+  },
+  {
+    "id": "749",
+    "name": "OREX125MG/5ML GRANULE PR SUSP BUV F/60ML"
+  },
+  {
+    "id": "750",
+    "name": "OREX 250MG/5ML F/60ML"
+  },
+  {
+    "id": "751",
+    "name": "OROFER GEL B/40"
+  },
+  {
+    "id": "752",
+    "name": "OROKEN 100MG PDR.SUSP.FL200DOS"
+  },
+  {
+    "id": "753",
+    "name": "OROPERIDYS 10MG CPR ORODISP B/30"
+  },
+  {
+    "id": "754",
+    "name": "OSPAMOX 250MG/5ML GR F/60ML"
+  },
+  {
+    "id": "755",
+    "name": "OSPEN 1MUI CPR BT 12"
+  },
+  {
+    "id": "756",
+    "name": "OTIPAX SOL AURIC CPTE GTTE F/15ML AFR"
+  },
+  {
+    "id": "757",
+    "name": "OTOFA SOL AURIC FL 10ML"
+  },
+  {
+    "id": "758",
+    "name": "OTRIVINE 0,05% ENFANT F/10ML"
+  },
+  {
+    "id": "759",
+    "name": "OTRIVINE 0,1% GTTE NAS F/10ML"
+  },
+  {
+    "id": "760",
+    "name": "OVUMIX OVULES VAG B/6"
+  },
+  {
+    "id": "761",
+    "name": "OXYBOLDINE CPR EFFV T/24"
+  },
+  {
+    "id": "762",
+    "name": "OXYPLASTINE PDE DERMQ TB 135G"
+  },
+  {
+    "id": "763",
+    "name": "OZIBEN 500MG CPR B/1"
+  },
+  {
+    "id": "764",
+    "name": "OZIBEN 100MG SUSP BUV F/30ML"
+  },
+  {
+    "id": "765",
+    "name": "OZIBEN 200MG SACH B/3"
+  },
+  {
+    "id": "766",
+    "name": "PAIDOTERIN SOL ORALE FL 100ML"
+  },
+  {
+    "id": "767",
+    "name": "PAIDOFEBRIL 100MG/5ML SP F/200ML"
+  },
+  {
+    "id": "768",
+    "name": "PAINEX 325/400MG CPR B/10"
+  },
+  {
+    "id": "769",
+    "name": "PAINEX 100MG+162,5MG/5ML SUSP BUV F/60ML"
+  },
+  {
+    "id": "770",
+    "name": "PANADOL 2,4% ENF/NN SP F/100ML"
+  },
+  {
+    "id": "771",
+    "name": "PANADOL EXTRA 500MG/65MG CPR B/20"
+  },
+  {
+    "id": "772",
+    "name": "PANADOL ACTIFAST 500MG CPR B/20"
+  },
+  {
+    "id": "773",
+    "name": "PANOTILE GTTE AURICUL FL 8ML"
+  },
+  {
+    "id": "774",
+    "name": "PANTO DENK 40MG CPR B/28"
+  },
+  {
+    "id": "775",
+    "name": "PARACETAMOL 500MG 100 BLIST/10"
+  },
+  {
+    "id": "776",
+    "name": "PARACETAMOL DENK125MG SUPPO/10"
+  },
+  {
+    "id": "777",
+    "name": "PARACETAMOL DENK250MG SUPPO/10"
+  },
+  {
+    "id": "778",
+    "name": "PARACETAMOL UBI 500MG CPR 100 BL 10"
+  },
+  {
+    "id": "779",
+    "name": "PARACETAMOL UBI 120MG/5ML SP F/60ML"
+  },
+  {
+    "id": "780",
+    "name": "PARAFIZZ 500MG CPR EFFV B/48 HP"
+  },
+  {
+    "id": "781",
+    "name": "PARACETAMOL WINT 500MG CPR B/1000"
+  },
+  {
+    "id": "782",
+    "name": "PARODIUM GEL GINGIVAL TB 50ML"
+  },
+  {
+    "id": "783",
+    "name": "PARODONTAX PATE GING T/75ML"
+  },
+  {
+    "id": "784",
+    "name": "PARODONTAX GEL T/75ML"
+  },
+  {
+    "id": "785",
+    "name": "PARODONTAX BAIN BCHE F/500ML"
+  },
+  {
+    "id": "786",
+    "name": "PASSEDYL NN/ENF SP F/125ML"
+  },
+  {
+    "id": "787",
+    "name": "PASSIFLORINE BUV SOL FV 125ML"
+  },
+  {
+    "id": "788",
+    "name": "PECTRYL SIROP FL 150ML"
+  },
+  {
+    "id": "789",
+    "name": "PEITEL 0,25% CR T/30G"
+  },
+  {
+    "id": "790",
+    "name": "PEPSANE GEL ORAL SACH 10G BT30"
+  },
+  {
+    "id": "791",
+    "name": "PERFUSEUR LABELL AIG 19G/1"
+  },
+  {
+    "id": "792",
+    "name": "PERIDYS CPR BT 40"
+  },
+  {
+    "id": "793",
+    "name": "PERIDYS BUV SUSP FL 200ML"
+  },
+  {
+    "id": "794",
+    "name": "PERNABOL SP F/125ML"
+  },
+  {
+    "id": "795",
+    "name": "PERNABOL CPR B/30"
+  },
+  {
+    "id": "796",
+    "name": "PEVAGINE 1% CR T/30G"
+  },
+  {
+    "id": "797",
+    "name": "PHARMALGAN 1G SOL INJ F/100ML"
+  },
+  {
+    "id": "798",
+    "name": "PHENERGAN 2% CREME DERM TB 30G"
+  },
+  {
+    "id": "799",
+    "name": "PHENERGAN 5MG/5ML SIR FL 150ML"
+  },
+  {
+    "id": "800",
+    "name": "PHYSIODOSE SERUM PHYSIO 5ML/15"
+  },
+  {
+    "id": "801",
+    "name": "PHYTORAL 2% PDE T/15G"
+  },
+  {
+    "id": "802",
+    "name": "PINKOO EAU DIGESTIVE ET TONIQ F/120ML"
+  },
+  {
+    "id": "803",
+    "name": "PIROXEN 20MG CPR DISP B/12"
+  },
+  {
+    "id": "804",
+    "name": "PNEUMOXOL 15MG/5ML SOL BUV F/100ML"
+  },
+  {
+    "id": "805",
+    "name": "POLYDEXA SOL AURIC FL 10,5ML"
+  },
+  {
+    "id": "806",
+    "name": "POLYVITINE SP F/125ML"
+  },
+  {
+    "id": "807",
+    "name": "POLYVIT SP F/100ML"
+  },
+  {
+    "id": "808",
+    "name": "POSITON CR T/30G"
+  },
+  {
+    "id": "809",
+    "name": "POSITON ONGUENT T/30G"
+  },
+  {
+    "id": "810",
+    "name": "POTA+MAG BIOFAR CPR EFFV T/20"
+  },
+  {
+    "id": "811",
+    "name": "POTENCIATOR AMP BUV 10ML B/20"
+  },
+  {
+    "id": "812",
+    "name": "POWERGRA 100MG CPR B/4"
+  },
+  {
+    "id": "813",
+    "name": "PRAXILENE 200MG CPR BT 20"
+  },
+  {
+    "id": "814",
+    "name": "PRENATAL DENK CPR B/30"
+  },
+  {
+    "id": "815",
+    "name": "PRENATAL + DENK DHA CPR/30 GEL/30"
+  },
+  {
+    "id": "816",
+    "name": "PRESERV MANIX CONTACT B/6"
+  },
+  {
+    "id": "817",
+    "name": "PRESERV DOMINO MENTHE /6"
+  },
+  {
+    "id": "818",
+    "name": "PRESERV DOMINO FRAISE /6"
+  },
+  {
+    "id": "819",
+    "name": "PRESERV DOMINO VANILLE/6"
+  },
+  {
+    "id": "820",
+    "name": "PRESERV DOMINO NATURE /6"
+  },
+  {
+    "id": "821",
+    "name": "PRESERV INNOTEX COCKTAIL B/3 F/A"
+  },
+  {
+    "id": "822",
+    "name": "PRESERV INNOTEX NATURAL B/3 F/A"
+  },
+  {
+    "id": "823",
+    "name": "PRESERV MANIX KING SIZE B/3"
+  },
+  {
+    "id": "824",
+    "name": "PRESERV MANIX ULTRA PROTECT B/12"
+  },
+  {
+    "id": "825",
+    "name": "PRESERV MANIX CONTACT 3 B/3"
+  },
+  {
+    "id": "826",
+    "name": "PRESERV GAGNANT POCH/3"
+  },
+  {
+    "id": "827",
+    "name": "PRESERV DOMINO NERVURE PERLE ANTOMIQ B/6"
+  },
+  {
+    "id": "828",
+    "name": "PRESERV MANIX SUPER RESERV LUBRIF CART/4"
+  },
+  {
+    "id": "829",
+    "name": "PRESERV MANIX SUPER B/6"
+  },
+  {
+    "id": "830",
+    "name": "PRESERV MANIX SKYN SELECTION B/9"
+  },
+  {
+    "id": "831",
+    "name": "PRESERV MANIX SKYN ELITE B/10"
+  },
+  {
+    "id": "832",
+    "name": "PRESERV DOMINO MENTHE B/12"
+  },
+  {
+    "id": "833",
+    "name": "PREVISCAN 20MG CPR BTE 30"
+  },
+  {
+    "id": "834",
+    "name": "PRIMALAN 30MG SP + CUILL F/60ML"
+  },
+  {
+    "id": "835",
+    "name": "PRIMALAC PREMIUM 1 LAIT PDRE B/400G"
+  },
+  {
+    "id": "836",
+    "name": "PRIMALAC AC 0-12 MOIS LAIT PDRE B/400G"
+  },
+  {
+    "id": "837",
+    "name": "PRIMOLUT-NOR 10MG CPR B/30"
+  },
+  {
+    "id": "838",
+    "name": "PRINCI B FORT CPR BT 30"
+  },
+  {
+    "id": "839",
+    "name": "PROCOMIL FL SPRAY 15G"
+  },
+  {
+    "id": "840",
+    "name": "PROFENID 100MG SUPPO BT 12"
+  },
+  {
+    "id": "841",
+    "name": "PROFENOL CPR B/20"
+  },
+  {
+    "id": "842",
+    "name": "PROFENOL SUSP BUV F/100ML"
+  },
+  {
+    "id": "843",
+    "name": "PROFENID 100MG PDRE SOL INJ IV F/50"
+  },
+  {
+    "id": "844",
+    "name": "PROFENID 0,1% SUSP BUV F/150ML"
+  },
+  {
+    "id": "845",
+    "name": "PROGESTERONE RET PHA 500MG INJ AMP2ML /3"
+  },
+  {
+    "id": "846",
+    "name": "PROKEFEN 100MG CPR DISP B/30"
+  },
+  {
+    "id": "847",
+    "name": "PROPOFAN GEL B/15"
+  },
+  {
+    "id": "848",
+    "name": "PULMOSERUM SOLT BUV FL200ML GM"
+  },
+  {
+    "id": "849",
+    "name": "PYRALVEX GEL BUCCAL TB 15G"
+  },
+  {
+    "id": "850",
+    "name": "RAMET DALIBOUR PAIN 100G BT 1"
+  },
+  {
+    "id": "851",
+    "name": "RAMET DALIBOUR SOL.FP 250ML"
+  },
+  {
+    "id": "852",
+    "name": "RAMIDEX COLL COMPTE GTTE F/5ML"
+  },
+  {
+    "id": "853",
+    "name": "RAPICLAV 1G CPR B/14"
+  },
+  {
+    "id": "854",
+    "name": "RELAXON 250MG/300MG GEL B/30"
+  },
+  {
+    "id": "855",
+    "name": "RENERVE PLUS GEL B/30"
+  },
+  {
+    "id": "856",
+    "name": "RENERVE PLUS BT GEL B/30"
+  },
+  {
+    "id": "857",
+    "name": "RESIFURAN 0,9G/100ML EMULS BUV F/250ML"
+  },
+  {
+    "id": "858",
+    "name": "RESPIBIEN 0,5MG GTTE NAS F/15ML"
+  },
+  {
+    "id": "859",
+    "name": "RESTRIVA 500MG CPR B/20"
+  },
+  {
+    "id": "860",
+    "name": "REVITAL GELULE BT 30"
+  },
+  {
+    "id": "861",
+    "name": "REVITALOSE SS SOL BUV AMP/5ML B/20"
+  },
+  {
+    "id": "862",
+    "name": "RHINOFLUIMUCIL GTTE NAS FL10ML"
+  },
+  {
+    "id": "863",
+    "name": "RHINATHIOL ADULTE SIR FL 125ML"
+  },
+  {
+    "id": "864",
+    "name": "RHINATHIOL ADULTE SIR FL 300ML"
+  },
+  {
+    "id": "865",
+    "name": "RHINATHIOL ENFANT SIR FL 125ML"
+  },
+  {
+    "id": "866",
+    "name": "RHINATHIOL PROMETH.SIR FL125ML"
+  },
+  {
+    "id": "867",
+    "name": "RHINATHIOL AD 5% SP SS F/200ML"
+  },
+  {
+    "id": "868",
+    "name": "RIABAL ENFANT BUV SOL FL 50ML"
+  },
+  {
+    "id": "869",
+    "name": "RIBATRAN CPR BT 20"
+  },
+  {
+    "id": "870",
+    "name": "RIFAMYCINE CHIBR 1% COLLY 10ML"
+  },
+  {
+    "id": "871",
+    "name": "RINOGRIP SACH B/10"
+  },
+  {
+    "id": "872",
+    "name": "RINOMICINE SACH B/10"
+  },
+  {
+    "id": "873",
+    "name": "R-LUME 80/480MG CPR B/6"
+  },
+  {
+    "id": "874",
+    "name": "R-LUME 40/240MG CPR B/6"
+  },
+  {
+    "id": "875",
+    "name": "R-LUME 180MG/1080MG SUSP BUV F/60ML"
+  },
+  {
+    "id": "876",
+    "name": "ROCEPHINE 1G IM FL+AMP B/1"
+  },
+  {
+    "id": "877",
+    "name": "ROCEPHINE 500MG IM FL+AMP B/1"
+  },
+  {
+    "id": "878",
+    "name": "RONIC 1MG/ML COLL F/5ML"
+  },
+  {
+    "id": "879",
+    "name": "ROR SER/0.5ML B/1"
+  },
+  {
+    "id": "880",
+    "name": "ROVAMYCINE 3 MILLION CPR BT 10"
+  },
+  {
+    "id": "881",
+    "name": "ROXYL 300MG CPR B/5"
+  },
+  {
+    "id": "882",
+    "name": "RULID 150MG CPR BT 10"
+  },
+  {
+    "id": "883",
+    "name": "SALBUTUS SOL BUV F/100ML"
+  },
+  {
+    "id": "884",
+    "name": "SARGENOR 1G CPR EFFV SS B/20"
+  },
+  {
+    "id": "885",
+    "name": "SARGENOR VIT C CPR EFFV B/20"
+  },
+  {
+    "id": "886",
+    "name": "SARIDON CPR B/10"
+  },
+  {
+    "id": "887",
+    "name": "SEBIONEX.K KERATOREGUL CR T/40ML"
+  },
+  {
+    "id": "888",
+    "name": "SEBIONEX GEL MOUSS PURIF F/200ML"
+  },
+  {
+    "id": "889",
+    "name": "SECAMIB 1G CPR B/2"
+  },
+  {
+    "id": "890",
+    "name": "SEKISAN SOL BUV F/120ML"
+  },
+  {
+    "id": "891",
+    "name": "SEKROL 30MG/5ML AD SUSP BUV F/150ML"
+  },
+  {
+    "id": "892",
+    "name": "SEKROL 15MG/5ML SUSP BUV F/100ML"
+  },
+  {
+    "id": "893",
+    "name": "SENSODYNE DENT RAPIDE T/75ML"
+  },
+  {
+    "id": "894",
+    "name": "SENSODYNE SOIN BLANCHEUR T/75ML"
+  },
+  {
+    "id": "895",
+    "name": "SENSODYNE SOIN COMPLET T/75ML"
+  },
+  {
+    "id": "896",
+    "name": "SENSODYNE REPARE & PROTEGE DENTIF T/75ML"
+  },
+  {
+    "id": "897",
+    "name": "SENSODYNE REPAR&PROTEG BLANCH DENT/75ML"
+  },
+  {
+    "id": "898",
+    "name": "SEPTIVON NF SOL EXT FP 250ML"
+  },
+  {
+    "id": "899",
+    "name": "SERESTA 10MG CPR B/30"
+  },
+  {
+    "id": "900",
+    "name": "SERING UBI ONE 3P 5ML AIG/100"
+  },
+  {
+    "id": "901",
+    "name": "SERING UBI ONE 3P 10ML AIG/100"
+  },
+  {
+    "id": "902",
+    "name": "SHELCAL SP F/200ML"
+  },
+  {
+    "id": "903",
+    "name": "SILVEREX CR T/25G"
+  },
+  {
+    "id": "904",
+    "name": "SIROFEN 20MG/ML SUSP BUV F/150ML"
+  },
+  {
+    "id": "905",
+    "name": "SKILAX BUV GTTE FL 15ML"
+  },
+  {
+    "id": "906",
+    "name": "SMECTA PDRE SACH B/10"
+  },
+  {
+    "id": "907",
+    "name": "SOCLAV 100MG 12,5MG/ML F/60ML"
+  },
+  {
+    "id": "908",
+    "name": "SODIUM CHL0,9% KABIPAC F/500ML FRES"
+  },
+  {
+    "id": "909",
+    "name": "SOFFBAN PLUS OUATE ORTHOPED 10CMX2,7M/1"
+  },
+  {
+    "id": "910",
+    "name": "SOLCER SR 20MG GEL B/28"
+  },
+  {
+    "id": "911",
+    "name": "SOLEXIM 100MG/5ML PDRE SUSP BUV F/60ML"
+  },
+  {
+    "id": "912",
+    "name": "SOLEXIM 200MG CPR B/10"
+  },
+  {
+    "id": "913",
+    "name": "SOLUPRED 20MG CPR EFF BTE 20"
+  },
+  {
+    "id": "914",
+    "name": "SOMAZINA GTTE F/30ML"
+  },
+  {
+    "id": "915",
+    "name": "SOMAZINA 500MG AMP INJ B/5"
+  },
+  {
+    "id": "916",
+    "name": "SOMAZINA 1G AMP INJ 4ML B/5"
+  },
+  {
+    "id": "917",
+    "name": "SOPHTAL COLLYRE FL 10ML"
+  },
+  {
+    "id": "918",
+    "name": "SPASFON SUPPO B/10"
+  },
+  {
+    "id": "919",
+    "name": "SPASMO-APOTEL 600MG/20MG SOLINJ AMP4ML/3"
+  },
+  {
+    "id": "920",
+    "name": "SPASMO-APOTEL 800MG/10MG SUPPO B/5"
+  },
+  {
+    "id": "921",
+    "name": "SPIFEN 400MG CPR PELL B/20"
+  },
+  {
+    "id": "922",
+    "name": "SPIRALIDE 3MUI CPR B/16"
+  },
+  {
+    "id": "923",
+    "name": "STACEF 1G FL INJ+SOLV B/1"
+  },
+  {
+    "id": "924",
+    "name": "STAPHYPEN 125MG SP F/100ML"
+  },
+  {
+    "id": "925",
+    "name": "STAPHYPEN 500MG GEL B/20 SD"
+  },
+  {
+    "id": "926",
+    "name": "STARPEN 1000 B/12 COMP ENR."
+  },
+  {
+    "id": "927",
+    "name": "STERIMAR BEBE SOL NAS F/50ML"
+  },
+  {
+    "id": "928",
+    "name": "STILNOX 10MG CPR BT 20"
+  },
+  {
+    "id": "929",
+    "name": "STIMOGENE SP F/200ML"
+  },
+  {
+    "id": "930",
+    "name": "STRESAM GELULE B/24"
+  },
+  {
+    "id": "931",
+    "name": "STRUCTUM 500MG GEL B/60"
+  },
+  {
+    "id": "932",
+    "name": "SUFIX 200MG CPR PELL B/10"
+  },
+  {
+    "id": "933",
+    "name": "SULFOBACTIN 250MG CPR B/16"
+  },
+  {
+    "id": "934",
+    "name": "SULFOBACTIN 500MG CPR B/20"
+  },
+  {
+    "id": "935",
+    "name": "SUPPLIN 500MG CPR BT 20"
+  },
+  {
+    "id": "936",
+    "name": "SUPRALOX SUSP BUV FL/250ML"
+  },
+  {
+    "id": "937",
+    "name": "SURDEX SP F/60ML"
+  },
+  {
+    "id": "938",
+    "name": "SURGAM * 100MG * CPR BT 30"
+  },
+  {
+    "id": "939",
+    "name": "SURGAM 200MG CPR BT 20"
+  },
+  {
+    "id": "940",
+    "name": "SURMENALIT 200MG BT30"
+  },
+  {
+    "id": "941",
+    "name": "SURQUINA 250MG CPR SECAB B/18"
+  },
+  {
+    "id": "942",
+    "name": "SVR SEBIACLEAR EAU MICELL F/400ML"
+  },
+  {
+    "id": "943",
+    "name": "SYMPATHYL CPR PEL B/40"
+  },
+  {
+    "id": "944",
+    "name": "TANGANIL 500MG CPR BT 30"
+  },
+  {
+    "id": "945",
+    "name": "TARDYFERON B9 CPR DRG BT 30"
+  },
+  {
+    "id": "946",
+    "name": "TARDYFERON 80MG CPR BT 30"
+  },
+  {
+    "id": "947",
+    "name": "TEGRETOL 200MG CPR B/50"
+  },
+  {
+    "id": "948",
+    "name": "TEMESTA 1MG CPR SECAB B/30"
+  },
+  {
+    "id": "949",
+    "name": "TEMERIT 5MG CPR B/30"
+  },
+  {
+    "id": "950",
+    "name": "TENORMINE 50MG CPR B/30"
+  },
+  {
+    "id": "951",
+    "name": "TENORDATE GEL B/30"
+  },
+  {
+    "id": "952",
+    "name": "TENSICARD AM 50/5MG CPR B/30"
+  },
+  {
+    "id": "953",
+    "name": "TENSICARD 100MG CPR B/30"
+  },
+  {
+    "id": "954",
+    "name": "TERGYNAN CPR VAGINAUX BT 6"
+  },
+  {
+    "id": "955",
+    "name": "TERPONE ENF SP F/180ML"
+  },
+  {
+    "id": "956",
+    "name": "TETANEA 1500UI/ML SERUM SER B/1"
+  },
+  {
+    "id": "957",
+    "name": "THERALENE 0,05% SIROP FL 150ML"
+  },
+  {
+    "id": "958",
+    "name": "THIOBACTIN 250MG/5ML SUSP BUV 60ML"
+  },
+  {
+    "id": "959",
+    "name": "TICASSE 200/28MG PDRE SUSP BUV F/70ML"
+  },
+  {
+    "id": "960",
+    "name": "TICASSE 400/57MG PDRE SUSP BUV F/70ML"
+  },
+  {
+    "id": "961",
+    "name": "TIORFAN 10MG BB PDRE SACH B/16"
+  },
+  {
+    "id": "962",
+    "name": "TISANE RICHTERS CONSTIP SACH B/20"
+  },
+  {
+    "id": "963",
+    "name": "TOBREX COLLYRE FP 5ML"
+  },
+  {
+    "id": "964",
+    "name": "TOBRADEX PDE OPHT T/3,5G"
+  },
+  {
+    "id": "965",
+    "name": "TONTHER 80MG SOL INJ 1ML B/6"
+  },
+  {
+    "id": "966",
+    "name": "TOPICREM GEL NETT DOUC CORP CHVX F/500ML"
+  },
+  {
+    "id": "967",
+    "name": "TOPICREM PIGMENTAIRE SERUM BOOSTER F30ML"
+  },
+  {
+    "id": "968",
+    "name": "TOPLEXIL 0,33MG/ML SP F/150ML"
+  },
+  {
+    "id": "969",
+    "name": "TOP 3 KIT CPR B/4"
+  },
+  {
+    "id": "970",
+    "name": "TOTHEMA BUV AMP 10ML BT 20"
+  },
+  {
+    "id": "971",
+    "name": "TRABAR 50MG CAPS B/10"
+  },
+  {
+    "id": "972",
+    "name": "TRAMADIS 50MG GEL B/10"
+  },
+  {
+    "id": "973",
+    "name": "TRAMADIS 100MG/2ML AMP INJ B/5"
+  },
+  {
+    "id": "974",
+    "name": "TRAMAGEN 50MG CPR B/20"
+  },
+  {
+    "id": "975",
+    "name": "TRAMAGEN 100MG SOL INJ B/5"
+  },
+  {
+    "id": "976",
+    "name": "TRAMADOL DENK 50MG CPR EFFV B/10"
+  },
+  {
+    "id": "977",
+    "name": "TRANSFUSEUR LABELL SACH/1"
+  },
+  {
+    "id": "978",
+    "name": "TRAVATAN 40MCG/ML COLL F/2,5ML"
+  },
+  {
+    "id": "979",
+    "name": "TRE-BON CPR B/10"
+  },
+  {
+    "id": "980",
+    "name": "TRES ORIX FORTE CAPSULE BT 20"
+  },
+  {
+    "id": "981",
+    "name": "TRES ORIX FORTE SIROP FL 250ML"
+  },
+  {
+    "id": "982",
+    "name": "TRIAM DENK 40 INJ AMP/10"
+  },
+  {
+    "id": "983",
+    "name": "TRIATEC 10MG CPR B/30"
+  },
+  {
+    "id": "984",
+    "name": "TRIALGIC GEL B/24"
+  },
+  {
+    "id": "985",
+    "name": "TRIBUTINE 0,787% SOL BUV F/250ML"
+  },
+  {
+    "id": "986",
+    "name": "TRIFENE 200MG CPR B/20"
+  },
+  {
+    "id": "987",
+    "name": "TRIFENE 20MG/ML SUSP ORALE F/200ML"
+  },
+  {
+    "id": "988",
+    "name": "TRIMETABOL SUSP BUV F/150ML"
+  },
+  {
+    "id": "989",
+    "name": "TRIPLIXAM 5MG/1,25MG/10MG CPR B/30"
+  },
+  {
+    "id": "990",
+    "name": "TRIPLIXAM 10MG/2,5MG/10MG CPR B/30"
+  },
+  {
+    "id": "991",
+    "name": "TRITAZID 5/25MG CPR B/28"
+  },
+  {
+    "id": "992",
+    "name": "TROFOCARD 121,5MG GR SACH B/20"
+  },
+  {
+    "id": "993",
+    "name": "TROPHIRES ENFANT SUPPO BT 8"
+  },
+  {
+    "id": "994",
+    "name": "TROPHIRES COMPOSE ENF SUP BT 8"
+  },
+  {
+    "id": "995",
+    "name": "TROYNOXA 40MG/0,4ML SER PRE B/1"
+  },
+  {
+    "id": "996",
+    "name": "TWINZOL COLL F/5ML"
+  },
+  {
+    "id": "997",
+    "name": "UCLAPRIM*FORT*800/160 MG CP B10"
+  },
+  {
+    "id": "998",
+    "name": "ULTRALEVURE 250 SACH B/10"
+  },
+  {
+    "id": "999",
+    "name": "UNIZITHRIN 600MG PDRE SUSP F/30ML"
+  },
+  {
+    "id": "1000",
+    "name": "UPRADONE GEL B/30"
+  },
+  {
+    "id": "1001",
+    "name": "UPRACID 40MG CPR B/14"
+  },
+  {
+    "id": "1002",
+    "name": "UPSA VIT C 1G CPR EFFV B/10"
+  },
+  {
+    "id": "1003",
+    "name": "UROCTAL 400MG CPR B/14"
+  },
+  {
+    "id": "1004",
+    "name": "UTEPLEX 2MG AMP B/45"
+  },
+  {
+    "id": "1005",
+    "name": "UTRIXONE 1G IM/IV PDRE INJ + SOLV F/10ML"
+  },
+  {
+    "id": "1006",
+    "name": "UTROGESTAN 200MG GEL B/15"
+  },
+  {
+    "id": "1007",
+    "name": "UZET 500MG CPR B/3"
+  },
+  {
+    "id": "1008",
+    "name": "VAC MENINGOC A+C PDR+SOLV INJ SER0,5ML/1"
+  },
+  {
+    "id": "1009",
+    "name": "VAC TETAVAX SERING/0,5ML B/1"
+  },
+  {
+    "id": "1010",
+    "name": "VAC TYPHIM VI SER/0,5ML B/1"
+  },
+  {
+    "id": "1011",
+    "name": "VAC PNEUMO 23 SOL INJ SER PRER/0,5ML B/1"
+  },
+  {
+    "id": "1012",
+    "name": "VAC TETRAXIM SUSP INJ 0,5ML B/1"
+  },
+  {
+    "id": "1013",
+    "name": "VAC EUVAX B AD 20MCG INJ B/1"
+  },
+  {
+    "id": "1014",
+    "name": "VAC STAMARIL 0,5ML SUSP INJ SER/1"
+  },
+  {
+    "id": "1015",
+    "name": "VAC DULTAVAX DT POLIO INJ SERING/1+AIG/2"
+  },
+  {
+    "id": "1016",
+    "name": "VAC RABIQUE PASTEUR PDRE+SOLV SER/0,5ML"
+  },
+  {
+    "id": "1017",
+    "name": "VAGIMILT CAPS VAG B/7"
+  },
+  {
+    "id": "1018",
+    "name": "VALDA DIET PAST SS B/60"
+  },
+  {
+    "id": "1019",
+    "name": "VALSAR DENK 80MG CPR B/28"
+  },
+  {
+    "id": "1020",
+    "name": "VALSAR DENK 160MG CPR B/28"
+  },
+  {
+    "id": "1021",
+    "name": "VALSAR DENK 320MG CPR B/28"
+  },
+  {
+    "id": "1022",
+    "name": "VALSAR DENK 40MG CPR PELL B/28"
+  },
+  {
+    "id": "1023",
+    "name": "VASCOR 20MG CPR B/60"
+  },
+  {
+    "id": "1024",
+    "name": "VEGEBOM BME SECOURS T/45G"
+  },
+  {
+    "id": "1025",
+    "name": "VEGEBOM SAV SURGRAS PAIN /100G"
+  },
+  {
+    "id": "1026",
+    "name": "VENOSMIL GEL TB 60GR"
+  },
+  {
+    "id": "1027",
+    "name": "VENTOLINE BUCC FL AERO 200DOSE"
+  },
+  {
+    "id": "1028",
+    "name": "VENTOLINE 2MG/5ML BUV FL 150ML"
+  },
+  {
+    "id": "1029",
+    "name": "VENTOLINE 2,5MG/2,5ML SOL INH UNID B/20"
+  },
+  {
+    "id": "1030",
+    "name": "VERMOX 100MG CPR BT 6"
+  },
+  {
+    "id": "1031",
+    "name": "VERMOX 2% SUSP BUVABLE FV 30ML"
+  },
+  {
+    "id": "1032",
+    "name": "VERMOX 500MG CPR POCHETTE *1*"
+  },
+  {
+    "id": "1033",
+    "name": "VERSINO CPR B/10"
+  },
+  {
+    "id": "1034",
+    "name": "VERZOL 400MG CPR B/1"
+  },
+  {
+    "id": "1035",
+    "name": "VERZOL SUSP BUV FL 10ML"
+  },
+  {
+    "id": "1036",
+    "name": "VIBROCIL GOUTTE FL 15ML"
+  },
+  {
+    "id": "1037",
+    "name": "VICOMBIL CPR B/60"
+  },
+  {
+    "id": "1038",
+    "name": "VIFEX 1MG SP F/100ML"
+  },
+  {
+    "id": "1039",
+    "name": "VIKVIT-C 1000MG CPR EFFV B/20"
+  },
+  {
+    "id": "1040",
+    "name": "VINCISEPTIL OTICO GTTE AUR 5ML"
+  },
+  {
+    "id": "1041",
+    "name": "VIRIMAX MASCULIN GEL B/15"
+  },
+  {
+    "id": "1042",
+    "name": "VIRIMAX PERF VITAL AMP BUV/10"
+  },
+  {
+    "id": "1043",
+    "name": "VISCERALGINE SIROP FL 150ML"
+  },
+  {
+    "id": "1044",
+    "name": "VITABACT 0,005MG COLL F/10ML"
+  },
+  {
+    "id": "1045",
+    "name": "VITAPETINE SP F/125ML"
+  },
+  {
+    "id": "1046",
+    "name": "VITAVIT SP F/100ML"
+  },
+  {
+    "id": "1047",
+    "name": "VIT ACE SE ZN BIOFAR CPR EFF20"
+  },
+  {
+    "id": "1048",
+    "name": "VITAFER CAPS 45MG B/30"
+  },
+  {
+    "id": "1049",
+    "name": "VIT B12 GERDA 250MCG CPR B/24"
+  },
+  {
+    "id": "1050",
+    "name": "VIT B DENK CPR/100 BL"
+  },
+  {
+    "id": "1051",
+    "name": "VIT C BIOFAR 500MG CPR EFFV/20"
+  },
+  {
+    "id": "1052",
+    "name": "VIT C1000 BIOFAR CPR EFFV T/20"
+  },
+  {
+    "id": "1053",
+    "name": "VOGALENE 0,4% BUV GTTE FL 30ML"
+  },
+  {
+    "id": "1054",
+    "name": "VOGALENE 5MG/5ML SOLBUV F150ML"
+  },
+  {
+    "id": "1055",
+    "name": "VOGALENE 5MG SUPPO B/10"
+  },
+  {
+    "id": "1056",
+    "name": "VOLINI GEL T/30G"
+  },
+  {
+    "id": "1057",
+    "name": "VOLTARENE 100MG SUPPO BT 10"
+  },
+  {
+    "id": "1058",
+    "name": "WARIMAZOL VAG 200MG CPR B/3"
+  },
+  {
+    "id": "1059",
+    "name": "WARIMAZOL CR DERM 1% T/20G"
+  },
+  {
+    "id": "1060",
+    "name": "XATRAL LP 10MG CPR B/30"
+  },
+  {
+    "id": "1061",
+    "name": "XOLAMOL COLL F/5ML"
+  },
+  {
+    "id": "1062",
+    "name": "XYLO ACINO 0,05% SPR NASAL F/10ML"
+  },
+  {
+    "id": "1063",
+    "name": "XYLO ACINO 0,1% SPR NASAL F/10ML"
+  },
+  {
+    "id": "1064",
+    "name": "ZAART 100MG CPR B/30 HP"
+  },
+  {
+    "id": "1065",
+    "name": "ZAMOX 1000MG/125MG SACH B/12"
+  },
+  {
+    "id": "1066",
+    "name": "ZAMOX 500MG/62,5MG SACH B/12"
+  },
+  {
+    "id": "1067",
+    "name": "ZAMOX 100MG/12,5MG SP F/30ML"
+  },
+  {
+    "id": "1068",
+    "name": "ZAMOX 100MG/12,5MG PDRE SUSP F/60ML"
+  },
+  {
+    "id": "1069",
+    "name": "ZEBEN 400MG CPR B/1"
+  },
+  {
+    "id": "1070",
+    "name": "ZEBEN 2% SUSP BUV F/20ML"
+  },
+  {
+    "id": "1071",
+    "name": "ZELITREX 500MG CPR BT 10"
+  },
+  {
+    "id": "1072",
+    "name": "ZENAVAN 50MG GEL T/40G"
+  },
+  {
+    "id": "1073",
+    "name": "ZENTEL SUSP BUV FL 10ML"
+  },
+  {
+    "id": "1074",
+    "name": "ZENTEL 400MG CPR B/1 SD"
+  },
+  {
+    "id": "1075",
+    "name": "ZEPOTIL 200MG CPR PELL B/10"
+  },
+  {
+    "id": "1076",
+    "name": "ZEPOTIL 50MG/5ML PDRE SUSP BUV F/60ML"
+  },
+  {
+    "id": "1077",
+    "name": "ZERODOL 100MG CPR 1BL10"
+  },
+  {
+    "id": "1078",
+    "name": "ZINC ORGANIQ BIOFAR CPR EFFV20"
+  },
+  {
+    "id": "1079",
+    "name": "ZINNAT 125MG SUSP FL 40ML"
+  },
+  {
+    "id": "1080",
+    "name": "ZINNAT 125MG SUSP F/80ML"
+  },
+  {
+    "id": "1081",
+    "name": "ZITHROMAX 200MG PDRE SUSP BUV F/22,5ML"
+  },
+  {
+    "id": "1082",
+    "name": "ZOCIN 250MG CPR B/6"
+  },
+  {
+    "id": "1083",
+    "name": "ZOCIN 500MG CPR B/3"
+  },
+  {
+    "id": "1084",
+    "name": "ZOUCEF 1G PDRE SOL INJ+SOLV B/1"
+  },
+  {
+    "id": "1085",
+    "name": "ZOVIRAX PDE OPHT TB 4,5G"
+  },
+  {
+    "id": "1086",
+    "name": "ZYLPREX SP F/30ML"
+  },
+  {
+    "id": "1087",
+    "name": "ZYLTAN H 50/12,5MG B/30"
+  },
+  {
+    "id": "1088",
+    "name": "ZYLTAN 50MG CPR B/30"
+  },
+  {
+    "id": "1089",
+    "name": "ABUFENE 400MG CPR BTE 30"
+  },
+  {
+    "id": "1090",
+    "name": "ACFOL 5MG CPR B/25"
+  },
+  {
+    "id": "1091",
+    "name": "ACIDE FOLIQUE 5MG CPR 5 BL/20"
+  },
+  {
+    "id": "1092",
+    "name": "ACUILIX 20MG/12,5MG CPR SEC B/28"
+  },
+  {
+    "id": "1093",
+    "name": "ACUPAN INJ SOL 2ML B/5 AFR"
+  },
+  {
+    "id": "1094",
+    "name": "ACYCLOVIR DENK 5% CR T/7G"
+  },
+  {
+    "id": "1095",
+    "name": "AERIUS 5MG CPR PELL B/15"
+  },
+  {
+    "id": "1096",
+    "name": "AFTAGEL GEL BUCCAL T/15ML"
+  },
+  {
+    "id": "1097",
+    "name": "ALFER SP F/200ML"
+  },
+  {
+    "id": "1098",
+    "name": "ALLERGINE 10MG CPR B/15"
+  },
+  {
+    "id": "1099",
+    "name": "ALLERGYL SP F/60ML"
+  },
+  {
+    "id": "1100",
+    "name": "ALVITYL VITALITE CPR EFFV B/30"
+  },
+  {
+    "id": "1101",
+    "name": "AMADAY 10MG B/30"
+  },
+  {
+    "id": "1102",
+    "name": "AMLONG 5MG CPR B/30"
+  },
+  {
+    "id": "1103",
+    "name": "AMLONG 10MG CPR B/30"
+  },
+  {
+    "id": "1104",
+    "name": "AMLO DENK 5MG CPR B/50"
+  },
+  {
+    "id": "1105",
+    "name": "AMLOCLASS 10MG CPR B/30"
+  },
+  {
+    "id": "1106",
+    "name": "AMLOPERIN 5MG/10MG CPR B/30"
+  },
+  {
+    "id": "1107",
+    "name": "AMLOSTAR 10MG CPR B/30"
+  },
+  {
+    "id": "1108",
+    "name": "AMOXICILLIN CREACIL 500MG E/12"
+  },
+  {
+    "id": "1109",
+    "name": "ANAFRANIL 25MG INJ AMP2ML BT 5"
+  },
+  {
+    "id": "1110",
+    "name": "ANTALGEX-T 37,5MG/325MG GEL B/20"
+  },
+  {
+    "id": "1111",
+    "name": "ANTIPLATT 75MG CPR B/30"
+  },
+  {
+    "id": "1112",
+    "name": "APAZIDE 200MG GEL B/16"
+  },
+  {
+    "id": "1113",
+    "name": "APIOLINE CHAPOTEAUT CAPS B/20"
+  },
+  {
+    "id": "1114",
+    "name": "ARCALION 200MG CPR DRAG B/20"
+  },
+  {
+    "id": "1115",
+    "name": "ARGININE VEYRON BUV A.5ML BT20"
+  },
+  {
+    "id": "1116",
+    "name": "ARTESIANE 20MG AMP INJ B/10"
+  },
+  {
+    "id": "1117",
+    "name": "ARTEFAN 40/240MG CPR B/12"
+  },
+  {
+    "id": "1118",
+    "name": "ARTESIANE 40MG/ML AMP INJ B/10"
+  },
+  {
+    "id": "1119",
+    "name": "ARTHRODONT PATE GGVL TB 40G"
+  },
+  {
+    "id": "1120",
+    "name": "ARTIZ SUSP BUV F/60ML"
+  },
+  {
+    "id": "1121",
+    "name": "ARTRIM GH 40/240MG CPR B/12"
+  },
+  {
+    "id": "1122",
+    "name": "ASAQ DENK FIXED DOSE CPR B/6"
+  },
+  {
+    "id": "1123",
+    "name": "ASMOCID 40MG CPR PELL GASTRO RESIST B/20"
+  },
+  {
+    "id": "1124",
+    "name": "ASMOXIME 200MG CPR PELL SEC B/10"
+  },
+  {
+    "id": "1125",
+    "name": "ASMOCET-L 5MG CPR B/20"
+  },
+  {
+    "id": "1126",
+    "name": "ASOMEX 5MG CPR B/50"
+  },
+  {
+    "id": "1127",
+    "name": "ASPEGIC 500 PDR ORAL SACH BT20"
+  },
+  {
+    "id": "1128",
+    "name": "ATACAND 16MG CPR SEC B/30"
+  },
+  {
+    "id": "1129",
+    "name": "ATACAND 8MG CPR SEC B/30"
+  },
+  {
+    "id": "1130",
+    "name": "ATORFIT 20MG CPR B/30"
+  },
+  {
+    "id": "1131",
+    "name": "ATORLIP 20MG CPR B/30 HP"
+  },
+  {
+    "id": "1132",
+    "name": "AVAS 20MG CPR PELL B/30"
+  },
+  {
+    "id": "1133",
+    "name": "AZITHRO 250MG GEL B/6"
+  },
+  {
+    "id": "1134",
+    "name": "AZITRO ACINO 500MG CPR B/3"
+  },
+  {
+    "id": "1135",
+    "name": "AZYTER 15MG/G COLL SOL UNID B/6"
+  },
+  {
+    "id": "1136",
+    "name": "AZITHRIN 500MG GEL B/3"
+  },
+  {
+    "id": "1137",
+    "name": "BACTRIM FORTE AD CPR B/10"
+  },
+  {
+    "id": "1138",
+    "name": "BANDE IMMO DELTA LITE+ BLEU 3,6MX10CM"
+  },
+  {
+    "id": "1139",
+    "name": "BANEOCIN POMMADE TB 20G"
+  },
+  {
+    "id": "1140",
+    "name": "BEDELIX 3G PDRE SUSP BUV SACH B/30"
+  },
+  {
+    "id": "1141",
+    "name": "BERLOCID 480MG CPR B/20"
+  },
+  {
+    "id": "1142",
+    "name": "BETAZIDIM 1G AMP INJ B/1"
+  },
+  {
+    "id": "1143",
+    "name": "BIBLOC 10MG CPR PELL B/30"
+  },
+  {
+    "id": "1144",
+    "name": "BILAXTEN 20MG CPR B/10"
+  },
+  {
+    "id": "1145",
+    "name": "ADALATE 10MG CAPS ANF B/30"
+  },
+  {
+    "id": "1146",
+    "name": "BIMALARIL PLUS 80/480MG GEL MOLLE B/6"
+  },
+  {
+    "id": "1147",
+    "name": "BIMALARIL 60/360MG GRD ENF CPR DISP B/6"
+  },
+  {
+    "id": "1148",
+    "name": "BINOCLAR 250MG CPR B/10"
+  },
+  {
+    "id": "1149",
+    "name": "BINOCLAR 500MG CPR B/14"
+  },
+  {
+    "id": "1150",
+    "name": "BINOZYT 500MG CPR B/3"
+  },
+  {
+    "id": "1151",
+    "name": "ACLOP 100MG/500MG CPR B/10"
+  },
+  {
+    "id": "1152",
+    "name": "BIODROXIL 500MG GEL BTE 12"
+  },
+  {
+    "id": "1153",
+    "name": "BIOFER 12 CPR B/30"
+  },
+  {
+    "id": "1154",
+    "name": "BIOFER 12 SP F/200ML"
+  },
+  {
+    "id": "1155",
+    "name": "BIPRETERAX 5MG/1,25MG CPR PELL B/30"
+  },
+  {
+    "id": "1156",
+    "name": "BIPRETERAX 10 MG/2,5 MG CPR PELL B/30"
+  },
+  {
+    "id": "1157",
+    "name": "BISPIRAZOLE 1,5 MUI/250MG CPR B/15"
+  },
+  {
+    "id": "1158",
+    "name": "BONCIPRO 500MG CPR B/20"
+  },
+  {
+    "id": "1159",
+    "name": "BRIMOCHEK-T 2MG/ML+5MG/ML COLLYRE F/5ML"
+  },
+  {
+    "id": "1160",
+    "name": "BRULEX POMMADE DERM TB 30G"
+  },
+  {
+    "id": "1161",
+    "name": "BUTO-ASMA 2MG CPR BTE 40"
+  },
+  {
+    "id": "1162",
+    "name": "CACHEWORM CPR B/6"
+  },
+  {
+    "id": "1163",
+    "name": "CALSEPTINE CPR B/30"
+  },
+  {
+    "id": "1164",
+    "name": "CANDITRAL 100MG CAPS B/4"
+  },
+  {
+    "id": "1165",
+    "name": "CAPTOPRIL DENK 25MG CPR B/100"
+  },
+  {
+    "id": "1166",
+    "name": "CAPTOPRIL DENK 25MG CPR B/20"
+  },
+  {
+    "id": "1167",
+    "name": "CARBOTOUX 2% SP F/100ML"
+  },
+  {
+    "id": "1168",
+    "name": "CARTEOL 1% LP COLL F/3ML"
+  },
+  {
+    "id": "1169",
+    "name": "CATAFLAM 50MG CPR BT 20"
+  },
+  {
+    "id": "1170",
+    "name": "CATHETER LABELL IV 18G 45MM VERT/1"
+  },
+  {
+    "id": "1171",
+    "name": "ALGESAL SURACTIVE CREME TB 40G"
+  },
+  {
+    "id": "1172",
+    "name": "CEFIM 200MG GEL B/12"
+  },
+  {
+    "id": "1173",
+    "name": "CEFIM 400MG GEL B/6"
+  },
+  {
+    "id": "1174",
+    "name": "CEFIM 100MG SUSP F/60ML"
+  },
+  {
+    "id": "1175",
+    "name": "CEFTRIAXONE LDP 1G IM IV B/1+1"
+  },
+  {
+    "id": "1176",
+    "name": "CARY 125MG/5ML SUSP BUV F/60ML"
+  },
+  {
+    "id": "1177",
+    "name": "CETRAXAL 500MG CPR BTE 10"
+  },
+  {
+    "id": "1178",
+    "name": "CETRAXAL 750MG CPR B/10"
+  },
+  {
+    "id": "1179",
+    "name": "CHIBROXINE COLLYRE FL 5ML"
+  },
+  {
+    "id": "1180",
+    "name": "CILOXAN 0,3% PDE OPHT T/3,5G"
+  },
+  {
+    "id": "1181",
+    "name": "CAPTOPRIL EG 50MG CPR B/30"
+  },
+  {
+    "id": "1182",
+    "name": "CAPTOPRIL EG 25MG CPR B/30"
+  },
+  {
+    "id": "1183",
+    "name": "AMLO DENK 10MG CPR B/50"
+  },
+  {
+    "id": "1184",
+    "name": "ASU DENK FIXED DOSE CPR B/3"
+  },
+  {
+    "id": "1185",
+    "name": "CARVEDI DENK 25MG CPR B/30"
+  },
+  {
+    "id": "1186",
+    "name": "CIPROZOLE FORTE500/600MG CPR10"
+  },
+  {
+    "id": "1187",
+    "name": "CIPROBIOTIC 500MG CPR B/10"
+  },
+  {
+    "id": "1188",
+    "name": "CIPRO DENK 750MG CPR PELL B/10"
+  },
+  {
+    "id": "1189",
+    "name": "ARCONIFED SR 20MG CPR B/30"
+  },
+  {
+    "id": "1190",
+    "name": "AZITHRIN DRY PDRE SUSP BUV F/15ML"
+  },
+  {
+    "id": "1191",
+    "name": "CAZITHRO 500MG CPR PELL B/3"
+  },
+  {
+    "id": "1192",
+    "name": "CIPTIN FORTE 500/600MG CPR B10"
+  },
+  {
+    "id": "1193",
+    "name": "CLARITYNE 10MG CPR B/10"
+  },
+  {
+    "id": "1194",
+    "name": "ASOMEX 2,5MG CPR B/50"
+  },
+  {
+    "id": "1195",
+    "name": "CLARITRON 500MG CPR B/10"
+  },
+  {
+    "id": "1196",
+    "name": "CLARIVA 500MG CPR B/14"
+  },
+  {
+    "id": "1197",
+    "name": "CLARTEC 10MG CPR B/15"
+  },
+  {
+    "id": "1198",
+    "name": "CLAVICIN XR 1G CPR B/10"
+  },
+  {
+    "id": "1199",
+    "name": "ACURE 80MG/480MG CPR B/6"
+  },
+  {
+    "id": "1200",
+    "name": "CLEDOMOX 562,5MG CPR PELL B/16"
+  },
+  {
+    "id": "1201",
+    "name": "CLIPTOL GEL T/50G"
+  },
+  {
+    "id": "1202",
+    "name": "CARDIURINE CPR B/30"
+  },
+  {
+    "id": "1203",
+    "name": "ANDROCUR 50MG CPR B/20"
+  },
+  {
+    "id": "1204",
+    "name": "AMLIBON 10MG CPR B/30"
+  },
+  {
+    "id": "1205",
+    "name": "COLCHICINE OPOCALCIUM 1MG CPR B/20"
+  },
+  {
+    "id": "1206",
+    "name": "COLESTOP 10MG CPR B/30"
+  },
+  {
+    "id": "1207",
+    "name": "COLESTOP 20MG CPR B/30"
+  },
+  {
+    "id": "1208",
+    "name": "COMBIFRINIL CPR BT 3"
+  },
+  {
+    "id": "1209",
+    "name": "COMBIART 20/120MG CPR B/24"
+  },
+  {
+    "id": "1210",
+    "name": "CONTALAX CPR B/30"
+  },
+  {
+    "id": "1211",
+    "name": "CLOTRI DENK 100MG CPR VAG B/6"
+  },
+  {
+    "id": "1212",
+    "name": "CORTANCYL 20MG CP BT 20"
+  },
+  {
+    "id": "1213",
+    "name": "COTRIMOXAZOLE 480MG CPR 10BL10"
+  },
+  {
+    "id": "1214",
+    "name": "COVERSYL 5MG CPR PELL SEC B/30"
+  },
+  {
+    "id": "1215",
+    "name": "CALTOUX 250MG ENF SUPPO B/10"
+  },
+  {
+    "id": "1216",
+    "name": "COVERAM 5MG/5MG CPR B/30"
+  },
+  {
+    "id": "1217",
+    "name": "CARBOTOUX 5% SP F/100ML"
+  },
+  {
+    "id": "1218",
+    "name": "COVERAM 5MG/10MG CPR B/30"
+  },
+  {
+    "id": "1219",
+    "name": "COVERAM 10MG/5MG CPR B/30"
+  },
+  {
+    "id": "1220",
+    "name": "COVERAM 10MG/10MG CPR B/30"
+  },
+  {
+    "id": "1221",
+    "name": "CLEDOMOX 1G/125MG CPR PELL B/16"
+  },
+  {
+    "id": "1222",
+    "name": "COZAAR 50MG CPR SEC B/28"
+  },
+  {
+    "id": "1223",
+    "name": "CROISCARD-E 250MG/125UI/5ML SUSP F/150ML"
+  },
+  {
+    "id": "1224",
+    "name": "CURAM 500MG COMP ENROBE B/12"
+  },
+  {
+    "id": "1225",
+    "name": "CURAM 500MG/100MG AMP INJ IV B/1"
+  },
+  {
+    "id": "1226",
+    "name": "CURAPEL CR T/30G"
+  },
+  {
+    "id": "1227",
+    "name": "CYTEAL LIQUIDE FL PLAST 250ML"
+  },
+  {
+    "id": "1228",
+    "name": "CYTEAL LIQUIDE FL PLAST 500ML"
+  },
+  {
+    "id": "1229",
+    "name": "DAONIL 5MG CPR BT 20"
+  },
+  {
+    "id": "1230",
+    "name": "D-ARTEPP 40/320MG CPR PELL B/9"
+  },
+  {
+    "id": "1231",
+    "name": "DATIZOLE 500MG COMP B/4"
+  },
+  {
+    "id": "1232",
+    "name": "CARBEN 100MG CPR B/6"
+  },
+  {
+    "id": "1233",
+    "name": "CLAVUMOCCID 500MG CPR B/12"
+  },
+  {
+    "id": "1234",
+    "name": "DAZEL KIT CPR B/4"
+  },
+  {
+    "id": "1235",
+    "name": "DEFAL 6MG CPR B/20"
+  },
+  {
+    "id": "1236",
+    "name": "DEFAL 30MG CPR B/10"
+  },
+  {
+    "id": "1237",
+    "name": "DEPAKINE 200MG CPR DRG BT 40"
+  },
+  {
+    "id": "1238",
+    "name": "DERINOX GTTE NEB FL 15ML"
+  },
+  {
+    "id": "1239",
+    "name": "DERMACIDE SOL MOUSST FP 250ML"
+  },
+  {
+    "id": "1240",
+    "name": "DEROXAT 20MG CPR B/14"
+  },
+  {
+    "id": "1241",
+    "name": "DESLORA-DENK 5MG CPR PELL B/10"
+  },
+  {
+    "id": "1242",
+    "name": "DEXERYL CR T/250G"
+  },
+  {
+    "id": "1243",
+    "name": "CINET 1MG/ML SUSP BUV F/200ML"
+  },
+  {
+    "id": "1244",
+    "name": "DIAGLIM 3MG CPR B/30"
+  },
+  {
+    "id": "1245",
+    "name": "DIAGLIM 4MG CPR B/30"
+  },
+  {
+    "id": "1246",
+    "name": "DIAMOX 250MG CPR SECAB BT 24"
+  },
+  {
+    "id": "1247",
+    "name": "DIAMICRON LM 60MG CPR SEC  B/30"
+  },
+  {
+    "id": "1248",
+    "name": "DIAMIN 1G CPR B/30"
+  },
+  {
+    "id": "1249",
+    "name": "DIAMICRON LM 60MG CPR SEC B/150"
+  },
+  {
+    "id": "1250",
+    "name": "DIANE 35 CPR PLQ 1X21"
+  },
+  {
+    "id": "1251",
+    "name": "AMOXICILLINE UBI 500MG GEL 10 BL 12"
+  },
+  {
+    "id": "1252",
+    "name": "DICLO DENK 50MG CPR B/100"
+  },
+  {
+    "id": "1253",
+    "name": "DICLAC LP 75MG CPR B/20"
+  },
+  {
+    "id": "1254",
+    "name": "CLAMOXYL 250MG PDR SIR FL 60ML"
+  },
+  {
+    "id": "1255",
+    "name": "DICLAC LP 150MG CPR B/10"
+  },
+  {
+    "id": "1256",
+    "name": "DIFENASOL COLL F/5ML"
+  },
+  {
+    "id": "1257",
+    "name": "DIGEST HALEINE CPR B/28"
+  },
+  {
+    "id": "1258",
+    "name": "DIPROSALIC PDE T/30G"
+  },
+  {
+    "id": "1259",
+    "name": "ATMAX 500MG CPR PELL B/3"
+  },
+  {
+    "id": "1260",
+    "name": "CLOBEN-G CR DERM T/15G"
+  },
+  {
+    "id": "1261",
+    "name": "ACIDE ACETYLSAL UBI 500MG CPR 100 BL 10"
+  },
+  {
+    "id": "1262",
+    "name": "ABZ 400MG CPR B/1"
+  },
+  {
+    "id": "1263",
+    "name": "DISLEP 25MG CPR B/20"
+  },
+  {
+    "id": "1264",
+    "name": "DITROPAN CPR B/60"
+  },
+  {
+    "id": "1265",
+    "name": "DOLEX SR 75MG CPR B/30"
+  },
+  {
+    "id": "1266",
+    "name": "DOLIPRANE 500MG CPR EFFV BT 16"
+  },
+  {
+    "id": "1267",
+    "name": "AUGMENTIN 1000MG/200MG IV PDRE INJ B/1"
+  },
+  {
+    "id": "1268",
+    "name": "DOLIPRANE 200MG SACH B/12"
+  },
+  {
+    "id": "1269",
+    "name": "DOLIPRANE 1000MG CPR EFFV B/8"
+  },
+  {
+    "id": "1270",
+    "name": "DOLIPREX SACH B/8"
+  },
+  {
+    "id": "1271",
+    "name": "APFLU PDRE EFFV SACH B/10"
+  },
+  {
+    "id": "1272",
+    "name": "CLARTEC 5MG/5ML SP F/120ML"
+  },
+  {
+    "id": "1273",
+    "name": "DOLOTREN INJ AMPOULE BTE 6"
+  },
+  {
+    "id": "1274",
+    "name": "DOLOTREN GEL TB 60 GR"
+  },
+  {
+    "id": "1275",
+    "name": "DOLOTREN SUPPO B/12"
+  },
+  {
+    "id": "1276",
+    "name": "DOLORA 100ID 100MG LM CPR B/10"
+  },
+  {
+    "id": "1277",
+    "name": "DOLOSPAM CPR PELL B/10"
+  },
+  {
+    "id": "1278",
+    "name": "DOXY 200MG CPR B/8"
+  },
+  {
+    "id": "1279",
+    "name": "DOXYCYCLINE 100MG CPR 10BL10"
+  },
+  {
+    "id": "1280",
+    "name": "DOXYNOR 100MG CPR B/20"
+  },
+  {
+    "id": "1281",
+    "name": "DOXY DENK 200MG CPR PELL B/8"
+  },
+  {
+    "id": "1282",
+    "name": "AUREOMYCINE VALDA 1% PDE OPHT T/5G"
+  },
+  {
+    "id": "1283",
+    "name": "CELEBREX 200MG GEL B/10"
+  },
+  {
+    "id": "1284",
+    "name": "BLEU METHYLENE 1% 30CC VALD"
+  },
+  {
+    "id": "1285",
+    "name": "DOLIPRANE G.ENF 300MG SUPPO/10"
+  },
+  {
+    "id": "1286",
+    "name": "DOLIPRANE J.ENF 150MG SUPPO/10"
+  },
+  {
+    "id": "1287",
+    "name": "DOLIPRANE 200MG SUPPO B/10"
+  },
+  {
+    "id": "1288",
+    "name": "DRILL TX SECHE ENF SP F/125ML"
+  },
+  {
+    "id": "1289",
+    "name": "DUO COTECXIN 320/40MG CPR B/9"
+  },
+  {
+    "id": "1290",
+    "name": "DYNAPAR SR 100MG CPR 10BL10"
+  },
+  {
+    "id": "1291",
+    "name": "DYNAPAR AQ 75MG/ML SOL INJ AMP B/5"
+  },
+  {
+    "id": "1292",
+    "name": "DYNAPAR TAB 50MG/500MG CPR 10BL10"
+  },
+  {
+    "id": "1293",
+    "name": "DIFRAREL E CPR DRG BT 24"
+  },
+  {
+    "id": "1294",
+    "name": "DAFRAZOL 20MG GEL B/14"
+  },
+  {
+    "id": "1295",
+    "name": "E-FLAVYL 200UI GEL B/50"
+  },
+  {
+    "id": "1296",
+    "name": "EAU OXYGENEE 20V GILB FL 125ML"
+  },
+  {
+    "id": "1297",
+    "name": "EAU PRECIEUSE LOT 375ML"
+  },
+  {
+    "id": "1298",
+    "name": "ECONIF 250MG GEL B/10"
+  },
+  {
+    "id": "1299",
+    "name": "CIPRONAT 500MG CPR B/14"
+  },
+  {
+    "id": "1300",
+    "name": "DICLO DENK 100MG RETARD CPR B/100"
+  },
+  {
+    "id": "1301",
+    "name": "ECOREX 150MG OVULES BTE 3"
+  },
+  {
+    "id": "1302",
+    "name": "AERIUS 5MG CPR PELL B/7"
+  },
+  {
+    "id": "1303",
+    "name": "EFFERALGAN 300MG SUPPO B/10"
+  },
+  {
+    "id": "1304",
+    "name": "EFFERALGAN 500MG CPR SEC B/16"
+  },
+  {
+    "id": "1305",
+    "name": "ARTIZ FORTE 40MG/240MG CPR B/12"
+  },
+  {
+    "id": "1306",
+    "name": "CANOVA 50MG CPR B/4"
+  },
+  {
+    "id": "1307",
+    "name": "EFFERALGAN CODEINE CPR PELL B/16"
+  },
+  {
+    "id": "1308",
+    "name": "ELGYDIUM KIDS 2-6ANS GRENAD DENTIF T50ML"
+  },
+  {
+    "id": "1309",
+    "name": "ELUDRIL COLLUT FL PRESS 55ML"
+  },
+  {
+    "id": "1310",
+    "name": "ELUDRILPRO BAIN BCHE F/500ML"
+  },
+  {
+    "id": "1311",
+    "name": "ENA DENK 10MG CPR B/30"
+  },
+  {
+    "id": "1312",
+    "name": "ENA DENK 20MG CPR B/30"
+  },
+  {
+    "id": "1313",
+    "name": "BLOKIUM DIU CPR BT 20"
+  },
+  {
+    "id": "1314",
+    "name": "AUROTHER 20MG/120MG CPR DISP B/6"
+  },
+  {
+    "id": "1315",
+    "name": "AUROTHER 80MG/480MG CPR B/6"
+  },
+  {
+    "id": "1316",
+    "name": "ANGIGO 80MG CPR B/30"
+  },
+  {
+    "id": "1317",
+    "name": "ANGIGO 40MG CPR B/30"
+  },
+  {
+    "id": "1318",
+    "name": "ANGIGO 120MG CPR B/30"
+  },
+  {
+    "id": "1319",
+    "name": "AMARYL M  SR 2MG/500MG CPR B/30"
+  },
+  {
+    "id": "1320",
+    "name": "ENOXA 4000 SOL INJ SERING B/2"
+  },
+  {
+    "id": "1321",
+    "name": "ENTAMIZOLE 250MG/200MG SUSP BUV F/100ML"
+  },
+  {
+    "id": "1322",
+    "name": "AMAREL 2MG CPR BTE 30"
+  },
+  {
+    "id": "1323",
+    "name": "BI PROFENID LP 100MG CPR SEC B/20"
+  },
+  {
+    "id": "1324",
+    "name": "COAPROVEL 150/12,5MG CPR PELL B/28"
+  },
+  {
+    "id": "1325",
+    "name": "CORVASAL 4MG CPR BT 30"
+  },
+  {
+    "id": "1326",
+    "name": "DAONIL 5MG CPR BT 100"
+  },
+  {
+    "id": "1327",
+    "name": "EPICRAN 6/10 23G BLEU LABELL/1"
+  },
+  {
+    "id": "1328",
+    "name": "ERCEFURYL BUV SUSP FL 90ML"
+  },
+  {
+    "id": "1329",
+    "name": "EREKTA 50MG CPR B/4"
+  },
+  {
+    "id": "1330",
+    "name": "ERYTHROMYCINE 250MG CPR 10BL10"
+  },
+  {
+    "id": "1331",
+    "name": "ERYTHROMYCINE 500MG CPR 10BL10"
+  },
+  {
+    "id": "1332",
+    "name": "ERY 500MG CPR BT 10"
+  },
+  {
+    "id": "1333",
+    "name": "ERY 500MG CPR BT 20"
+  },
+  {
+    "id": "1334",
+    "name": "ESLOTIN 5MG CPR B/10"
+  },
+  {
+    "id": "1335",
+    "name": "ETHER RECTIFIE METAL FL/400ML"
+  },
+  {
+    "id": "1336",
+    "name": "EURYTHMIC 200MG CPR B/30"
+  },
+  {
+    "id": "1337",
+    "name": "FALCIART 80MG/480MG CPR B/6"
+  },
+  {
+    "id": "1338",
+    "name": "FANTEM 180MG/1080MG SUSP F/60ML"
+  },
+  {
+    "id": "1339",
+    "name": "FAZOL 2% CREME DERMQ TB 30G"
+  },
+  {
+    "id": "1340",
+    "name": "ALOX CPR B/40"
+  },
+  {
+    "id": "1341",
+    "name": "FEBRILEX 125MG/1MG/5ML JR SP F/150ML"
+  },
+  {
+    "id": "1342",
+    "name": "AMPICILLINE UBI 500MG GEL 10 BL 12"
+  },
+  {
+    "id": "1343",
+    "name": "FENO TG 160MG CPR B/30"
+  },
+  {
+    "id": "1344",
+    "name": "FERFOLTONE GEL B/30"
+  },
+  {
+    "id": "1345",
+    "name": "FERRO DENK 50MG CPR B/50"
+  },
+  {
+    "id": "1346",
+    "name": "ARTRIM 15/90MG SUSP BUV F/60ML"
+  },
+  {
+    "id": "1347",
+    "name": "ASTAPH 250MG/5ML PDRE SUSP BUV F/100ML"
+  },
+  {
+    "id": "1348",
+    "name": "CETAMYL 500MG CPR B/20"
+  },
+  {
+    "id": "1349",
+    "name": "CETAZONE 1G INJ"
+  },
+  {
+    "id": "1350",
+    "name": "DOLAMINE CPR B/20"
+  },
+  {
+    "id": "1351",
+    "name": "FERVITAL SP F/100ML"
+  },
+  {
+    "id": "1352",
+    "name": "FIFER SP F/200ML"
+  },
+  {
+    "id": "1353",
+    "name": "FLAGENTYL 500MG CPR BT 4"
+  },
+  {
+    "id": "1354",
+    "name": "FLAGYL 250MG CPR BT 20"
+  },
+  {
+    "id": "1355",
+    "name": "FLANID 100MG CPR SEC B/30"
+  },
+  {
+    "id": "1356",
+    "name": "FLANID 200MG CPR SEC B/15"
+  },
+  {
+    "id": "1357",
+    "name": "FLAZOLE 5MG/ML SOL INJ F/100ML HP"
+  },
+  {
+    "id": "1358",
+    "name": "FLEMING 500/62,5MG CPR PELL/16"
+  },
+  {
+    "id": "1359",
+    "name": "FLEX NOR 400MG CPR B/10"
+  },
+  {
+    "id": "1360",
+    "name": "FLUB 600MG SUSP BUV F/30ML"
+  },
+  {
+    "id": "1361",
+    "name": "FLUB 100MG CPR B/6"
+  },
+  {
+    "id": "1362",
+    "name": "FLUCAP 150MG GEL B/1"
+  },
+  {
+    "id": "1363",
+    "name": "FLUCESS 150MG CPR B/1"
+  },
+  {
+    "id": "1364",
+    "name": "ANTIGRIPPINE VIT C CPR BT 12"
+  },
+  {
+    "id": "1365",
+    "name": "CIPLOX 200MG INJ IV F/100ML HP"
+  },
+  {
+    "id": "1366",
+    "name": "DECONTRACTYL BME T/80G"
+  },
+  {
+    "id": "1367",
+    "name": "DYNAPAR QPS 4% SPR F/30ML"
+  },
+  {
+    "id": "1368",
+    "name": "FEBREX PLUS CPR B/10"
+  },
+  {
+    "id": "1369",
+    "name": "FLUCONA DENK 150MG GEL B/1"
+  },
+  {
+    "id": "1370",
+    "name": "FLUDEX LP 1,5MG CPR PELL B/30"
+  },
+  {
+    "id": "1371",
+    "name": "FLUIMUCIL 2% ENF BB SOL BUV F/100ML"
+  },
+  {
+    "id": "1372",
+    "name": "FLUKOCIN 250MG/5ML SUSP BUV F/100ML"
+  },
+  {
+    "id": "1373",
+    "name": "FLURIFEN 100MG CPR PELL B/15"
+  },
+  {
+    "id": "1374",
+    "name": "BLEU METHYLENE 2% 30CC VALD"
+  },
+  {
+    "id": "1375",
+    "name": "FOLICIL 5MG CPR SEC B/20"
+  },
+  {
+    "id": "1376",
+    "name": "APRAMOL 500MG CPR EFFV B/16"
+  },
+  {
+    "id": "1377",
+    "name": "ECOREX LAIT DERMIQUE FL 30ML"
+  },
+  {
+    "id": "1378",
+    "name": "BABYHALER CHAMBR.INHAL BB ENF"
+  },
+  {
+    "id": "1379",
+    "name": "ERECTOR 50MG CPR B/1"
+  },
+  {
+    "id": "1380",
+    "name": "FUCITHALMIC 1% GEL OPHTA TB 3G"
+  },
+  {
+    "id": "1381",
+    "name": "FUCIDINE 250MG CPR PELL B/10"
+  },
+  {
+    "id": "1382",
+    "name": "FUCIDINE 250MG/5ML ENF SUSP BUV F/50ML"
+  },
+  {
+    "id": "1383",
+    "name": "FUCLO 250MG SP F/100ML"
+  },
+  {
+    "id": "1384",
+    "name": "FURO-DENK 40MG CPR 10BL10"
+  },
+  {
+    "id": "1385",
+    "name": "GASEC 20 GASTROCAPS B/14"
+  },
+  {
+    "id": "1386",
+    "name": "GASEC 20 GASTROCAPS B/7"
+  },
+  {
+    "id": "1387",
+    "name": "GASEC 20MG GASTROCAPS B/28"
+  },
+  {
+    "id": "1388",
+    "name": "GASEC 10MG CPR B/14"
+  },
+  {
+    "id": "1389",
+    "name": "GENFORTE 400MG/500MG CPR B/100"
+  },
+  {
+    "id": "1390",
+    "name": "GENTASOL 0,3% COLL F/5ML"
+  },
+  {
+    "id": "1391",
+    "name": "GLYSET 1MG B/30"
+  },
+  {
+    "id": "1392",
+    "name": "GLYSET 2MG B/30"
+  },
+  {
+    "id": "1393",
+    "name": "GLYSET 3MG B/30"
+  },
+  {
+    "id": "1394",
+    "name": "GRISEO POMMADE 5% TB 15GR"
+  },
+  {
+    "id": "1395",
+    "name": "GRISEOFULVINE 500MG CPR B/100"
+  },
+  {
+    "id": "1396",
+    "name": "GRISEOFULVINE CREAT 500MG ETUI 2BL10"
+  },
+  {
+    "id": "1397",
+    "name": "GYNANFORT OVULES B/10"
+  },
+  {
+    "id": "1398",
+    "name": "GYNOFER B12 GEL B/30"
+  },
+  {
+    "id": "1399",
+    "name": "HAEM UP SP F/200ML"
+  },
+  {
+    "id": "1400",
+    "name": "HALDOL DECANOAS INJ A.1ML BT 5"
+  },
+  {
+    "id": "1401",
+    "name": "HEMAFER 100MG CPR EFFV B/12"
+  },
+  {
+    "id": "1402",
+    "name": "HEMAFER 100MG/2ML SOL INJ AMP B/5"
+  },
+  {
+    "id": "1403",
+    "name": "HEMAFER 50MG/5ML SP F/125ML"
+  },
+  {
+    "id": "1404",
+    "name": "HEXAPNEUMINE ENF SP F/200ML"
+  },
+  {
+    "id": "1405",
+    "name": "HEXOMEDINE TRANSCUT FV 45ML"
+  },
+  {
+    "id": "1406",
+    "name": "HUMEX 0,30G/0,03G/100ML COLL SPR/35ML"
+  },
+  {
+    "id": "1407",
+    "name": "HUMEX MAL GORGE 20MG MIEL CITRON PAST/24"
+  },
+  {
+    "id": "1408",
+    "name": "HUMEX MAL GORGE 20MG SS MENTHE PAST B/24"
+  },
+  {
+    "id": "1409",
+    "name": "HYDROSOL POLYVIT EUROLAB GTTE F/30ML"
+  },
+  {
+    "id": "1410",
+    "name": "HYTACAND 16MG/12,5MG CPR B/30"
+  },
+  {
+    "id": "1411",
+    "name": "HYTACAND 8MG/12,5MG CPR B/30"
+  },
+  {
+    "id": "1412",
+    "name": "HYZAAR 50MG/12,5MG CPR PELL B/28"
+  },
+  {
+    "id": "1413",
+    "name": "IBUPROFENE DENK 400MG CPR100BL"
+  },
+  {
+    "id": "1414",
+    "name": "IBUX 2G/100ML SP F/120ML"
+  },
+  {
+    "id": "1415",
+    "name": "ICAZ LP 5MG GELULE BT 30"
+  },
+  {
+    "id": "1416",
+    "name": "IMMUC-C EFFV SACH B/10"
+  },
+  {
+    "id": "1417",
+    "name": "IMUCLAV 1G/200MG IV PDRE SOL INJ F/1"
+  },
+  {
+    "id": "1418",
+    "name": "IMUCLAV-1000 875/125MG CPR B/12"
+  },
+  {
+    "id": "1419",
+    "name": "INDOCID 25MG GELULE BT 30"
+  },
+  {
+    "id": "1420",
+    "name": "INEXIUM 20MG CPR B/14"
+  },
+  {
+    "id": "1421",
+    "name": "INOCLIM CAPS B/30"
+  },
+  {
+    "id": "1422",
+    "name": "INSULATARD 100UI/ML SUSP INJ F/10ML"
+  },
+  {
+    "id": "1423",
+    "name": "IRYS 2MG CPR PELL SEC B/30"
+  },
+  {
+    "id": "1424",
+    "name": "IRYS 4MG CPR PELL SEC B/30"
+  },
+  {
+    "id": "1425",
+    "name": "JUVAMINE FIZZ VIT C+CA EFFV/30"
+  },
+  {
+    "id": "1426",
+    "name": "JUVAMINE VIT C 500 CPR CROQ/30"
+  },
+  {
+    "id": "1427",
+    "name": "JUVAMINE GINSENG TONUS AMP BUV B/10"
+  },
+  {
+    "id": "1428",
+    "name": "JUVAMINE FIZZ 11VIT 7MINERAUX CPR EFF/30"
+  },
+  {
+    "id": "1429",
+    "name": "KALEORID LEO LP 600MG CPR BT30"
+  },
+  {
+    "id": "1430",
+    "name": "KAMAGRA 50MG CPR B/4"
+  },
+  {
+    "id": "1431",
+    "name": "KAMAGRA 50MG GEL ORAL SACH B/1"
+  },
+  {
+    "id": "1432",
+    "name": "KAMAGRA 100MG CPR B/4"
+  },
+  {
+    "id": "1433",
+    "name": "KESTINE 20MG CPR B/10"
+  },
+  {
+    "id": "1434",
+    "name": "KETODERM 2% GEL SACHET 6G BT 8"
+  },
+  {
+    "id": "1435",
+    "name": "KINAL SS ASPIRINE CPR B/180"
+  },
+  {
+    "id": "1436",
+    "name": "KINAL CODEINE GEL B/18"
+  },
+  {
+    "id": "1437",
+    "name": "KINAL IBU SUSP BUV F/60ML"
+  },
+  {
+    "id": "1438",
+    "name": "KLACIN BID 625MG CPR B/15"
+  },
+  {
+    "id": "1439",
+    "name": "KLACIN BID 1000MG CPR B/10"
+  },
+  {
+    "id": "1440",
+    "name": "KNZ 200MG CPR B/10"
+  },
+  {
+    "id": "1441",
+    "name": "LACOMA T COLL F/2,5ML"
+  },
+  {
+    "id": "1442",
+    "name": "LACRYVISC GEL OPHT T/15G"
+  },
+  {
+    "id": "1443",
+    "name": "LAINO SAV MARSEILLE PAIN/150G"
+  },
+  {
+    "id": "1444",
+    "name": "LAINO LAIT HYDR SOYEUX PULPE POMME/500ML"
+  },
+  {
+    "id": "1445",
+    "name": "LAINO EAU FLORALE ROSE F/250ML"
+  },
+  {
+    "id": "1446",
+    "name": "LAROXYL 50MG COMP BT 20"
+  },
+  {
+    "id": "1447",
+    "name": "LASILIX 20MG INJ AMP 2ML BT 1"
+  },
+  {
+    "id": "1448",
+    "name": "LE-CET CPR B/10"
+  },
+  {
+    "id": "1449",
+    "name": "LEUKOPLAST S 5MX10CM PERF"
+  },
+  {
+    "id": "1450",
+    "name": "LEVOBACT 750MG CPR B/10"
+  },
+  {
+    "id": "1451",
+    "name": "LEVO BD 1,5MG CPR B/1"
+  },
+  {
+    "id": "1452",
+    "name": "LEVOTOP 500MG CPR B/10"
+  },
+  {
+    "id": "1453",
+    "name": "LEVO DENK 250MG CPR B/10"
+  },
+  {
+    "id": "1454",
+    "name": "LEVOAS 500MG CPR PELL SEC B/10"
+  },
+  {
+    "id": "1455",
+    "name": "LEXOMIL 6MG CPR BT 30"
+  },
+  {
+    "id": "1456",
+    "name": "LINCOMYCINE 500MG COMP 10BL/12"
+  },
+  {
+    "id": "1457",
+    "name": "LINCOMYCINE 500MG GEL B/100"
+  },
+  {
+    "id": "1458",
+    "name": "LIPOVAS 20MG CPR B/30"
+  },
+  {
+    "id": "1459",
+    "name": "L-MESITRAN SOFT GEL T/50G"
+  },
+  {
+    "id": "1460",
+    "name": "LO-CARD-H CPR B/10"
+  },
+  {
+    "id": "1461",
+    "name": "LO-CARD-50 CPR B/10"
+  },
+  {
+    "id": "1462",
+    "name": "LOCAPRED CREME DERMQ TB 15G"
+  },
+  {
+    "id": "1463",
+    "name": "LOCATOP 0,1% CREME TB 30G"
+  },
+  {
+    "id": "1464",
+    "name": "LODOZ 10MG/6,25MG CPR PELL B/30"
+  },
+  {
+    "id": "1465",
+    "name": "LORHIST 10MG CPR B/10"
+  },
+  {
+    "id": "1466",
+    "name": "LOSAR DENK 50MG CPR B/28"
+  },
+  {
+    "id": "1467",
+    "name": "LOSAR DENK 100MG CPR B/28"
+  },
+  {
+    "id": "1468",
+    "name": "LOVENOX 4000UI ANTI XA SER 0,4ML B/2"
+  },
+  {
+    "id": "1469",
+    "name": "LOXEN LP 50MG GELULE BT 60"
+  },
+  {
+    "id": "1470",
+    "name": "LUFEMAX 20MG/120MG CPR B/24"
+  },
+  {
+    "id": "1471",
+    "name": "LUFEMAX FORT 80MG/480MG CPR B/6"
+  },
+  {
+    "id": "1472",
+    "name": "LUMART PLUS 120MG/20MG CPR B/24"
+  },
+  {
+    "id": "1473",
+    "name": "LUMATE FORTE 40MG/240MG CPR B/12"
+  },
+  {
+    "id": "1474",
+    "name": "LUMIRELAX 500MG CPR B/20"
+  },
+  {
+    "id": "1475",
+    "name": "LYSO 6 CPR SUBLING BT 30"
+  },
+  {
+    "id": "1476",
+    "name": "LYSOFLAM CPR B/10"
+  },
+  {
+    "id": "1477",
+    "name": "MAALOX MX ESTOMAC CPR CROQ B40"
+  },
+  {
+    "id": "1478",
+    "name": "MADAR CPR B/3"
+  },
+  {
+    "id": "1479",
+    "name": "MADECASSOL 1% CR T/10G"
+  },
+  {
+    "id": "1480",
+    "name": "MAGNE B6 CPR DRG BT 50"
+  },
+  {
+    "id": "1481",
+    "name": "MALAVAN 60MG SOL AMP INJ B/1"
+  },
+  {
+    "id": "1482",
+    "name": "MALACUR 40MG/320MG CPR B/12"
+  },
+  {
+    "id": "1483",
+    "name": "MAXIDROL COLL F/3ML"
+  },
+  {
+    "id": "1484",
+    "name": "MEBENDAZOLE UBI 100MG CPR 10 BL 6"
+  },
+  {
+    "id": "1485",
+    "name": "MEGAMYLASE 3000 CPR B/24"
+  },
+  {
+    "id": "1486",
+    "name": "MELONAX 15MG CPR B/10"
+  },
+  {
+    "id": "1487",
+    "name": "MELONAX 7,5MG CPR B/10"
+  },
+  {
+    "id": "1488",
+    "name": "MEPACURE GEL B/30"
+  },
+  {
+    "id": "1489",
+    "name": "MERONIA 500MG PDRE SOL INJ F/20ML"
+  },
+  {
+    "id": "1490",
+    "name": "METEOSPASMYL CAPSULE BT 20"
+  },
+  {
+    "id": "1491",
+    "name": "METRONIDAZOL QTPROGEN 125MG/5ML BUV100ML"
+  },
+  {
+    "id": "1492",
+    "name": "METRONIDAZOLE 500MG CPR B/20"
+  },
+  {
+    "id": "1493",
+    "name": "METROLEX-F JR 150/30MG SP F/100ML"
+  },
+  {
+    "id": "1494",
+    "name": "MICOZAL 2% CR T/15G"
+  },
+  {
+    "id": "1495",
+    "name": "MODURETIC 5MG/50MG CPR SEC B/30"
+  },
+  {
+    "id": "1496",
+    "name": "MOPRAL 20MG GEL B/14"
+  },
+  {
+    "id": "1497",
+    "name": "MOTILIUM 10MG CPR BT 40"
+  },
+  {
+    "id": "1498",
+    "name": "MOTILIUM 1MG/ML BUV FL 200ML"
+  },
+  {
+    "id": "1499",
+    "name": "MYCOSTER 8% S.EXT+PINCEAU F3ML"
+  },
+  {
+    "id": "1500",
+    "name": "MYONIT SR 2,6MG CPR B/30"
+  },
+  {
+    "id": "1501",
+    "name": "NASONEX 50MCG SUSP PULV NAS DOSE/120"
+  },
+  {
+    "id": "1502",
+    "name": "NASONEX 50MCG PULV NAS DOSE/40"
+  },
+  {
+    "id": "1503",
+    "name": "NERISONE POMMADE DERMIQ TB 30G"
+  },
+  {
+    "id": "1504",
+    "name": "NEUROBION CPR DRG B/20"
+  },
+  {
+    "id": "1505",
+    "name": "NIFLURIL 250MG GEL B/30"
+  },
+  {
+    "id": "1506",
+    "name": "NIFLUGEL 2,5% GEL T/60G"
+  },
+  {
+    "id": "1507",
+    "name": "NIFLURIL 700MG AD SUPPO B/8"
+  },
+  {
+    "id": "1508",
+    "name": "NIFLURIL 400MG ENF SUPPO SEC B/8"
+  },
+  {
+    "id": "1509",
+    "name": "NOVATEN 100MG CPR B/28"
+  },
+  {
+    "id": "1510",
+    "name": "NOVEX 6000UI/0,6ML SER PREREMPL B/2"
+  },
+  {
+    "id": "1511",
+    "name": "NOVOPHANE LOT ANTI CHUTE F/100ML"
+  },
+  {
+    "id": "1512",
+    "name": "OFLOCET 200MG CPR DRG BT 10"
+  },
+  {
+    "id": "1513",
+    "name": "OFLOCET 200MG/40ML INJ IV B/1"
+  },
+  {
+    "id": "1514",
+    "name": "OFLOR 200/500MG CPR B/10"
+  },
+  {
+    "id": "1515",
+    "name": "OGESTAN CAPS B/30"
+  },
+  {
+    "id": "1516",
+    "name": "OLFEN 50MG LACTAB B/20"
+  },
+  {
+    "id": "1517",
+    "name": "OLFEN 100MG RECTOCAPS B/5"
+  },
+  {
+    "id": "1518",
+    "name": "OMIZEC GEL B/28"
+  },
+  {
+    "id": "1519",
+    "name": "OPTIPRED 1% COLL F/5ML"
+  },
+  {
+    "id": "1520",
+    "name": "ORACEFAL 250MG/5ML PDRE SUSP BUV F/60ML"
+  },
+  {
+    "id": "1521",
+    "name": "OREX 500MG GEL B/12"
+  },
+  {
+    "id": "1522",
+    "name": "OROZAMUDOL 50MG CPR ORODISP B/10"
+  },
+  {
+    "id": "1523",
+    "name": "OSPAMOX 1000MG CPR BT 12"
+  },
+  {
+    "id": "1524",
+    "name": "OSPAMOX 1000MG CPR DISP B/12"
+  },
+  {
+    "id": "1525",
+    "name": "OSPAMOX 500 MG CPR DISP B/12"
+  },
+  {
+    "id": "1526",
+    "name": "OXALAIR 125MCG INHAL DOSES/120"
+  },
+  {
+    "id": "1527",
+    "name": "OZIBEN 100MG CPR B/6"
+  },
+  {
+    "id": "1528",
+    "name": "PANADOL ADVANCE 500MG CPR PELL SEC B/16"
+  },
+  {
+    "id": "1529",
+    "name": "PANOL 250MG SP F/60ML"
+  },
+  {
+    "id": "1530",
+    "name": "PANOL 500MG CPR B/100"
+  },
+  {
+    "id": "1531",
+    "name": "PANOL 250MG SUSP BUV  F/100ML"
+  },
+  {
+    "id": "1532",
+    "name": "PARACETAMOL 500MG CP 2BL12*CRE"
+  },
+  {
+    "id": "1533",
+    "name": "PARAFLAM 400/325MG CPR B/10"
+  },
+  {
+    "id": "1534",
+    "name": "PARA CO-DENK 500MG/30MG CPR B/20"
+  },
+  {
+    "id": "1535",
+    "name": "PARACETAMOL CREAT 500MG CPR 100BL12"
+  },
+  {
+    "id": "1536",
+    "name": "PAROL  500MG CPR B/30"
+  },
+  {
+    "id": "1537",
+    "name": "PAROL 250MG/5ML SUSP BUV F/100ML"
+  },
+  {
+    "id": "1538",
+    "name": "PERFALGAN ENF0,5G INJ 50ML F/1"
+  },
+  {
+    "id": "1539",
+    "name": "PERFALGAN AD 1G INJ 100ML F/1"
+  },
+  {
+    "id": "1540",
+    "name": "PERMIXON 160MG GEL B/60"
+  },
+  {
+    "id": "1541",
+    "name": "PERVITAL SP F/125ML"
+  },
+  {
+    "id": "1542",
+    "name": "PERVITAL CPR B/20"
+  },
+  {
+    "id": "1543",
+    "name": "PEVARYL 1% CREME DERMQ TB 30G"
+  },
+  {
+    "id": "1544",
+    "name": "PEVARYL 1% EMU.FLUID LAIT/30ML"
+  },
+  {
+    "id": "1545",
+    "name": "PEVARYL 1% PDRE APPL LOCAL 30G"
+  },
+  {
+    "id": "1546",
+    "name": "PHARMATEX CPR GYNECO 20MG B/12"
+  },
+  {
+    "id": "1547",
+    "name": "PHARMATEX OVULE BT 10"
+  },
+  {
+    "id": "1548",
+    "name": "PHARMAGRIP SS SUSP SACH B/10"
+  },
+  {
+    "id": "1549",
+    "name": "PHARMAGRIP SS GEL B/14"
+  },
+  {
+    "id": "1550",
+    "name": "PHENERGAN 25MG CPR BT 20"
+  },
+  {
+    "id": "1551",
+    "name": "PHYSIODOSE SERUM PHYSIO 5ML/30"
+  },
+  {
+    "id": "1552",
+    "name": "PIASCLEDINE 300MG GEL B/15"
+  },
+  {
+    "id": "1553",
+    "name": "PIPRAM FORT 400MG CPR BT 10"
+  },
+  {
+    "id": "1554",
+    "name": "PIROXEN 20MG AMP INJ 1ML B/2"
+  },
+  {
+    "id": "1555",
+    "name": "PNEUMOREL 80MG CPR B/30"
+  },
+  {
+    "id": "1556",
+    "name": "PNEUMOREL 0,2% SP F/150ML"
+  },
+  {
+    "id": "1557",
+    "name": "POLYGYNAX VIRGO CAPS GYNEC BT6"
+  },
+  {
+    "id": "1558",
+    "name": "POLYVIT CPR B/30"
+  },
+  {
+    "id": "1559",
+    "name": "PONSTYL 250MG GEL B/20"
+  },
+  {
+    "id": "1560",
+    "name": "PRAZOL 20MG GEL 2BL7"
+  },
+  {
+    "id": "1561",
+    "name": "PRESERV MANIX SKYN INTENSE FEEL B/10"
+  },
+  {
+    "id": "1562",
+    "name": "PRIMALAN 10MG CPR SEC B/14"
+  },
+  {
+    "id": "1563",
+    "name": "PRIMATIME TEST D'OVULATION"
+  },
+  {
+    "id": "1564",
+    "name": "PRIMALAC PREMIUM 3 LAIT PDRE B/400G"
+  },
+  {
+    "id": "1565",
+    "name": "PROBITOR 20MG GEL B/14"
+  },
+  {
+    "id": "1566",
+    "name": "PROCOMIL CREME T/5G"
+  },
+  {
+    "id": "1567",
+    "name": "PROCTOLOG SUPPO B/10"
+  },
+  {
+    "id": "1568",
+    "name": "PROFENID 50MG GELULE BT 24"
+  },
+  {
+    "id": "1569",
+    "name": "PROFENID 100MG CPR BT 30"
+  },
+  {
+    "id": "1570",
+    "name": "PROGESTOGEL GEL EXT TB 80G"
+  },
+  {
+    "id": "1571",
+    "name": "PROGLAU 20MG/ML COLL F/5ML"
+  },
+  {
+    "id": "1572",
+    "name": "PROTEC PILL 1,5MG CPR B/1"
+  },
+  {
+    "id": "1573",
+    "name": "PROXEED PLUS SACH 5G B/30"
+  },
+  {
+    "id": "1574",
+    "name": "PRUREX CR DERMIQ TB 40G"
+  },
+  {
+    "id": "1575",
+    "name": "PULMODEXANE 30MG CPR PELL B/12"
+  },
+  {
+    "id": "1576",
+    "name": "PYRALVEX SOLUTE EXT. FL 10ML"
+  },
+  {
+    "id": "1577",
+    "name": "QUINIMAX 500MG CPR BT 9"
+  },
+  {
+    "id": "1578",
+    "name": "QUINIMAX 500MG INJ AMP 4ML B25"
+  },
+  {
+    "id": "1579",
+    "name": "QUININE CREAT 300MG CPR 10BL10"
+  },
+  {
+    "id": "1580",
+    "name": "RAASAR-AM  5MG/50MG CPR B/30"
+  },
+  {
+    "id": "1581",
+    "name": "RAMITHIAZIDE 5MG/12,5MG CPR B/30"
+  },
+  {
+    "id": "1582",
+    "name": "RANFERON SIROP FL 200ML"
+  },
+  {
+    "id": "1583",
+    "name": "RANFERON 12 CAPS BTE 30"
+  },
+  {
+    "id": "1584",
+    "name": "RANFERON PLUS GEL B/30"
+  },
+  {
+    "id": "1585",
+    "name": "RANI DENK 150MG CPR B/20"
+  },
+  {
+    "id": "1586",
+    "name": "REUMOXICAN 20MG CPR DISP B/30"
+  },
+  {
+    "id": "1587",
+    "name": "REUMOXICAN 20MG GEL B/10"
+  },
+  {
+    "id": "1588",
+    "name": "RIABAL COMPOSE 30MG/325MG CPR PELL B/20"
+  },
+  {
+    "id": "1589",
+    "name": "RILIF PLUS 100MG/500MG CPR SEC B/30"
+  },
+  {
+    "id": "1590",
+    "name": "RINIALER 1MG/ML SOL BUV F/120ML +SER/5ML"
+  },
+  {
+    "id": "1591",
+    "name": "R-LUME 20/120MG CPR B/6"
+  },
+  {
+    "id": "1592",
+    "name": "ROCEPHINE 1G IV FL+AMP B/1"
+  },
+  {
+    "id": "1593",
+    "name": "ROCGEL SUSP BUV SACH10ML BT 24"
+  },
+  {
+    "id": "1594",
+    "name": "ROCMALINE BUV AMP 10ML BT 20"
+  },
+  {
+    "id": "1595",
+    "name": "ROLICIN 500MG CPR PELL B/3"
+  },
+  {
+    "id": "1596",
+    "name": "ROVAMYCINE 1,5MN CPR BT 16"
+  },
+  {
+    "id": "1597",
+    "name": "SALBUTUS 2MG/5ML SOL BUV F/200ML"
+  },
+  {
+    "id": "1598",
+    "name": "SARGENOR 1G AMP BUV  5ML B/20"
+  },
+  {
+    "id": "1599",
+    "name": "SECUFEM 1,5MG CPR B/1"
+  },
+  {
+    "id": "1600",
+    "name": "SEDORRHOIDE CRISE HEMORROIDAIRE CR T/30G"
+  },
+  {
+    "id": "1601",
+    "name": "SEDORRHOIDE CRISE HEMORROIDE SUPPO B/8"
+  },
+  {
+    "id": "1602",
+    "name": "SENSIGEL GEL DENT T/50ML"
+  },
+  {
+    "id": "1603",
+    "name": "SENSITELIAL GEL NETT SURGRAS F/200ML"
+  },
+  {
+    "id": "1604",
+    "name": "SENSODYNE MULTIPROTEC DENT PATE T/75ML"
+  },
+  {
+    "id": "1605",
+    "name": "SERC 8MG CPR B/90"
+  },
+  {
+    "id": "1606",
+    "name": "SETRONAX 2MG/5ML SUSP BUV F/60ML"
+  },
+  {
+    "id": "1607",
+    "name": "SIDEGRA 50MG CPR B/4"
+  },
+  {
+    "id": "1608",
+    "name": "SILAGRA 100MG CPR B/4 HP"
+  },
+  {
+    "id": "1609",
+    "name": "SIMEPAR CAPS B/40"
+  },
+  {
+    "id": "1610",
+    "name": "SIMVA DENK 40MG CPR B/30"
+  },
+  {
+    "id": "1611",
+    "name": "SMECTA3G PDR SUSP BUV ORANG/VANIL SACH30"
+  },
+  {
+    "id": "1612",
+    "name": "SOLCER 40MG INJ B/1"
+  },
+  {
+    "id": "1613",
+    "name": "SOLFER SP F/200ML"
+  },
+  {
+    "id": "1614",
+    "name": "SPASMOMEN 40MG CPR B/30"
+  },
+  {
+    "id": "1615",
+    "name": "SPIRALIDE 3MUI CPR B/10"
+  },
+  {
+    "id": "1616",
+    "name": "STABLON 12,5MG CPR ENR B/30"
+  },
+  {
+    "id": "1617",
+    "name": "STAMINA GEL/30"
+  },
+  {
+    "id": "1618",
+    "name": "STAPHYPEN 250MG SP F/100ML"
+  },
+  {
+    "id": "1619",
+    "name": "STERIMAR SOL NAS AEROSOL/100ML"
+  },
+  {
+    "id": "1620",
+    "name": "STERIMAR SOL EXT AEROSOL/50ML"
+  },
+  {
+    "id": "1621",
+    "name": "STODAL SIROP FL 200ML"
+  },
+  {
+    "id": "1622",
+    "name": "STRIMOL EXTRA CPR B/20"
+  },
+  {
+    "id": "1623",
+    "name": "SULRID 50MG CPR B/20"
+  },
+  {
+    "id": "1624",
+    "name": "SUPPLIN 250MG CPR BT 20"
+  },
+  {
+    "id": "1625",
+    "name": "SUTRILNEO 5MG CPR B/30"
+  },
+  {
+    "id": "1626",
+    "name": "SVR SEBIACLEAR CR ACTIVE T/40ML"
+  },
+  {
+    "id": "1627",
+    "name": "T-FER SP F/200ML"
+  },
+  {
+    "id": "1628",
+    "name": "TANAKAN 40MG CPR ENR B/30"
+  },
+  {
+    "id": "1629",
+    "name": "TANAGEL 250MG PDRE SUSP SACH B/20"
+  },
+  {
+    "id": "1630",
+    "name": "TEDRALAN LP 200MG GEL B/30"
+  },
+  {
+    "id": "1631",
+    "name": "TEGRETOL LP 400MG CPR BTE 30"
+  },
+  {
+    "id": "1632",
+    "name": "TELMIKAA 40MG CPR B/30"
+  },
+  {
+    "id": "1633",
+    "name": "TENORMINE 100MG CPR B/30"
+  },
+  {
+    "id": "1634",
+    "name": "TENORETIC 50MG/12,5MG CPR B/30"
+  },
+  {
+    "id": "1635",
+    "name": "TENSIONORME CPR BT 24"
+  },
+  {
+    "id": "1636",
+    "name": "TENSOPLAST HB BANDE ADH 2,5MX6CM B/1"
+  },
+  {
+    "id": "1637",
+    "name": "TENSOPLAST HB BANDE ADH 2,5MX8CM B/1"
+  },
+  {
+    "id": "1638",
+    "name": "TENSOPLAST HB BANDE ADH 2,5MX10CM B/1"
+  },
+  {
+    "id": "1639",
+    "name": "TEST GROSSESSE INSTANT VIEW HCG B/1"
+  },
+  {
+    "id": "1640",
+    "name": "THIOBACTIN 500MG COMP B/24"
+  },
+  {
+    "id": "1641",
+    "name": "TIBERAL 500MG CPR BT 3"
+  },
+  {
+    "id": "1642",
+    "name": "TICASSE 875/125MG CPR B/14"
+  },
+  {
+    "id": "1643",
+    "name": "TICASSE 500/125MG CPR B/15"
+  },
+  {
+    "id": "1644",
+    "name": "TIRLOR 10MG CPR B/10"
+  },
+  {
+    "id": "1645",
+    "name": "TITANOREINE SUPPO BTE 12"
+  },
+  {
+    "id": "1646",
+    "name": "TITANOREINE LIDOCAINE 2% CR RECT T/20G"
+  },
+  {
+    "id": "1647",
+    "name": "TOBRADEX COLL F/5ML"
+  },
+  {
+    "id": "1648",
+    "name": "TOCFIM 100MG/5ML PDRE SUSP BUV F/60ML"
+  },
+  {
+    "id": "1649",
+    "name": "TONLUM 80/480MG CPR B/6"
+  },
+  {
+    "id": "1650",
+    "name": "TONLUM 20/120MG CPR B/24"
+  },
+  {
+    "id": "1651",
+    "name": "TOPIALYSE CR EMOLL PEAU ATOPIQ T/200ML"
+  },
+  {
+    "id": "1652",
+    "name": "TOPICREM ULTRA HYDR LAIT CORPS F/500ML"
+  },
+  {
+    "id": "1653",
+    "name": "TOPICREM ULTRA HYDR LAIT CORPS F/200ML"
+  },
+  {
+    "id": "1654",
+    "name": "TOTAL MINCEUR CPR B/30"
+  },
+  {
+    "id": "1655",
+    "name": "TRABAR 100MG INJ AMP B/5"
+  },
+  {
+    "id": "1656",
+    "name": "TRACEDOL CPR EFFV B/16"
+  },
+  {
+    "id": "1657",
+    "name": "TRAMACETAL 37,5MG/325MG CPR B/10"
+  },
+  {
+    "id": "1658",
+    "name": "TRAUSAN 100MG/ML F/50ML"
+  },
+  {
+    "id": "1659",
+    "name": "TRIATEC 5MG CPR BT 30"
+  },
+  {
+    "id": "1660",
+    "name": "TRIBUTINE 150MG GEL B/20"
+  },
+  {
+    "id": "1661",
+    "name": "TRIPLIXAM 5MG/1,25MG/5MG CPR B/30"
+  },
+  {
+    "id": "1662",
+    "name": "TRIPLIXAM 10MG/2,5MG/5MG CPR B/30"
+  },
+  {
+    "id": "1663",
+    "name": "TRITAZIDE 10MG/25MG CPR B/28"
+  },
+  {
+    "id": "1664",
+    "name": "TRITAZIDE 5MG/12,5MG CPR B/28"
+  },
+  {
+    "id": "1665",
+    "name": "TRIVASTAL LP 50MG CPR ENR B/30"
+  },
+  {
+    "id": "1666",
+    "name": "TUSSISEDAL SIROP FL 125ML"
+  },
+  {
+    "id": "1667",
+    "name": "TYFLOX 500MG CPR B/10"
+  },
+  {
+    "id": "1668",
+    "name": "UBENZOLE 400MG CPR B/1"
+  },
+  {
+    "id": "1669",
+    "name": "UMEXIM 200MG GEL B/10"
+  },
+  {
+    "id": "1670",
+    "name": "UNISPIRA 3MUI CPR PELL B/10"
+  },
+  {
+    "id": "1671",
+    "name": "UNIZITHRIN 500MG GEL B/3"
+  },
+  {
+    "id": "1672",
+    "name": "URBANYL 10MG CPR BT 30"
+  },
+  {
+    "id": "1673",
+    "name": "UTROGESTAN CAPSULE BT 30"
+  },
+  {
+    "id": "1674",
+    "name": "VAC EUVAX B PED 10MCG INJ B/1"
+  },
+  {
+    "id": "1675",
+    "name": "VASTAREL LM 35MG CPR PELL B/60"
+  },
+  {
+    "id": "1676",
+    "name": "VEGEBOM BME SECOURS T/100G"
+  },
+  {
+    "id": "1677",
+    "name": "VEINOBIASE CPR EFFV B/30"
+  },
+  {
+    "id": "1678",
+    "name": "VENOSMIL GELULE BTE 20"
+  },
+  {
+    "id": "1679",
+    "name": "VERA DENK240MG RETARD CPR BL50"
+  },
+  {
+    "id": "1680",
+    "name": "VEREX 400MG CPR B/1"
+  },
+  {
+    "id": "1681",
+    "name": "VISCODRIL SP F/100ML"
+  },
+  {
+    "id": "1682",
+    "name": "VITA C 1000 CPR EFFEV B/10"
+  },
+  {
+    "id": "1683",
+    "name": "VITAMINE E FORTE MEPACO GEL B/20"
+  },
+  {
+    "id": "1684",
+    "name": "VITAFER FORTE SP F/200ML"
+  },
+  {
+    "id": "1685",
+    "name": "VOLTARENE LP 100MG CPR BT 15"
+  },
+  {
+    "id": "1686",
+    "name": "VOLTARENE 50MG CPR BT 30"
+  },
+  {
+    "id": "1687",
+    "name": "VOLTARENE 25MG CPR B/30"
+  },
+  {
+    "id": "1688",
+    "name": "XALATAN 0,005% COLL F/2,5ML"
+  },
+  {
+    "id": "1689",
+    "name": "XANAX 0,50MG CPR B/30"
+  },
+  {
+    "id": "1690",
+    "name": "XATRAL LP 5MG CPR BTE 56"
+  },
+  {
+    "id": "1691",
+    "name": "ZAMOX 1000MG/125MG SACH B/16"
+  },
+  {
+    "id": "1692",
+    "name": "ZAMUDOL LP 50MG GEL B/10"
+  },
+  {
+    "id": "1693",
+    "name": "ZAMUDOL LP 100MG GEL B/10"
+  },
+  {
+    "id": "1694",
+    "name": "ZERODOL 100MG CPR 3BL10"
+  },
+  {
+    "id": "1695",
+    "name": "ZINNAT 250MG CPR BT 8"
+  },
+  {
+    "id": "1696",
+    "name": "ZINNAT 750MG IM/IV INJ FL/1"
+  },
+  {
+    "id": "1697",
+    "name": "ZITHROMAX 200MG PDRE SUSP BUV F/15ML"
+  },
+  {
+    "id": "1698",
+    "name": "ZOVIRAX 200MG CPR BT 25"
+  },
+  {
+    "id": "1699",
+    "name": "ZYMAFLUOR 0.25MG CPR BT 200"
+  },
+  {
+    "id": "1700",
+    "name": "Z-ZOLE 4GR SUSP BUV F/10ML"
+  },
+  {
+    "id": "1701",
+    "name": "ACOFAN 100MG CPR B/30"
+  },
+  {
+    "id": "1702",
+    "name": "ACURE 20MG/120MG NN PDRE SUSP BUV F/30ML"
+  },
+  {
+    "id": "1703",
+    "name": "ACURE 40MG/240MG ENF PDR SUSP BUV F/30ML"
+  },
+  {
+    "id": "1704",
+    "name": "ACURE60MG/360MG ADO PDRE SUSP BUV F/30ML"
+  },
+  {
+    "id": "1705",
+    "name": "ACYCLOVIR DENK 200MG CPR B/25"
+  },
+  {
+    "id": "1706",
+    "name": "AIRTAL 100MG CPR BT 40"
+  },
+  {
+    "id": "1707",
+    "name": "ALGISEDAL CPR 500MG BT 16"
+  },
+  {
+    "id": "1708",
+    "name": "AMLOR 5MG CPR B/14"
+  },
+  {
+    "id": "1709",
+    "name": "AMLOSTAR 5MG CPR B/30"
+  },
+  {
+    "id": "1710",
+    "name": "APDYL-H SIROP 100ML"
+  },
+  {
+    "id": "1711",
+    "name": "ARGINOTRI B CPR PELL B/24"
+  },
+  {
+    "id": "1712",
+    "name": "ARGININE VEYRON SIROP FL 250ML"
+  },
+  {
+    "id": "1713",
+    "name": "ABZ 200MG/5ML SUSP BUV F/10ML"
+  },
+  {
+    "id": "1714",
+    "name": "ARTEQUIN 600/750 LACTAB B/6"
+  },
+  {
+    "id": "1715",
+    "name": "ARTEQUIN 300/375 CPR B/6"
+  },
+  {
+    "id": "1716",
+    "name": "ARTOTEC 75MG CPR B/20"
+  },
+  {
+    "id": "1717",
+    "name": "ARTRINE 80/480MG CPR B/6"
+  },
+  {
+    "id": "1718",
+    "name": "ASTYFER SP F/110ML"
+  },
+  {
+    "id": "1719",
+    "name": "ATEPADENE 30MG GEL T/30"
+  },
+  {
+    "id": "1720",
+    "name": "ATROPINE ALC 1% COLLYRE FP10ML"
+  },
+  {
+    "id": "1721",
+    "name": "AZANTAC 75MG COMP EFF B/14"
+  },
+  {
+    "id": "1722",
+    "name": "ACIDE FOLIQUE 5MG CPR B/30"
+  },
+  {
+    "id": "1723",
+    "name": "BACTOX 500MG PDRE SUSP BUV F/60ML"
+  },
+  {
+    "id": "1724",
+    "name": "BACTOCLAV 100MG SUSP F/100ML"
+  },
+  {
+    "id": "1725",
+    "name": "BETADINE DERMQ FP 125ML JAUNE"
+  },
+  {
+    "id": "1726",
+    "name": "BETNEVAL 0,1% CREME DERM TB30G"
+  },
+  {
+    "id": "1727",
+    "name": "BIAFINE EMULSION T/93G"
+  },
+  {
+    "id": "1728",
+    "name": "BIAFINE EMULSION T/186G"
+  },
+  {
+    "id": "1729",
+    "name": "BLOKIUM 50MG CPR BT 15"
+  },
+  {
+    "id": "1730",
+    "name": "BLOKIUM 100MG CPR BT 15"
+  },
+  {
+    "id": "1731",
+    "name": "BRONCHOKOD 5G/100ML AD SOL BUV F/250ML"
+  },
+  {
+    "id": "1732",
+    "name": "BRUFEN SIROP PEDI F/100ML"
+  },
+  {
+    "id": "1733",
+    "name": "BETADINE GEL DERMIQ TB 30G"
+  },
+  {
+    "id": "1734",
+    "name": "BETADINE VAG+NEC F/125ML"
+  },
+  {
+    "id": "1735",
+    "name": "B VIT FORT CPR B/100"
+  },
+  {
+    "id": "1736",
+    "name": "CA C 1000 CPR EFFV ORANGE B/10"
+  },
+  {
+    "id": "1737",
+    "name": "ANTICID PLUS 250MG/350MG/50MG SP F/200ML"
+  },
+  {
+    "id": "1738",
+    "name": "CALBEN 400MG/10ML SUSP ORAL F/10ML"
+  },
+  {
+    "id": "1739",
+    "name": "CALTOUX 133MG SP AD F/100ML"
+  },
+  {
+    "id": "1740",
+    "name": "CAMVIT PLUS GEL B/30"
+  },
+  {
+    "id": "1741",
+    "name": "CANAFLUCAN 150MG GEL B/1"
+  },
+  {
+    "id": "1742",
+    "name": "CANDID CR T/20G"
+  },
+  {
+    "id": "1743",
+    "name": "CANDI 150MG GEL B/4"
+  },
+  {
+    "id": "1744",
+    "name": "CARBEN SUSP BUV F/30ML"
+  },
+  {
+    "id": "1745",
+    "name": "BICARBONATE NA 1,4% FRES 500ML"
+  },
+  {
+    "id": "1746",
+    "name": "CETAFOR 1G IV PDRE INJ AMP/10ML+F/1"
+  },
+  {
+    "id": "1747",
+    "name": "CETRAXAL OTICO GTTE AUR F/10ML"
+  },
+  {
+    "id": "1748",
+    "name": "CEXOLAN 50MCG/ML COLL F/2,5ML"
+  },
+  {
+    "id": "1749",
+    "name": "BIMALARIL 20/120MG NN CPR DISP B/6"
+  },
+  {
+    "id": "1750",
+    "name": "CHOCOFER 50MG/0,5MG SP F/200ML"
+  },
+  {
+    "id": "1751",
+    "name": "CHOPHYTOL 200MG CPR ENR B/60"
+  },
+  {
+    "id": "1752",
+    "name": "CIALIS 20MG CPR B/4"
+  },
+  {
+    "id": "1753",
+    "name": "CIFRAN 500MG CPR BTE 10"
+  },
+  {
+    "id": "1754",
+    "name": "CILOXAN 0,3% COLL F/5ML"
+  },
+  {
+    "id": "1755",
+    "name": "CIPROMED TZ CPR B/10"
+  },
+  {
+    "id": "1756",
+    "name": "CLARIVA 250MG CPR B/14"
+  },
+  {
+    "id": "1757",
+    "name": "CLAVUMOCCID 1G CPR B/10"
+  },
+  {
+    "id": "1758",
+    "name": "CLOFAINS 500MG/50MG CPR B/10"
+  },
+  {
+    "id": "1759",
+    "name": "CLOPI-DENK 75MG CPR B/30"
+  },
+  {
+    "id": "1760",
+    "name": "COLLUHEXTRIL COLLU FL NEB 40ML"
+  },
+  {
+    "id": "1761",
+    "name": "COMBANTRIN 125MG CPR B/6"
+  },
+  {
+    "id": "1762",
+    "name": "CONCEPTIO HOMME SACH+CAPS B/30+90"
+  },
+  {
+    "id": "1763",
+    "name": "COSOPT 20MG/ML+5MG/ML COLL F/5ML"
+  },
+  {
+    "id": "1764",
+    "name": "COVERSYL 10MG CPR PELL B/30"
+  },
+  {
+    "id": "1765",
+    "name": "CRESTOR 10MG CPR PELL B/30"
+  },
+  {
+    "id": "1766",
+    "name": "CATAPRESSAN 0,15MG CPR B/30"
+  },
+  {
+    "id": "1767",
+    "name": "CURAM 250MG SIROP FL/60ML"
+  },
+  {
+    "id": "1768",
+    "name": "COLCHIMAX CPR SEC B/20"
+  },
+  {
+    "id": "1769",
+    "name": "ARTANE 10MG SOL INJ AMP 5ML B/5"
+  },
+  {
+    "id": "1770",
+    "name": "AUROTHRIN 500MG CPR PELL B/3"
+  },
+  {
+    "id": "1771",
+    "name": "COLTRAMYL 4MG CPR BT 12"
+  },
+  {
+    "id": "1772",
+    "name": "CLOMID 50MG CPR BT * 5 *"
+  },
+  {
+    "id": "1773",
+    "name": "DICLOWAL 50MG CPR BTE 20"
+  },
+  {
+    "id": "1774",
+    "name": "BACTOZOL 500MG/500MG CPR B/20"
+  },
+  {
+    "id": "1775",
+    "name": "DICLOBERL 100MG SUPPO B/10"
+  },
+  {
+    "id": "1776",
+    "name": "DICLOPAR 500/50MG CPR B/10"
+  },
+  {
+    "id": "1777",
+    "name": "DICLOSIM 325MG/50MG CPR B/20"
+  },
+  {
+    "id": "1778",
+    "name": "DIMET 500MG CPR B/50"
+  },
+  {
+    "id": "1779",
+    "name": "DIPROLENE 0.05% PDE T/15G"
+  },
+  {
+    "id": "1780",
+    "name": "ALVIR 5% CR T/5G"
+  },
+  {
+    "id": "1781",
+    "name": "BACQURE 500MG INJ AMP B/1"
+  },
+  {
+    "id": "1782",
+    "name": "DISLEP 25MG AMP INJ 2,5ML B/6"
+  },
+  {
+    "id": "1783",
+    "name": "DOLKO ADULT 500MG SACHET B/12"
+  },
+  {
+    "id": "1784",
+    "name": "DOLOTREN 100MG GELULE BTE 20"
+  },
+  {
+    "id": "1785",
+    "name": "CURAM 1000MG/125MG SACH B/12"
+  },
+  {
+    "id": "1786",
+    "name": "DOLODENT SOL GINGIV F/27G"
+  },
+  {
+    "id": "1787",
+    "name": "DOLOFORTE DENK 325/37,5MG CPR PELL B/20"
+  },
+  {
+    "id": "1788",
+    "name": "DAKASVIR 60MG CPR PELL B/28"
+  },
+  {
+    "id": "1789",
+    "name": "DOXYCYCLINE 200MG CPR 10BL10"
+  },
+  {
+    "id": "1790",
+    "name": "DRILL PASTILLE BT 24"
+  },
+  {
+    "id": "1791",
+    "name": "DUOTRAV BAK FREE COLL F/2,5ML"
+  },
+  {
+    "id": "1792",
+    "name": "DUSPATALIN 200MG GEL B/30"
+  },
+  {
+    "id": "1793",
+    "name": "DYNALGIC CPR T/20"
+  },
+  {
+    "id": "1794",
+    "name": "AMOXI-DENK 500MG CPR 2BL10"
+  },
+  {
+    "id": "1795",
+    "name": "ATENOLOL DENK 50MG CPR/100BL"
+  },
+  {
+    "id": "1796",
+    "name": "DICLO DENK 50MG CPR B/20"
+  },
+  {
+    "id": "1797",
+    "name": "CLAVICIN 1,2G PDRE INJ B/1"
+  },
+  {
+    "id": "1798",
+    "name": "EFFERALGAN 150MG SUPPO B/10"
+  },
+  {
+    "id": "1799",
+    "name": "BETADINE 10% SOL VAG F/125ML"
+  },
+  {
+    "id": "1800",
+    "name": "ENEAS 10/20MG CPR B/30"
+  },
+  {
+    "id": "1801",
+    "name": "EOSINE AQU.2% AMP 2ML B10 GILB"
+  },
+  {
+    "id": "1802",
+    "name": "EPITOPIC 50MG CREME TB 15G"
+  },
+  {
+    "id": "1803",
+    "name": "ERLUS 5MG CPR B/14"
+  },
+  {
+    "id": "1804",
+    "name": "EUPHON SP F/300ML"
+  },
+  {
+    "id": "1805",
+    "name": "EXILAR 20MG CPR PELL B/4"
+  },
+  {
+    "id": "1806",
+    "name": "EXILAR 10MG CPR PELL B/4"
+  },
+  {
+    "id": "1807",
+    "name": "BIOFERON SUSP BUV F/200ML"
+  },
+  {
+    "id": "1808",
+    "name": "BRUMED 400MG CPR ENR B/100"
+  },
+  {
+    "id": "1809",
+    "name": "FANSIDAR CPR QUADRISEC B/3"
+  },
+  {
+    "id": "1810",
+    "name": "DOLIPRANE 100MG PDRE SACH/12"
+  },
+  {
+    "id": "1811",
+    "name": "FERCEFOL SP F/150ML"
+  },
+  {
+    "id": "1812",
+    "name": "FEROX SP F/200ML"
+  },
+  {
+    "id": "1813",
+    "name": "FEROX CAPS B/30"
+  },
+  {
+    "id": "1814",
+    "name": "FEROZYN CAPS B/30"
+  },
+  {
+    "id": "1815",
+    "name": "CALCIUM ACTIVE DENK 500MG CPR EFFV T/20"
+  },
+  {
+    "id": "1816",
+    "name": "FLAGYL 500MG CPR DRG BT 14"
+  },
+  {
+    "id": "1817",
+    "name": "FLEMING 281,25MG PDRE SUSP BUV F/60ML"
+  },
+  {
+    "id": "1818",
+    "name": "FLOXEDOL 3MG/ML GEL OPHT F/10ML"
+  },
+  {
+    "id": "1819",
+    "name": "FLUCON COLL F/3ML"
+  },
+  {
+    "id": "1820",
+    "name": "FLUCONA DENK 100MG GEL B/10"
+  },
+  {
+    "id": "1821",
+    "name": "FLUISEDAL SIROP FL 125ML"
+  },
+  {
+    "id": "1822",
+    "name": "FLUISEDAL SS PROMET SP FL125ML"
+  },
+  {
+    "id": "1823",
+    "name": "FORTALINE PLUS 500MG CAPS B/20"
+  },
+  {
+    "id": "1824",
+    "name": "GANIDAN 500MG CPR BT 20"
+  },
+  {
+    "id": "1825",
+    "name": "GASTROPULGITE PDRE SUSP BUV SACH B/30"
+  },
+  {
+    "id": "1826",
+    "name": "G-CEFTRIA 1G IM IV PDRE SOL INJ F/1"
+  },
+  {
+    "id": "1827",
+    "name": "GESTARELLE G CAPS B/30"
+  },
+  {
+    "id": "1828",
+    "name": "GLIDIABET 5MG CPR BTE 30"
+  },
+  {
+    "id": "1829",
+    "name": "GLIMEPIRIDE DENK 2MG CPR B/30"
+  },
+  {
+    "id": "1830",
+    "name": "GLIMEPIRIDE DENK 3MG CPR B/30"
+  },
+  {
+    "id": "1831",
+    "name": "GLUCOPHAGE 850MG CPR BT 100"
+  },
+  {
+    "id": "1832",
+    "name": "GLUCOSE 5% KABIPAC PERF 500ML FRES"
+  },
+  {
+    "id": "1833",
+    "name": "GLUCOSE 5% KABIPAC PERF 250ML FRES"
+  },
+  {
+    "id": "1834",
+    "name": "GLUCOSE 10% KABIPAC PERF 250ML FRES"
+  },
+  {
+    "id": "1835",
+    "name": "GYNO PEVARYL 150MG OV B/3"
+  },
+  {
+    "id": "1836",
+    "name": "GYNOMAX OVULES B/6"
+  },
+  {
+    "id": "1837",
+    "name": "GYNOSPAN CPR B/30"
+  },
+  {
+    "id": "1838",
+    "name": "GYNOSPAN SUPPO B/10"
+  },
+  {
+    "id": "1839",
+    "name": "GYNOMAX OVULES B/12"
+  },
+  {
+    "id": "1840",
+    "name": "HELICIDINE SIROP FL 125ML"
+  },
+  {
+    "id": "1841",
+    "name": "HEPANEPHROL BUV AMP 10ML BT 20"
+  },
+  {
+    "id": "1842",
+    "name": "HUILE GOMENOLEE 5% FL 22ML"
+  },
+  {
+    "id": "1843",
+    "name": "HUILE GOMENOLEE 2% FL 22ML"
+  },
+  {
+    "id": "1844",
+    "name": "HYPERIUM 1MG CPR B/30"
+  },
+  {
+    "id": "1845",
+    "name": "IRYS 1MG CPR PELL SEC B/30"
+  },
+  {
+    "id": "1846",
+    "name": "JORIDOL 50MG GEL B/10"
+  },
+  {
+    "id": "1847",
+    "name": "JUVAMINE FIZZ GOLD CPR EFFV B/30"
+  },
+  {
+    "id": "1848",
+    "name": "JUVAMINE GINSENG GELEE ROYALE AMP B/10"
+  },
+  {
+    "id": "1849",
+    "name": "KEFROX 250MG CPR B/10"
+  },
+  {
+    "id": "1850",
+    "name": "KESTINE 10MG CPR B/10"
+  },
+  {
+    "id": "1851",
+    "name": "KINAZOL 2% SOL EXT F/100ML"
+  },
+  {
+    "id": "1852",
+    "name": "KINAL IBU FORT CPR B/100"
+  },
+  {
+    "id": "1853",
+    "name": "KOACT 500MG/125MG CPR B/15"
+  },
+  {
+    "id": "1854",
+    "name": "LAROXYL 25MG CPR BT 60"
+  },
+  {
+    "id": "1855",
+    "name": "LASILIX FAIBLE 20MG CPR BT 30"
+  },
+  {
+    "id": "1856",
+    "name": "LEUCODININE B 10% PDE T/30G"
+  },
+  {
+    "id": "1857",
+    "name": "LEVOTHYROX 100MCG CPR SEC B/30"
+  },
+  {
+    "id": "1858",
+    "name": "LEVOTHYROX 50MCG CPR SEC B/30"
+  },
+  {
+    "id": "1859",
+    "name": "LEVORAY 500MG CPR B/5"
+  },
+  {
+    "id": "1860",
+    "name": "LIVOZED 500MG CPR B/10"
+  },
+  {
+    "id": "1861",
+    "name": "LOCOID CR.DERMIQ EPAISSE TB30G"
+  },
+  {
+    "id": "1862",
+    "name": "LOCOID POMMADE TB 30G"
+  },
+  {
+    "id": "1863",
+    "name": "LOSAR DENK 25MG CPR PELL B/28"
+  },
+  {
+    "id": "1864",
+    "name": "LOVENOX 6000UI ANTI XA SER 0,6ML B/2"
+  },
+  {
+    "id": "1865",
+    "name": "LOXEN 20MG CPR BT 30"
+  },
+  {
+    "id": "1866",
+    "name": "LUFENART FORTE 80/480MG CPR B/6"
+  },
+  {
+    "id": "1867",
+    "name": "LUTENYL 5MG CPR BT 10"
+  },
+  {
+    "id": "1868",
+    "name": "MAALOX SUSP BUV SACH/15ML B/30"
+  },
+  {
+    "id": "1869",
+    "name": "MAGNES ACTIVE DENK GR STICK B/30"
+  },
+  {
+    "id": "1870",
+    "name": "MAG 2 100MG CPR BLIST/60"
+  },
+  {
+    "id": "1871",
+    "name": "MALACUR 20MG/160MG CPR DISP B/6"
+  },
+  {
+    "id": "1872",
+    "name": "MALOXINE ND CPR PRES.3 BLIS/50"
+  },
+  {
+    "id": "1873",
+    "name": "MEFSAL 7,5MG CPR SEC B/20"
+  },
+  {
+    "id": "1874",
+    "name": "MELEX 1MG CPR B/30"
+  },
+  {
+    "id": "1875",
+    "name": "MEPHAQUIN LACTAB B/4"
+  },
+  {
+    "id": "1876",
+    "name": "METEOXANE GELULE BT 60"
+  },
+  {
+    "id": "1877",
+    "name": "METFORAL 850MG CPR PELL B/30"
+  },
+  {
+    "id": "1878",
+    "name": "MIGRALGINE GEL B/12"
+  },
+  {
+    "id": "1879",
+    "name": "MODUCREN CPR SECABLE BT 30"
+  },
+  {
+    "id": "1880",
+    "name": "MOMENTA CR T/30G"
+  },
+  {
+    "id": "1881",
+    "name": "MONAAMI CPR B/20"
+  },
+  {
+    "id": "1882",
+    "name": "MONURIL 3G SACHET BT 1"
+  },
+  {
+    "id": "1883",
+    "name": "MUCOXINE 200MG PDRE SUSP BUV SACH B/30"
+  },
+  {
+    "id": "1884",
+    "name": "MUXOL BUV SOLUTION FL 180ML"
+  },
+  {
+    "id": "1885",
+    "name": "NAABAK 4,9% COLLYRE FL 5ML"
+  },
+  {
+    "id": "1886",
+    "name": "NAAXIA COLLYRE FP 5ML"
+  },
+  {
+    "id": "1887",
+    "name": "NEOMDEXSOL COLL F/5ML"
+  },
+  {
+    "id": "1888",
+    "name": "NIDAZOL 250MG CPR B/20"
+  },
+  {
+    "id": "1889",
+    "name": "NIZODERM 2% CR T/15G"
+  },
+  {
+    "id": "1890",
+    "name": "NORFLOXINE 400MG CPR B/14"
+  },
+  {
+    "id": "1891",
+    "name": "NOVOPHANE CHVX ONGLES GEL B/60"
+  },
+  {
+    "id": "1892",
+    "name": "OFLOCINE 200MG CPR B/10"
+  },
+  {
+    "id": "1893",
+    "name": "OLFEN 100MG SR DEPOCAPS B/10"
+  },
+  {
+    "id": "1894",
+    "name": "OLFEN 75MG AMP INJ B/3"
+  },
+  {
+    "id": "1895",
+    "name": "OMIX LP 0,4MG GEL B/30"
+  },
+  {
+    "id": "1896",
+    "name": "OROFER 50MG SP F/150ML"
+  },
+  {
+    "id": "1897",
+    "name": "OROKEN 40MG PDR SUSP FL 80DOSE"
+  },
+  {
+    "id": "1898",
+    "name": "OVAZOL 500MG OV B/10"
+  },
+  {
+    "id": "1899",
+    "name": "OZOLAMIDE COLL F/5ML"
+  },
+  {
+    "id": "1900",
+    "name": "PALUJECT 0,40 AMP INJ B/72"
+  },
+  {
+    "id": "1901",
+    "name": "PANADOL 500MG CPR EFFV B/12"
+  },
+  {
+    "id": "1902",
+    "name": "PANADOL RHUME ET GRIPPE CPR PELL B/16"
+  },
+  {
+    "id": "1903",
+    "name": "PANFUREX SUSP BUV FL 90ML"
+  },
+  {
+    "id": "1904",
+    "name": "PANOL 500MG SACH B/12"
+  },
+  {
+    "id": "1905",
+    "name": "PARACETAMOL LUC.500MG CPR BT16"
+  },
+  {
+    "id": "1906",
+    "name": "PARA DENK 500MG CPR BL/20"
+  },
+  {
+    "id": "1907",
+    "name": "PARA CO-DENK 1000/60MG SUPPO B/10"
+  },
+  {
+    "id": "1908",
+    "name": "PIVALONE GTTE NASAL  SOL  F/10ML"
+  },
+  {
+    "id": "1909",
+    "name": "PLASMOTRIM 50MG RECTOCAPS B/6"
+  },
+  {
+    "id": "1910",
+    "name": "POLYGYNAX OVULE BT * 6 *"
+  },
+  {
+    "id": "1911",
+    "name": "POLYGYNAX OVULE BT 12"
+  },
+  {
+    "id": "1912",
+    "name": "PRESERV INNOTEX PLUS B/3 F/A"
+  },
+  {
+    "id": "1913",
+    "name": "PRETERAX 2,5MG/0,625MG CPR PELL B/30"
+  },
+  {
+    "id": "1914",
+    "name": "PRIMALAC PREMIUM 2 LAIT PDRE B/400G"
+  },
+  {
+    "id": "1915",
+    "name": "PROCOMIL 5MG CPR DRAG B/30"
+  },
+  {
+    "id": "1916",
+    "name": "PROFENID LP 200MG CPR BT 14"
+  },
+  {
+    "id": "1917",
+    "name": "PROFENID 2,5% GEL LOC.TB 60G"
+  },
+  {
+    "id": "1918",
+    "name": "PROFENID 100MG/2ML AMP INJ B/2"
+  },
+  {
+    "id": "1919",
+    "name": "PROFIZ FORTE  500MG/600MG CPR B/10"
+  },
+  {
+    "id": "1920",
+    "name": "PROGYNOVA 2MG CPR B/20 ANF"
+  },
+  {
+    "id": "1921",
+    "name": "PROKEFEN 100MG PDR INJ B/1"
+  },
+  {
+    "id": "1922",
+    "name": "PROVIRON 25MG CPR B/20"
+  },
+  {
+    "id": "1923",
+    "name": "PULMODEXANE SOL BUV F/150ML"
+  },
+  {
+    "id": "1924",
+    "name": "QUIES BOULE ANTI BRUIT B/16"
+  },
+  {
+    "id": "1925",
+    "name": "QUINIMAX 125MG CPR BT 18"
+  },
+  {
+    "id": "1926",
+    "name": "RANFERON GEL B/100"
+  },
+  {
+    "id": "1927",
+    "name": "RANOPHAGE OD 1000MG CPR B/30"
+  },
+  {
+    "id": "1928",
+    "name": "REMEDIA 750MG CPR B/10"
+  },
+  {
+    "id": "1929",
+    "name": "REMEDIA 500MG CPR PELL SEC B/10"
+  },
+  {
+    "id": "1930",
+    "name": "RENITEC 20MG CPR B/28"
+  },
+  {
+    "id": "1931",
+    "name": "REUMOXICAN 20MG SUPPO B/12"
+  },
+  {
+    "id": "1932",
+    "name": "RHUMAGRIP CPR B/16"
+  },
+  {
+    "id": "1933",
+    "name": "RIGIDE 50MG CPR PELL B/1"
+  },
+  {
+    "id": "1934",
+    "name": "RIVABIR 200MG GEL B/84"
+  },
+  {
+    "id": "1935",
+    "name": "R-LUME 80MG IM SOL INJ AMP B/6"
+  },
+  {
+    "id": "1936",
+    "name": "ROCEPHINE 250MG IM INJ AMP B/1"
+  },
+  {
+    "id": "1937",
+    "name": "SALBUMOL 0,5MG INJ AMP1ML BT 6"
+  },
+  {
+    "id": "1938",
+    "name": "SEBIONEX TRIO ANTI IMPERF CR T/40ML"
+  },
+  {
+    "id": "1939",
+    "name": "SEDASPIR NF 20MG CPR B/20"
+  },
+  {
+    "id": "1940",
+    "name": "SELEXID 200MG CPR BT 12"
+  },
+  {
+    "id": "1941",
+    "name": "SENSITELIAL SOIN EMOLL F/200ML"
+  },
+  {
+    "id": "1942",
+    "name": "SENSODYNE PRO TRAIT SENSIBILITE DENT75ML"
+  },
+  {
+    "id": "1943",
+    "name": "SEPTYL 0,1% BAIN BCHE F200ML"
+  },
+  {
+    "id": "1944",
+    "name": "SILVEREX CR POT/250G"
+  },
+  {
+    "id": "1945",
+    "name": "SOCLAV 100MG/12,5MG PDRE SUSP BUV/30ML"
+  },
+  {
+    "id": "1946",
+    "name": "SOCLAV 1G/125MG PDRE SUSP BUV SACH B/16"
+  },
+  {
+    "id": "1947",
+    "name": "SOLU-MEDROL 120MG INJ FL+SOLV/1"
+  },
+  {
+    "id": "1948",
+    "name": "SOMAZINA 1000MG SACH B/6"
+  },
+  {
+    "id": "1949",
+    "name": "SPASFON CPR ENR B/30"
+  },
+  {
+    "id": "1950",
+    "name": "SSB 400MG CPR PELL B/28"
+  },
+  {
+    "id": "1951",
+    "name": "STERIMAR HYPERTON AD SOL NAS F/50ML"
+  },
+  {
+    "id": "1952",
+    "name": "SUCREDULCOR CPR EFFV B/600"
+  },
+  {
+    "id": "1953",
+    "name": "SUTRILNEO 10MG CPR B/30"
+  },
+  {
+    "id": "1954",
+    "name": "TAHOR 10MG CPR B/28"
+  },
+  {
+    "id": "1955",
+    "name": "TANAKAN 40MG/ML SOL BUV F/30ML"
+  },
+  {
+    "id": "1956",
+    "name": "TANGANIL 500MG INJ AMP5ML BT 5"
+  },
+  {
+    "id": "1957",
+    "name": "TAVANIC 5MG/ML SOL PERF F/100ML"
+  },
+  {
+    "id": "1958",
+    "name": "TEGRETOL LP 200MG CPR BT.30"
+  },
+  {
+    "id": "1959",
+    "name": "TENORIC 100MG CPR B/28"
+  },
+  {
+    "id": "1960",
+    "name": "TENSICARD 50MG CPR B/30"
+  },
+  {
+    "id": "1961",
+    "name": "TERGYNAN CPR VAGINAUX B/10"
+  },
+  {
+    "id": "1962",
+    "name": "TERLOMEXIN 200MG CAPS VAG B/3"
+  },
+  {
+    "id": "1963",
+    "name": "TETRACYCLINE 250MG 10 BLT/10"
+  },
+  {
+    "id": "1964",
+    "name": "TILCOTIL 20MG CPR PELL SEC B/15"
+  },
+  {
+    "id": "1965",
+    "name": "TILL SOLUTION FL/200 ML"
+  },
+  {
+    "id": "1966",
+    "name": "TIMOPTOL 0,50% COLL F/3ML"
+  },
+  {
+    "id": "1967",
+    "name": "TINILON 500MG/600MG CPR PELL B/10"
+  },
+  {
+    "id": "1968",
+    "name": "TOCFIM 200MG CPR DISP B/10"
+  },
+  {
+    "id": "1969",
+    "name": "TOCO 500MG CAPS MOLLES BTE 30"
+  },
+  {
+    "id": "1970",
+    "name": "TOPICREM DA BME EMOLL F/500ML"
+  },
+  {
+    "id": "1971",
+    "name": "TRANSIT DOUBLE ACTION CPR B/30"
+  },
+  {
+    "id": "1972",
+    "name": "TRAXOL 1G SOL INJ F/5ML"
+  },
+  {
+    "id": "1973",
+    "name": "TREMADOL 50MG CPR B/20"
+  },
+  {
+    "id": "1974",
+    "name": "TRES ORIX FORTE SIROP FL 100ML"
+  },
+  {
+    "id": "1975",
+    "name": "TRINORDIOL CPR PLAQ 3X21"
+  },
+  {
+    "id": "1976",
+    "name": "TRIOPAS 100MG/325MG/15MG CPR B/20"
+  },
+  {
+    "id": "1977",
+    "name": "TRITAZIDE 10MG/12,5MG CPR B/28"
+  },
+  {
+    "id": "1978",
+    "name": "TUSSIPHAN SIROP FL 125ML"
+  },
+  {
+    "id": "1979",
+    "name": "TUSSIDANE SS 1,5MG/ML SOL BUV F/125ML"
+  },
+  {
+    "id": "1980",
+    "name": "ULTRALEVURE 50MG LYOPH GEL B/20 AFR"
+  },
+  {
+    "id": "1981",
+    "name": "UPRACID 20MG CPR B/10"
+  },
+  {
+    "id": "1982",
+    "name": "UVESTEROL ADEC SOL BUV F/10ML"
+  },
+  {
+    "id": "1983",
+    "name": "VAC EUVAX B AD 20MCG DOSE F/10 B/10"
+  },
+  {
+    "id": "1984",
+    "name": "VAC MENINGO A+C INJ 10DOSES F/10"
+  },
+  {
+    "id": "1985",
+    "name": "VALDA PAST BT FER 60"
+  },
+  {
+    "id": "1986",
+    "name": "VASTATOR 10MG CPR B/30"
+  },
+  {
+    "id": "1987",
+    "name": "VASTATOR 20MG CPR B/30"
+  },
+  {
+    "id": "1988",
+    "name": "VASTATOR 40MG CPR B/30"
+  },
+  {
+    "id": "1989",
+    "name": "VAXIGRIP AD SUSP INJ SER PRER/0,5ML B/1"
+  },
+  {
+    "id": "1990",
+    "name": "VEGEBOM SAV TONIFIANT PAIN /100G"
+  },
+  {
+    "id": "1991",
+    "name": "VEGEBOM BME NN T/45G"
+  },
+  {
+    "id": "1992",
+    "name": "VIRIX GEL B/15"
+  },
+  {
+    "id": "1993",
+    "name": "VISCERALGINE 20MG SUPPO BT 20"
+  },
+  {
+    "id": "1994",
+    "name": "VITAMINE C 500MG 10BL/10 CREAT"
+  },
+  {
+    "id": "1995",
+    "name": "VITASCORBOL 500MG SS CPR T/12"
+  },
+  {
+    "id": "1996",
+    "name": "VIT B12 1000MG INJ AMP B/6"
+  },
+  {
+    "id": "1997",
+    "name": "VIT B12 FER BUV SOLUT FL 180ML"
+  },
+  {
+    "id": "1998",
+    "name": "WORMIN 100MG CPR B/6"
+  },
+  {
+    "id": "1999",
+    "name": "XALACOM COLL F/2,5ML"
+  },
+  {
+    "id": "2000",
+    "name": "XATRAL 2,5MG CPR BTE 30"
+  },
+  {
+    "id": "2001",
+    "name": "YANG CHUN GEL B/6"
+  },
+  {
+    "id": "2002",
+    "name": "ZALAIN 300MG OVULE B/1"
+  },
+  {
+    "id": "2003",
+    "name": "ZANIDIP 10MG CPR B/28"
+  },
+  {
+    "id": "2004",
+    "name": "ZITHROMAX 500MG CPR B/3"
+  },
+  {
+    "id": "2005",
+    "name": "ACARILBIAL SOL EXT F/200ML"
+  },
+  {
+    "id": "2006",
+    "name": "ALBEN 400MG CPR B/1 SD"
+  },
+  {
+    "id": "2007",
+    "name": "ALDACTAZINE CPR B/20"
+  },
+  {
+    "id": "2008",
+    "name": "ALLERGODIL 0.127MG PUL NAS10ML"
+  },
+  {
+    "id": "2009",
+    "name": "ALMAX FORTE 1,5G SUSP BUV SACH B/30"
+  },
+  {
+    "id": "2010",
+    "name": "ALVITYL SP F/150ML"
+  },
+  {
+    "id": "2011",
+    "name": "AMEP 10MG CPR B/14"
+  },
+  {
+    "id": "2012",
+    "name": "AMEP 5MG CPR B/14"
+  },
+  {
+    "id": "2013",
+    "name": "AMLOR 5MG GEL B/30"
+  },
+  {
+    "id": "2014",
+    "name": "AMLOR 10MG GEL B/30"
+  },
+  {
+    "id": "2015",
+    "name": "AMOXICILLINE UBI 125MG PDRE SUSP F/60ML"
+  },
+  {
+    "id": "2016",
+    "name": "ANTADYS 100MG CPR BT 15"
+  },
+  {
+    "id": "2017",
+    "name": "APROVEL 150MG CPR BTE 28"
+  },
+  {
+    "id": "2018",
+    "name": "ARTESUN 60MG SOL INJ B/1"
+  },
+  {
+    "id": "2019",
+    "name": "ARTESUN 120MG PDRE SUSP INJ B/1"
+  },
+  {
+    "id": "2020",
+    "name": "ASTAPH 250MG SP F/60ML"
+  },
+  {
+    "id": "2021",
+    "name": "AZITRINE 250MG CPR B/6"
+  },
+  {
+    "id": "2022",
+    "name": "BERLOCID 960MG CPR B/10"
+  },
+  {
+    "id": "2023",
+    "name": "BEZINC GEL B/30"
+  },
+  {
+    "id": "2024",
+    "name": "BICARBONATE SODIUM B/250G"
+  },
+  {
+    "id": "2025",
+    "name": "BILTRICIDE 600MG CPR BT * 4 *"
+  },
+  {
+    "id": "2026",
+    "name": "BIPLATRIX BANDE 3MX10CM SACH 2"
+  },
+  {
+    "id": "2027",
+    "name": "BIPLATRIX BAND.BLEU.3MX15CM /1"
+  },
+  {
+    "id": "2028",
+    "name": "BLOKIUM 50MG CPR B/30"
+  },
+  {
+    "id": "2029",
+    "name": "CACHART 80MG/480MG CPR B/6"
+  },
+  {
+    "id": "2030",
+    "name": "CALBEN 400MG CPR B/1"
+  },
+  {
+    "id": "2031",
+    "name": "CALCIUM VITD3 BIOFAR CP EFF/20"
+  },
+  {
+    "id": "2032",
+    "name": "CAPSULIDE 100MG CPR B/10"
+  },
+  {
+    "id": "2033",
+    "name": "CEFALINE HAUTH PDRE SACH BT 10"
+  },
+  {
+    "id": "2034",
+    "name": "ASUNATE DENK 200MG PLUS CPR/6"
+  },
+  {
+    "id": "2035",
+    "name": "CIPROFLOXACINE UBI 100MG SOL INJ F/50ML"
+  },
+  {
+    "id": "2036",
+    "name": "BETADINE SCRUB FP 125ML ROUGE"
+  },
+  {
+    "id": "2037",
+    "name": "CIVASTINE 40MG CPR B/28"
+  },
+  {
+    "id": "2038",
+    "name": "BURNCOOL CR T/15G"
+  },
+  {
+    "id": "2039",
+    "name": "CLEDOMOX ENF 562,5MG/5ML SUSP BUV F/60ML"
+  },
+  {
+    "id": "2040",
+    "name": "COLPOSEPTINE CPR GYNECO BT 18"
+  },
+  {
+    "id": "2041",
+    "name": "COMBIART 80MG/480MG GR EFFV SACH B/6"
+  },
+  {
+    "id": "2042",
+    "name": "COMPRESS PUR LABELL 40X40 P100"
+  },
+  {
+    "id": "2043",
+    "name": "CHIBRO-PROSCAR 5MG CPR BT 28"
+  },
+  {
+    "id": "2044",
+    "name": "CONFIANCE MOBILE 6 GTTES TL SACH/14"
+  },
+  {
+    "id": "2045",
+    "name": "CONFIANCE MOBILE 6 GTTES TM SACH/14"
+  },
+  {
+    "id": "2046",
+    "name": "CONFIANCE MOBILE 6 GTTES TXL SACH/14"
+  },
+  {
+    "id": "2047",
+    "name": "CONFIANCE CONFORT 8 GTTES TL SACH/15"
+  },
+  {
+    "id": "2048",
+    "name": "CONFIANCE CONFORT 8 GTTES TM SACH/15"
+  },
+  {
+    "id": "2049",
+    "name": "CONFIANCE CONFORT 8 GTTES TXL SACH/14"
+  },
+  {
+    "id": "2050",
+    "name": "COTRIMOXAZOLE FORT UBI 960MG CPR 10BL10"
+  },
+  {
+    "id": "2051",
+    "name": "COTRIMOXAZOLE UBI 480MG/5ML SP F/100ML"
+  },
+  {
+    "id": "2052",
+    "name": "ARMETRINE 20MG/120MG CPR B/24"
+  },
+  {
+    "id": "2053",
+    "name": "CRESTOR 20MG CPR B/30"
+  },
+  {
+    "id": "2054",
+    "name": "CROMSOL 2% COLL F/5ML"
+  },
+  {
+    "id": "2055",
+    "name": "DAFLON 1000MG CPR PELL B/30"
+  },
+  {
+    "id": "2056",
+    "name": "DEBRIDAT 50MG INJ AMP 5ML B/25"
+  },
+  {
+    "id": "2057",
+    "name": "CORDARONE 200MG CPR SEC B/30"
+  },
+  {
+    "id": "2058",
+    "name": "DEPAKINE 500MG CPR DRG BT 40"
+  },
+  {
+    "id": "2059",
+    "name": "DIARYL 200MG GEL B/20"
+  },
+  {
+    "id": "2060",
+    "name": "DICLOWAL 100MG SUPPO B/10"
+  },
+  {
+    "id": "2061",
+    "name": "DIFLUCAN 150MG GEL B/4"
+  },
+  {
+    "id": "2062",
+    "name": "DIPARA CPR B/10"
+  },
+  {
+    "id": "2063",
+    "name": "CREATOL PARACETAMOL 1G CPR EFFV B/8"
+  },
+  {
+    "id": "2064",
+    "name": "CREALOX HYDR ALU/MG 400/400MG CPR B/48"
+  },
+  {
+    "id": "2065",
+    "name": "CREAFEN IBUPROFENE 400MG CPR PELL B/100"
+  },
+  {
+    "id": "2066",
+    "name": "CREADIPINE AMLODIPINE 10MG CPR B/100"
+  },
+  {
+    "id": "2067",
+    "name": "CREADOL+ PARACET/TRAM 325/37,5MG CPR/100"
+  },
+  {
+    "id": "2068",
+    "name": "CREAMETHERINE ARTE/LUME 20/120MG CPR/80"
+  },
+  {
+    "id": "2069",
+    "name": "BAUME EHRLICH TUBES 75ML"
+  },
+  {
+    "id": "2070",
+    "name": "ALDOMET 500MG CPR B/30"
+  },
+  {
+    "id": "2071",
+    "name": "CLAVUJECT 1,2G INJ B/1"
+  },
+  {
+    "id": "2072",
+    "name": "CEFAMOR 125MG SP F/100ML"
+  },
+  {
+    "id": "2073",
+    "name": "ACTI 5 BUV AMP 5ML BT 30"
+  },
+  {
+    "id": "2074",
+    "name": "EAU OXYGENEE 10V GILB F/250ML"
+  },
+  {
+    "id": "2075",
+    "name": "ECAZIDE CPR B/30"
+  },
+  {
+    "id": "2076",
+    "name": "EPICRAN 7/10 22G NOIR LABELL/1"
+  },
+  {
+    "id": "2077",
+    "name": "EPICRAN 8/10 21G VERT LABELL/1"
+  },
+  {
+    "id": "2078",
+    "name": "FANSIDAR CPR B/150"
+  },
+  {
+    "id": "2079",
+    "name": "FERTIMAX 2 GEL B/60"
+  },
+  {
+    "id": "2080",
+    "name": "FERTILO FORTE DENK CAPS B/60"
+  },
+  {
+    "id": "2081",
+    "name": "FERVITAL SP F/200ML"
+  },
+  {
+    "id": "2082",
+    "name": "FLEMING 1G/125MG CPR PELL B/16"
+  },
+  {
+    "id": "2083",
+    "name": "FLEXDOL CPR B/10"
+  },
+  {
+    "id": "2084",
+    "name": "FLOTAC HGC 75MG CAPS B/20 R71"
+  },
+  {
+    "id": "2085",
+    "name": "FLOTRAL 10MG CPR B/10"
+  },
+  {
+    "id": "2086",
+    "name": "FLUKOCIN 500MG GEL B/20"
+  },
+  {
+    "id": "2087",
+    "name": "FLUOSTEROL 0,25MG/ML SOL BUV F/22,5ML"
+  },
+  {
+    "id": "2088",
+    "name": "FOLIFER 306MG/2MG CPR B/60"
+  },
+  {
+    "id": "2089",
+    "name": "GENES MULTI AD CPR EFFV BL B10"
+  },
+  {
+    "id": "2090",
+    "name": "GENES JUNIOR CPR EFFV BL B/10"
+  },
+  {
+    "id": "2091",
+    "name": "GENES GROSSESSE CPR EFF BL B12"
+  },
+  {
+    "id": "2092",
+    "name": "GRASSOLIND NEUTRAL PANS GRAS 10X10CM /10"
+  },
+  {
+    "id": "2093",
+    "name": "GRASSOLIND NEUTRAL PANS GRAS 20X20CM /10"
+  },
+  {
+    "id": "2094",
+    "name": "GRISEFULINE 500MG CPR BT 20"
+  },
+  {
+    "id": "2095",
+    "name": "HAEM UP GEMS B/30"
+  },
+  {
+    "id": "2096",
+    "name": "HUMEX ENF SP F/125ML"
+  },
+  {
+    "id": "2097",
+    "name": "HYDROCLEAN ACTIVE PANS ABS 10x10CM B/10"
+  },
+  {
+    "id": "2098",
+    "name": "HYDROCLEAN ACTIVE PANS DIAM 5,5CM B/10"
+  },
+  {
+    "id": "2099",
+    "name": "HYDROCLEAN ACTIV PANS IRRIG ABS 7X4CM/10"
+  },
+  {
+    "id": "2100",
+    "name": "IMMUNOPLEX -N CPR B/30"
+  },
+  {
+    "id": "2101",
+    "name": "IMMUN ACTIVE DENK GR STICK B/20"
+  },
+  {
+    "id": "2102",
+    "name": "INSULINE MIXTARD30 100UI SUSP INJ F/10ML"
+  },
+  {
+    "id": "2103",
+    "name": "IOPROST COLL F/3ML"
+  },
+  {
+    "id": "2104",
+    "name": "IRECTEX GEL PILULIER B/180"
+  },
+  {
+    "id": "2105",
+    "name": "IRYS 3MG CPR PELL SEC B/30"
+  },
+  {
+    "id": "2106",
+    "name": "JESPER 50MG CPR B/10"
+  },
+  {
+    "id": "2107",
+    "name": "JUVAMINE VIT C 500 CPR EFFV/30"
+  },
+  {
+    "id": "2108",
+    "name": "JUVAMINE MG+VIT B6 CPR B/45"
+  },
+  {
+    "id": "2109",
+    "name": "KAZOL 2% CR T/15G"
+  },
+  {
+    "id": "2110",
+    "name": "LACTO-CLIVON SOL VAG F/140ML /2"
+  },
+  {
+    "id": "2111",
+    "name": "LAMISIL 250MG CPR BT 14"
+  },
+  {
+    "id": "2112",
+    "name": "LEVITRA 10MG CPR B/4"
+  },
+  {
+    "id": "2113",
+    "name": "LEVOTHYROX 75MCG CPR SEC B/30"
+  },
+  {
+    "id": "2114",
+    "name": "LEVOTRIZ 5MG CPR B/10"
+  },
+  {
+    "id": "2115",
+    "name": "LOMEXIN 2% CREME TB 15G"
+  },
+  {
+    "id": "2116",
+    "name": "MAALOX SUSP BUV SACH 4,3ML B20"
+  },
+  {
+    "id": "2117",
+    "name": "MAGNORAL AMP BUV 10ML B/20"
+  },
+  {
+    "id": "2118",
+    "name": "MEDOMOX 500MG GEL B/12"
+  },
+  {
+    "id": "2119",
+    "name": "MEDROL 16MG CPR B/20"
+  },
+  {
+    "id": "2120",
+    "name": "MESPORIN 500MG AMP INJ IM B/1"
+  },
+  {
+    "id": "2121",
+    "name": "MULTIVIT KIDS BIOFAR CPR EFF20"
+  },
+  {
+    "id": "2122",
+    "name": "MUMFER SP F/150ML"
+  },
+  {
+    "id": "2123",
+    "name": "MYCOSTER SOL LOC FP 30ML"
+  },
+  {
+    "id": "2124",
+    "name": "NOOTROPYL 1,2G BUV AMP6ML BT30"
+  },
+  {
+    "id": "2125",
+    "name": "NOVALGIN SIROP FL 100ML"
+  },
+  {
+    "id": "2126",
+    "name": "OMNIFIX ELASTIC BDE ADH EXTENS 10CMX5M/1"
+  },
+  {
+    "id": "2127",
+    "name": "OMNIFIX ELASTIC BDE ADH EXTENS 15CMX4M/1"
+  },
+  {
+    "id": "2128",
+    "name": "ORACEFAL 1G CPR DISP B/6"
+  },
+  {
+    "id": "2129",
+    "name": "OVOCYPLUS GEL B/60"
+  },
+  {
+    "id": "2130",
+    "name": "PANALGIC CPR EFFV B/16"
+  },
+  {
+    "id": "2131",
+    "name": "PARANTAL C 1000 CPR EFF BTE/10"
+  },
+  {
+    "id": "2132",
+    "name": "PEDIFEN 100MG/5ML PED SP F/100ML"
+  },
+  {
+    "id": "2133",
+    "name": "PHOSPHALUGEL GEL SACH 20G BT26"
+  },
+  {
+    "id": "2134",
+    "name": "PNEUMOXOL 30MG/5ML SOL BUV F/100ML"
+  },
+  {
+    "id": "2135",
+    "name": "PRESERV MANIX SKYN KING SIZE B/10"
+  },
+  {
+    "id": "2136",
+    "name": "PRESERV MANIX XTRA PLEASURE/3"
+  },
+  {
+    "id": "2137",
+    "name": "PRESERV MANIX SUPREME B/10"
+  },
+  {
+    "id": "2138",
+    "name": "PRESERV MANIX SKYN EXTRA LUBRIFIE B/10"
+  },
+  {
+    "id": "2139",
+    "name": "PROTON 20MG GEL B/14"
+  },
+  {
+    "id": "2140",
+    "name": "PYRANTOX 125MG CPR B/6"
+  },
+  {
+    "id": "2141",
+    "name": "RESTRIVA 500MG/ML SOL INJ IM IV AMP5ML/5"
+  },
+  {
+    "id": "2142",
+    "name": "RHINORIL 300/0,5MG PDRE SUSP BUV SACH/12"
+  },
+  {
+    "id": "2143",
+    "name": "RUNN 100MG CPR B/30"
+  },
+  {
+    "id": "2144",
+    "name": "SAFORELLE SOL SOIN LAV DOUX F/500ML"
+  },
+  {
+    "id": "2145",
+    "name": "SECTRAL 200MG CPR B/30"
+  },
+  {
+    "id": "2146",
+    "name": "SERESTA 50MG CPR SECAB BT 20"
+  },
+  {
+    "id": "2147",
+    "name": "SERING INS UBI ONE 1ML 100UI/120"
+  },
+  {
+    "id": "2148",
+    "name": "SIMEPAR CAPS B/20"
+  },
+  {
+    "id": "2149",
+    "name": "SITRUS SR CPR B/30"
+  },
+  {
+    "id": "2150",
+    "name": "SOLEXIM-N 50MG/5ML PDRE SUSP BUV F/60ML"
+  },
+  {
+    "id": "2151",
+    "name": "SOLU-MEDROL 40MG INJ FL+A.BT 1"
+  },
+  {
+    "id": "2152",
+    "name": "SOLUPRED 5MG CPR EFFV B/30"
+  },
+  {
+    "id": "2153",
+    "name": "SPASMO-APOTEL 500MG/10MG CPR PELL B/20"
+  },
+  {
+    "id": "2154",
+    "name": "SPASMOTROY 40MG CPR B/20"
+  },
+  {
+    "id": "2155",
+    "name": "STERDEX PDE OPHT CAPS B/12"
+  },
+  {
+    "id": "2156",
+    "name": "STERIMAR CU AEROS 50ML"
+  },
+  {
+    "id": "2157",
+    "name": "SUCREDULCOR CPR EFFV B/260"
+  },
+  {
+    "id": "2158",
+    "name": "SULFATE MAGN SACH 30G B/20"
+  },
+  {
+    "id": "2159",
+    "name": "TAVANIC 500MG CPR B/5"
+  },
+  {
+    "id": "2160",
+    "name": "TEGUMA 1% CR T/15G"
+  },
+  {
+    "id": "2161",
+    "name": "TEMESTA 2,5MG CPR SECAB BT 30"
+  },
+  {
+    "id": "2162",
+    "name": "TIMOSOL 0,5% COLL F/5ML"
+  },
+  {
+    "id": "2163",
+    "name": "TRAMAPA 37,5MG/325MG CPR SEC B/20"
+  },
+  {
+    "id": "2164",
+    "name": "TRINORDIOL CPR PLAQ 1X21"
+  },
+  {
+    "id": "2165",
+    "name": "TROYNOXA 60MG/0,6ML SER PRE B/1"
+  },
+  {
+    "id": "2166",
+    "name": "TROYCAL 500MG/2,5MG CPR PELL B/30"
+  },
+  {
+    "id": "2167",
+    "name": "VAC TYPHIM VI F/20 DOSES B/10"
+  },
+  {
+    "id": "2168",
+    "name": "VEGEBOM CHAUFFANT CR T/40ML"
+  },
+  {
+    "id": "2169",
+    "name": "VISIODIS COLL F/10ML"
+  },
+  {
+    "id": "2170",
+    "name": "YENDOL SACH B/10"
+  },
+  {
+    "id": "2171",
+    "name": "ZAMUR 500MG CPR B/10"
+  },
+  {
+    "id": "2172",
+    "name": "ZETUVIT PANS ABS 10X20CM B/10"
+  },
+  {
+    "id": "2173",
+    "name": "ZETUVIT PANS ABS 10X10CM B/10"
+  },
+  {
+    "id": "2174",
+    "name": "ZOLEDRO-DENK 4MG/5ML SOL PERF F/5ML"
+  },
+  {
+    "id": "2175",
+    "name": "ZYMAFLUOR 1MG CPR BT 100"
+  },
+  {
+    "id": "2176",
+    "name": "ADEPAL CPR DRG PLQ 3X21"
+  },
+  {
+    "id": "2177",
+    "name": "ALDOMET 250MG CPR B/30"
+  },
+  {
+    "id": "2178",
+    "name": "ALGESAL BME T/40G"
+  },
+  {
+    "id": "2179",
+    "name": "AMINOHAEM SP F/200ML"
+  },
+  {
+    "id": "2180",
+    "name": "AMITRON 250MG SUSP BUV F/60ML"
+  },
+  {
+    "id": "2181",
+    "name": "AMLOR 5MG CPR B/56"
+  },
+  {
+    "id": "2182",
+    "name": "ARTEM 40MG/0,5ML AMP INJ B/6"
+  },
+  {
+    "id": "2183",
+    "name": "ARTEFAN 20/120MG CPR B/24"
+  },
+  {
+    "id": "2184",
+    "name": "BECOZYME INJ AMP/2ML B/12"
+  },
+  {
+    "id": "2185",
+    "name": "BENZATHINE BENZYLPENI UBI 2,4MUI IM B/1"
+  },
+  {
+    "id": "2186",
+    "name": "BRUZO KID 162,5/100MG/5ML SUSP BUV/100ML"
+  },
+  {
+    "id": "2187",
+    "name": "CALCID DENK CPR EFF B/20"
+  },
+  {
+    "id": "2188",
+    "name": "CALGIN 500MG CPR B/10"
+  },
+  {
+    "id": "2189",
+    "name": "CANDID V6 COMBI T20G+CPR VAG/6+APP KIT/1"
+  },
+  {
+    "id": "2190",
+    "name": "CAPRAZOLE 40MG PDRE SOL INJ F/10ML"
+  },
+  {
+    "id": "2191",
+    "name": "CAPTRIM 240MG/5ML SUSP BUV F/60ML"
+  },
+  {
+    "id": "2192",
+    "name": "CATAPRESSAN 0,15MG/1ML AMP INJ/10"
+  },
+  {
+    "id": "2193",
+    "name": "CATHETER SAFETY LABELL IV 24G JAUNE/1"
+  },
+  {
+    "id": "2194",
+    "name": "CATHETER SAFETY LABELL IV 22G BLEU/1"
+  },
+  {
+    "id": "2195",
+    "name": "CATHETER SAFETY LABELL IV 20G ROSE/1"
+  },
+  {
+    "id": "2196",
+    "name": "CETAMYL 500MG CPR EFFV B/16"
+  },
+  {
+    "id": "2197",
+    "name": "CROISCARD 500MG/250MCG CPR B/15"
+  },
+  {
+    "id": "2198",
+    "name": "DENTIBABY GEL GINGIVAL T/25ML"
+  },
+  {
+    "id": "2199",
+    "name": "DICLO DENK 75MG AMP INJ B/10"
+  },
+  {
+    "id": "2200",
+    "name": "DICYNONE 250MG INJ AMP B/4"
+  },
+  {
+    "id": "2201",
+    "name": "DIFLUCAN 150MG GEL  B/1"
+  },
+  {
+    "id": "2202",
+    "name": "DIGOXINE 0,25MG CPR BT 30"
+  },
+  {
+    "id": "2203",
+    "name": "DOLVIRAN CPR BT 20"
+  },
+  {
+    "id": "2204",
+    "name": "ERECTAD 20MG CPR B/4"
+  },
+  {
+    "id": "2205",
+    "name": "ERYFLUID SOL EXT FL 100ML"
+  },
+  {
+    "id": "2206",
+    "name": "ERYFLUID 4% SOL EXT FL 30ML"
+  },
+  {
+    "id": "2207",
+    "name": "FALCIART DT 20MG/120MG CPR DISP B/6"
+  },
+  {
+    "id": "2208",
+    "name": "FELDENE 20MG IM AMP 1ML B/2"
+  },
+  {
+    "id": "2209",
+    "name": "FERRAVIT SP F/200ML"
+  },
+  {
+    "id": "2210",
+    "name": "FERRO VITAL+ DENK CPR CROQ B/30"
+  },
+  {
+    "id": "2211",
+    "name": "FERTAB 50MG CPR SEC B/10"
+  },
+  {
+    "id": "2212",
+    "name": "FEZOMIN SP F/200ML"
+  },
+  {
+    "id": "2213",
+    "name": "FIXICAL 500MG CPR B/60"
+  },
+  {
+    "id": "2214",
+    "name": "FLUDITEC ENF SIROP 2% FL125ML"
+  },
+  {
+    "id": "2215",
+    "name": "GLUCOVANCE 500MG/2,5MG CPR B30"
+  },
+  {
+    "id": "2216",
+    "name": "GRAMOCEF O 400MG GEL B/6"
+  },
+  {
+    "id": "2217",
+    "name": "HEMOFER SUSP BUV F/200ML"
+  },
+  {
+    "id": "2218",
+    "name": "HEPAFYT GEL B/10"
+  },
+  {
+    "id": "2219",
+    "name": "IMUCLAV DRY 125/31,25MG PDR SOL BUV/30ML"
+  },
+  {
+    "id": "2220",
+    "name": "KEFOTAX 500MG IM/IV PDRE INJ 1FL+SOLV /1"
+  },
+  {
+    "id": "2221",
+    "name": "KETONAL 100MG SUPPO B/12"
+  },
+  {
+    "id": "2222",
+    "name": "LAMALINE 500MG SUPPO BTE 10"
+  },
+  {
+    "id": "2223",
+    "name": "LARITEM 20MG/120MG CPR B/24"
+  },
+  {
+    "id": "2224",
+    "name": "LAROSCORBINE 1G CPR EFFV B/10"
+  },
+  {
+    "id": "2225",
+    "name": "LEVOZ 5MG CPR B/10"
+  },
+  {
+    "id": "2226",
+    "name": "LINIMYL DERMABABY OLEOCALCAIRE F/250ML"
+  },
+  {
+    "id": "2227",
+    "name": "LONGAMYCINE 100MG CPR B/10"
+  },
+  {
+    "id": "2228",
+    "name": "LUFENART 40/240MG CPR B/12"
+  },
+  {
+    "id": "2229",
+    "name": "LUMATE PLUS 80MG/480MG CPR B/6"
+  },
+  {
+    "id": "2230",
+    "name": "MEGAMYLASE SIROP FL/125ML"
+  },
+  {
+    "id": "2231",
+    "name": "MEGAMYLASE SIROP FL/250ML"
+  },
+  {
+    "id": "2232",
+    "name": "MINIDRIL CPR PLAQ 1X21"
+  },
+  {
+    "id": "2233",
+    "name": "MINOXIDIL COOPER 5% F/60ML /3"
+  },
+  {
+    "id": "2234",
+    "name": "MUCOLEX 2% JR SP F/125ML"
+  },
+  {
+    "id": "2235",
+    "name": "MUCOLEX 5% AD SP F/125ML"
+  },
+  {
+    "id": "2236",
+    "name": "MULTIVIT MINRX BIOFAR CPR EFFV T/20"
+  },
+  {
+    "id": "2237",
+    "name": "MYCOSTER CREME DERMQ TB 30G"
+  },
+  {
+    "id": "2238",
+    "name": "NAUSELIUM 10MG CPR B/20"
+  },
+  {
+    "id": "2239",
+    "name": "ORCHAPRED GEL OPHT F/5G"
+  },
+  {
+    "id": "2240",
+    "name": "OSPAMOX 500MG CPR BT 12"
+  },
+  {
+    "id": "2241",
+    "name": "PANADOL FEMINA CPR B/10"
+  },
+  {
+    "id": "2242",
+    "name": "POLYSILANE GEL UPSA SACH B/12"
+  },
+  {
+    "id": "2243",
+    "name": "PRAZOL 20MG GEL 4BL7"
+  },
+  {
+    "id": "2244",
+    "name": "PRIMACARD TEST GROSSESSE"
+  },
+  {
+    "id": "2245",
+    "name": "PRIMALAC AR 2 LAIT PDRE B/400G"
+  },
+  {
+    "id": "2246",
+    "name": "PYRANTOX 250MG/5ML SUSP F/15ML"
+  },
+  {
+    "id": "2247",
+    "name": "RASGIL 5MG GEL B/30"
+  },
+  {
+    "id": "2248",
+    "name": "RHINOCORT 64MCG S NAS 120DOSES"
+  },
+  {
+    "id": "2249",
+    "name": "RIVOTRIL 2MG CPR BT 40"
+  },
+  {
+    "id": "2250",
+    "name": "SIMVA DENK 20MG CPR B/30"
+  },
+  {
+    "id": "2251",
+    "name": "SODIUM CHL0,9% KABIPAC F/250ML FRES"
+  },
+  {
+    "id": "2252",
+    "name": "SPASMOTROY 80MG CPR B/20"
+  },
+  {
+    "id": "2253",
+    "name": "SPASMOTROY 20MG/ML IM/IV SOL INJ 2ML/2"
+  },
+  {
+    "id": "2254",
+    "name": "STAYONG PLUS GEL B/30"
+  },
+  {
+    "id": "2255",
+    "name": "STRIPRIL 5MG CPR B/30"
+  },
+  {
+    "id": "2256",
+    "name": "SUPRADYN CITRON CPR EFFV B/10"
+  },
+  {
+    "id": "2257",
+    "name": "TALC OFFICINAL CPF PDREUR 120G"
+  },
+  {
+    "id": "2258",
+    "name": "T-DOL P RAPID 37,5MG/325MG CPR B/10"
+  },
+  {
+    "id": "2259",
+    "name": "T FER CPR B/30"
+  },
+  {
+    "id": "2260",
+    "name": "TRANXENE 10MG GEL B/30 TROP"
+  },
+  {
+    "id": "2261",
+    "name": "TRANXENE 5MG GEL B/30 TROP"
+  },
+  {
+    "id": "2262",
+    "name": "TRIFENE 400MG CPR PELL B/20"
+  },
+  {
+    "id": "2263",
+    "name": "TROPHIRES ENF SP F/125ML"
+  },
+  {
+    "id": "2264",
+    "name": "UNIMER MOUCHE BEBE PAR ASPIRATION /1"
+  },
+  {
+    "id": "2265",
+    "name": "UNIMER SERUM PHYSIOLOGIQUE DOSE/5ML B/12"
+  },
+  {
+    "id": "2266",
+    "name": "UNIMER SERUM PHYSIOLOGIQUE DOSE/5ML B/50"
+  },
+  {
+    "id": "2267",
+    "name": "UNIMER HYPERTONIQUE AD SPR F/30ML"
+  },
+  {
+    "id": "2268",
+    "name": "VALIUM 10MG INJ AMP 2ML BT 6"
+  },
+  {
+    "id": "2269",
+    "name": "VALIUM 10MG CPR BT 30"
+  },
+  {
+    "id": "2270",
+    "name": "VIAGRA 100MG CPR B/4"
+  },
+  {
+    "id": "2271",
+    "name": "XYKAA EXTEND 1000MG CPR B/20"
+  },
+  {
+    "id": "2272",
+    "name": "ZOCIN 200MG/5ML SUSP BUV F/15ML"
+  },
+  {
+    "id": "2273",
+    "name": "ZYLORIC 100MG CPR SECAB BT 28"
+  },
+  {
+    "id": "2274",
+    "name": "ZYLORIC 300MG CPR SECAB BT 28"
+  },
+  {
+    "id": "2275",
+    "name": "ALTRAFLAM 100MG CPR B/10"
+  },
+  {
+    "id": "2276",
+    "name": "AMLOTENSINE 10MG CPR B/30"
+  },
+  {
+    "id": "2277",
+    "name": "ARTRINE 40MG/240MG CPR B/12"
+  },
+  {
+    "id": "2278",
+    "name": "CURAM 500MG/62,5MG CPR ENR B/16"
+  },
+  {
+    "id": "2279",
+    "name": "DOLIMEX PERF 10MG/ML SOL POCH/100ML"
+  },
+  {
+    "id": "2280",
+    "name": "GARDENAL 100MG CPR B/20"
+  },
+  {
+    "id": "2281",
+    "name": "GLIM FORTE 800MG/80MG CPR SEC B/30"
+  },
+  {
+    "id": "2282",
+    "name": "LERIN 0,2MG/ML SOL INJ AMP 1ML B/5"
+  },
+  {
+    "id": "2283",
+    "name": "MYNOCINE 100MG GELULE BT 15"
+  },
+  {
+    "id": "2284",
+    "name": "NOURIC 100MG CPR SEC B/28"
+  },
+  {
+    "id": "2285",
+    "name": "RIFAMYCINE CHIBR 1% P.OPHT.T5G"
+  },
+  {
+    "id": "2286",
+    "name": "VAC PENTAXIM PDRE SUSP INJ B/1"
+  },
+  {
+    "id": "2287",
+    "name": "ACTOVZN KIT CPR B/4"
+  },
+  {
+    "id": "2288",
+    "name": "ALERCHEK 0,1% COLL F/5ML"
+  },
+  {
+    "id": "2289",
+    "name": "ALPHAGAN 0,2% COLLYRE 5ML"
+  },
+  {
+    "id": "2290",
+    "name": "ARTESIANE 80MG AMP INJ B/5"
+  },
+  {
+    "id": "2291",
+    "name": "ARTHEPA-1 80MG/ML AMP INJ 1ML B/6"
+  },
+  {
+    "id": "2292",
+    "name": "ARTRIM GH 80MG/480MG CPR B/6"
+  },
+  {
+    "id": "2293",
+    "name": "ASUNATE DENK 100MG PLUS JUNIOR CPR/6"
+  },
+  {
+    "id": "2294",
+    "name": "AVENE COLD CR SURGRAS VIS/CORPS PAIN100G"
+  },
+  {
+    "id": "2295",
+    "name": "AVENE COLD CREAM LAIT CORPS F/400ML"
+  },
+  {
+    "id": "2296",
+    "name": "BGLAU 2MG/ML COLL F/5ML"
+  },
+  {
+    "id": "2297",
+    "name": "BRISTOPEN 1G IV PDR INJ F/1+SOLV AMP/5ML"
+  },
+  {
+    "id": "2298",
+    "name": "CACIP 500MG CPR B/10"
+  },
+  {
+    "id": "2299",
+    "name": "CACIP 200MG SOL INJ F/100ML"
+  },
+  {
+    "id": "2300",
+    "name": "CALGIN 500MG/ML SOL INJ AMP/1ML B/10"
+  },
+  {
+    "id": "2301",
+    "name": "CALMZ 20MG CPR B/30"
+  },
+  {
+    "id": "2302",
+    "name": "CAMYSTEN CREME DERMIQ TB 30G"
+  },
+  {
+    "id": "2303",
+    "name": "CARBOPHOS CHARBON VEGETAL CPR CROQ B/40"
+  },
+  {
+    "id": "2304",
+    "name": "CIPRONAT 200MG SOL INJ IV F/100ML"
+  },
+  {
+    "id": "2305",
+    "name": "CREACLAV AMOX/CLAV 1G/125MG PDRE SACH/12"
+  },
+  {
+    "id": "2306",
+    "name": "CREACLAV AMOX/CLAV 100/12,5MG PDRE F60ML"
+  },
+  {
+    "id": "2307",
+    "name": "CREACLAV AMOX/CLAV 100/12,5MG PDRE F30ML"
+  },
+  {
+    "id": "2308",
+    "name": "CREACLAV AMOX/CLAV 500/62,5MG CPR PELL16"
+  },
+  {
+    "id": "2309",
+    "name": "CREAPEN AMPICILLINE 500MG GEL B/1000"
+  },
+  {
+    "id": "2310",
+    "name": "CRESTOR 5MG CPR PELL B/30"
+  },
+  {
+    "id": "2311",
+    "name": "DEFNIL P 50/500MG CPR SUBLING B/30"
+  },
+  {
+    "id": "2312",
+    "name": "DIARZIL 2MG/125MG CPR SEC B/12"
+  },
+  {
+    "id": "2313",
+    "name": "DIPREZAR 50MG/12,5MG CPR PELL B/28"
+  },
+  {
+    "id": "2314",
+    "name": "DOLIMEX RHUME CPR B/10"
+  },
+  {
+    "id": "2315",
+    "name": "ECOREX  1% CREME DERMIQ TB 30G"
+  },
+  {
+    "id": "2316",
+    "name": "ELAVIL 25MG CPR BT 60"
+  },
+  {
+    "id": "2317",
+    "name": "ESOMED 40MG CPR B/30"
+  },
+  {
+    "id": "2318",
+    "name": "ESOMED 40MG PDRE INJ F/1 + SOLV/10ML"
+  },
+  {
+    "id": "2319",
+    "name": "EUROMOX 250MG SP F/60ML"
+  },
+  {
+    "id": "2320",
+    "name": "EXXIB 200MG CPR B/10"
+  },
+  {
+    "id": "2321",
+    "name": "FLEMING 1,2G INJ AMP B/5"
+  },
+  {
+    "id": "2322",
+    "name": "FLUOCARIL JUNIOR 7/12 FRUITS ROUGES/50ML"
+  },
+  {
+    "id": "2323",
+    "name": "FUNGIZONE 100MG/ML BUV FL 40ML"
+  },
+  {
+    "id": "2324",
+    "name": "GAVISCON BUV.SUSP.SACH.BTE 24"
+  },
+  {
+    "id": "2325",
+    "name": "GURONSAN CPR EFFV B/30"
+  },
+  {
+    "id": "2326",
+    "name": "KARDEGIC 75MG SACH B/30"
+  },
+  {
+    "id": "2327",
+    "name": "LAXMAG 13,72G PDRE SOL BUV SACH B/10"
+  },
+  {
+    "id": "2328",
+    "name": "LIBIDO LADY CAPS B/30"
+  },
+  {
+    "id": "2329",
+    "name": "MAN ACTIVE DENK CAPS B/60"
+  },
+  {
+    "id": "2330",
+    "name": "METRONIDAZOL QT 500MG CPR BL10"
+  },
+  {
+    "id": "2331",
+    "name": "NEUTROSEC SP F/200ML"
+  },
+  {
+    "id": "2332",
+    "name": "NIFEDI DENK 20MG LP CPR B/100"
+  },
+  {
+    "id": "2333",
+    "name": "NOVALGINE 500MG CPR BT 20"
+  },
+  {
+    "id": "2334",
+    "name": "NURABOL 4MG CPR B/30"
+  },
+  {
+    "id": "2335",
+    "name": "OMETIL 20MG GEL B/10"
+  },
+  {
+    "id": "2336",
+    "name": "ON SETRON DENK 4MG CPR ORODISP B/6"
+  },
+  {
+    "id": "2337",
+    "name": "ON SETRON DENK 8MG CPR ORODISP B/6"
+  },
+  {
+    "id": "2338",
+    "name": "ORACEFAL 500MG GEL B/12"
+  },
+  {
+    "id": "2339",
+    "name": "POLYFRESH COLL F/10ML"
+  },
+  {
+    "id": "2340",
+    "name": "PRESERV INNOTEX RETARDANT B/3 F/A"
+  },
+  {
+    "id": "2341",
+    "name": "PRIMALAN 5MG CPR SECAB BT 14"
+  },
+  {
+    "id": "2342",
+    "name": "PROMONGYL 1G CPR PELL SEC B/2"
+  },
+  {
+    "id": "2343",
+    "name": "SELSUN 2,5% SUSP APPL CUT F/120ML"
+  },
+  {
+    "id": "2344",
+    "name": "SERETIDE DISKUS 250/50 60DOSES"
+  },
+  {
+    "id": "2345",
+    "name": "SERETIDE DISKUS 500/50 60DOSES"
+  },
+  {
+    "id": "2346",
+    "name": "SPASFON LYOC 80MG LYOPH ORAL B/10"
+  },
+  {
+    "id": "2347",
+    "name": "SUPAFEN 400MG/300MG CPR B/10"
+  },
+  {
+    "id": "2348",
+    "name": "TINAZOL COMP B/4"
+  },
+  {
+    "id": "2349",
+    "name": "TRAMFIZ 50MG GEL B/10"
+  },
+  {
+    "id": "2350",
+    "name": "ULCIZONE 20MG GEL B/14"
+  },
+  {
+    "id": "2351",
+    "name": "VAC MENACTRA ACYW135 IV AMP 0,5ML F/1"
+  },
+  {
+    "id": "2352",
+    "name": "VISCERALGINE 5MG INJ A.2ML B10"
+  },
+  {
+    "id": "2353",
+    "name": "VIVAGEST CAPS MOLLE B/30"
+  },
+  {
+    "id": "2354",
+    "name": "VOGALENE 15MG GELULE BT 20"
+  },
+  {
+    "id": "2355",
+    "name": "XENICAL 120MG GEL B/84"
+  },
+  {
+    "id": "2356",
+    "name": "ZERODOL P CPR 3BL10"
+  },
+  {
+    "id": "2357",
+    "name": "ACLIN GEL T/15G"
+  },
+  {
+    "id": "2358",
+    "name": "ALCER 40MG CPR B/30"
+  },
+  {
+    "id": "2359",
+    "name": "ALCIPRO 500MG CPR PELL B/10"
+  },
+  {
+    "id": "2360",
+    "name": "AMBROLITE 30MG/2MG/50MG/5ML SP F/100ML"
+  },
+  {
+    "id": "2361",
+    "name": "AMLOVAS 10MG CPR B/30"
+  },
+  {
+    "id": "2362",
+    "name": "AMUCHINA 5 FL 250ML"
+  },
+  {
+    "id": "2363",
+    "name": "APOTEL MAX 10MG/ML SOL PERF F/100ML"
+  },
+  {
+    "id": "2364",
+    "name": "ARNICAN CREME DERMIQUE TB 50G"
+  },
+  {
+    "id": "2365",
+    "name": "ARTEM 80MG/1ML AMP INJ B/6"
+  },
+  {
+    "id": "2366",
+    "name": "ARTEFAN 20/120MG CPR DISP B/6"
+  },
+  {
+    "id": "2367",
+    "name": "ASPIRINE PROTECT 100MG CPR GAST B/30"
+  },
+  {
+    "id": "2368",
+    "name": "ASTYFER SP F/200ML"
+  },
+  {
+    "id": "2369",
+    "name": "ATMAX 200MG/5ML SUSP BUV F/15ML"
+  },
+  {
+    "id": "2370",
+    "name": "BANDE CREPE LABELL ETUI 4MX5"
+  },
+  {
+    "id": "2371",
+    "name": "BETNEVAL 0,1%LOTION DERQ FL15G"
+  },
+  {
+    "id": "2372",
+    "name": "BRICANYL LP 5MG CPR F/60"
+  },
+  {
+    "id": "2373",
+    "name": "CATAFLAM 1,5% GOUTTES FL 15ML"
+  },
+  {
+    "id": "2374",
+    "name": "CEBROTONIN CPR BTE 30"
+  },
+  {
+    "id": "2375",
+    "name": "CELEBREX 100MG GEL B/20"
+  },
+  {
+    "id": "2376",
+    "name": "CELIA DEVELOP 2EME AGE LAIT B/400G"
+  },
+  {
+    "id": "2377",
+    "name": "CERUCLEAR SPRAY AURICULAIRE F/40ML"
+  },
+  {
+    "id": "2378",
+    "name": "CETAZONE 500MG AMP INJ B/1"
+  },
+  {
+    "id": "2379",
+    "name": "CETAVLON 0,5% CR T/80G"
+  },
+  {
+    "id": "2380",
+    "name": "CIELCEF 100MG/5ML PDRE SUSP BUV F/60ML"
+  },
+  {
+    "id": "2381",
+    "name": "CIELCEF 200MG CPR B/10"
+  },
+  {
+    "id": "2382",
+    "name": "CIELNAC 100MG/500MG CPR B/10"
+  },
+  {
+    "id": "2383",
+    "name": "CIELPRAZ 40MG CPR B/10"
+  },
+  {
+    "id": "2384",
+    "name": "CIELCEF-O 200MG/500MG CPR B/10"
+  },
+  {
+    "id": "2385",
+    "name": "CIPHACET 500MG CPR B/300"
+  },
+  {
+    "id": "2386",
+    "name": "CIPHACET 150MG SUPPO B/10"
+  },
+  {
+    "id": "2387",
+    "name": "CIPHACET 300MG SUPPO B/10"
+  },
+  {
+    "id": "2388",
+    "name": "CLAVAM 562,5MG CPR PELL B/16"
+  },
+  {
+    "id": "2389",
+    "name": "CLAVAM 1125MG CPR PELL B/12"
+  },
+  {
+    "id": "2390",
+    "name": "COMPLEX VITB BIOFAR CPR EFFV20"
+  },
+  {
+    "id": "2391",
+    "name": "CORALAN 7,5MG CPR PELL B/56"
+  },
+  {
+    "id": "2392",
+    "name": "CORALAN 5MG CPR PELL B/56"
+  },
+  {
+    "id": "2393",
+    "name": "CORVASAL 2MG CPR BT 30"
+  },
+  {
+    "id": "2394",
+    "name": "COVALSAR DENK 80MG/12,5MG CPR PELL B/28"
+  },
+  {
+    "id": "2395",
+    "name": "COVALSAR DENK 160/12,5MG CPR PELL B/28"
+  },
+  {
+    "id": "2396",
+    "name": "CYCLADOL 20MG CPR SECAB BT 14"
+  },
+  {
+    "id": "2397",
+    "name": "CYTOTEC 200MCG CPR B/28"
+  },
+  {
+    "id": "2398",
+    "name": "DARTE Q 40MG/320MG GEL B/9"
+  },
+  {
+    "id": "2399",
+    "name": "DEPIWHITE ADVANCED CR DEPIG T/40ML"
+  },
+  {
+    "id": "2400",
+    "name": "DEPIWHITE GEL CONTOUR YEUX T/15ML"
+  },
+  {
+    "id": "2401",
+    "name": "DIPREZAR FORT 100MG/25MG CPR PELL B/28"
+  },
+  {
+    "id": "2402",
+    "name": "DOLIRHUME COMP B/16"
+  },
+  {
+    "id": "2403",
+    "name": "DOLOWIN PLUS 500/100MG CPR PELL SEC B/30"
+  },
+  {
+    "id": "2404",
+    "name": "EFFERCAL 250MG/200UI CPR EFFV B/20"
+  },
+  {
+    "id": "2405",
+    "name": "ELICA 0,1% CR T/30G"
+  },
+  {
+    "id": "2406",
+    "name": "ETHER RECTIFIE METAL FL/200ML"
+  },
+  {
+    "id": "2407",
+    "name": "FANGID CR T/15G"
+  },
+  {
+    "id": "2408",
+    "name": "FEBREX PLUS CPR B/4"
+  },
+  {
+    "id": "2409",
+    "name": "FELDENE 20MG CPR DISP B/15"
+  },
+  {
+    "id": "2410",
+    "name": "FELDENE 20MG GEL B/15"
+  },
+  {
+    "id": "2411",
+    "name": "FELDENE 20MG SUPPO B/15"
+  },
+  {
+    "id": "2412",
+    "name": "FER+AC FOLIQ BIOFAR CPR EFFV20"
+  },
+  {
+    "id": "2413",
+    "name": "FEZOMIN C GEL B/30"
+  },
+  {
+    "id": "2414",
+    "name": "FIXORINOX 50MCG/DOSE SUSP PULV NAS/15ML"
+  },
+  {
+    "id": "2415",
+    "name": "FLUOXINE 500MG CPR B/10"
+  },
+  {
+    "id": "2416",
+    "name": "FRIDIAL ENFANT 250MG SOL BUV F/50ML"
+  },
+  {
+    "id": "2417",
+    "name": "FRIDIAL 30MG CPR B/20"
+  },
+  {
+    "id": "2418",
+    "name": "FUCICORT 20MG/1MG/G CR T/15G"
+  },
+  {
+    "id": "2419",
+    "name": "GASTRICID CPR A MACHER POCH/4 PRES/50"
+  },
+  {
+    "id": "2420",
+    "name": "GENPAR 1% PERF INJ 1000MG F/100ML"
+  },
+  {
+    "id": "2421",
+    "name": "GYNOFER B12 SUSP BUV F/200ML"
+  },
+  {
+    "id": "2422",
+    "name": "HEXTRIL SOLUTE F/200ML"
+  },
+  {
+    "id": "2423",
+    "name": "LAINO EAU FLORALE BLEUET F/250ML"
+  },
+  {
+    "id": "2424",
+    "name": "LIDOCAINE 2% SOL INJ 20ML A B1"
+  },
+  {
+    "id": "2425",
+    "name": "LINCOCINE 250MG SP F/60ML"
+  },
+  {
+    "id": "2426",
+    "name": "LOSARMAX 50MG/12,5MG CPR B/30"
+  },
+  {
+    "id": "2427",
+    "name": "LYSANXIA 10MG CPR B/40"
+  },
+  {
+    "id": "2428",
+    "name": "LYSOFLAM GEL T/30GR"
+  },
+  {
+    "id": "2429",
+    "name": "METHERGIN INJ AMP 1ML BT 3"
+  },
+  {
+    "id": "2430",
+    "name": "METROWIN 250MG CPR B/20"
+  },
+  {
+    "id": "2431",
+    "name": "METROWIN 500MG CPR 10BL10"
+  },
+  {
+    "id": "2432",
+    "name": "MOUSTIDOSE CREME BB/ENF T/50ML"
+  },
+  {
+    "id": "2433",
+    "name": "MOUSTIDOSE LOTION BB/ENF 100ML"
+  },
+  {
+    "id": "2434",
+    "name": "MOUSTIDOSE CREME ADULTE T/50ML"
+  },
+  {
+    "id": "2435",
+    "name": "MUCOMYST 200MG PDRE SOL BUV SACH B/18"
+  },
+  {
+    "id": "2436",
+    "name": "MUCOGYNE GEL VAG T/40ML"
+  },
+  {
+    "id": "2437",
+    "name": "MYCOSTER 1% PDRE FL/30G"
+  },
+  {
+    "id": "2438",
+    "name": "NIDAZOL 500MG OV B/10"
+  },
+  {
+    "id": "2439",
+    "name": "OLMAT 20MG CPR SEC B/30"
+  },
+  {
+    "id": "2440",
+    "name": "OPTIDEX-T COLL F/5ML"
+  },
+  {
+    "id": "2441",
+    "name": "PAPOFFER CPR EFFV B/20"
+  },
+  {
+    "id": "2442",
+    "name": "PARACETA M 1G SOL INJ F/100ML"
+  },
+  {
+    "id": "2443",
+    "name": "PARAMAX 100MG/500MG CPR B/30"
+  },
+  {
+    "id": "2444",
+    "name": "PEDIAKID IMMUNO FORTIF F/125ML"
+  },
+  {
+    "id": "2445",
+    "name": "PLASMOCID 20MG/120MG CPR B/24"
+  },
+  {
+    "id": "2446",
+    "name": "PONSTYL ENFANT SP F/60ML"
+  },
+  {
+    "id": "2447",
+    "name": "PYOSTACINE 500MG CPR BT 16"
+  },
+  {
+    "id": "2448",
+    "name": "RAMITHIAZIDE 10MG/25MG CPR B/30"
+  },
+  {
+    "id": "2449",
+    "name": "RANTUDIL 60MG GEL B/20"
+  },
+  {
+    "id": "2450",
+    "name": "RANTUDIL RETARD LP 90MG GEL B/20"
+  },
+  {
+    "id": "2451",
+    "name": "RODOGYL CPR BT 20"
+  },
+  {
+    "id": "2452",
+    "name": "ROXID SUSP BUV F/90ML"
+  },
+  {
+    "id": "2453",
+    "name": "SAFORELLE SAV PAIN 100G"
+  },
+  {
+    "id": "2454",
+    "name": "SENSODYNE RAPIDE ACTION DENTIF T/75ML"
+  },
+  {
+    "id": "2455",
+    "name": "SOFFBAN PLUS OUATE ORTHOPED 7,5CMX2,7M/1"
+  },
+  {
+    "id": "2456",
+    "name": "SOLU-MEDROL 20MG INJ FL+A.BT 1"
+  },
+  {
+    "id": "2457",
+    "name": "SOLUBACTER EXT SOL FP 150ML"
+  },
+  {
+    "id": "2458",
+    "name": "SOLUBACTER EXT SOL FP 400ML"
+  },
+  {
+    "id": "2459",
+    "name": "STERIMAR MN AEROS 50ML"
+  },
+  {
+    "id": "2460",
+    "name": "TIMOFEROL GEL B/30"
+  },
+  {
+    "id": "2461",
+    "name": "TRIATEC 2,5MG CPR B/30"
+  },
+  {
+    "id": "2462",
+    "name": "TUSPEL PLUS SP F/100ML"
+  },
+  {
+    "id": "2463",
+    "name": "TUSPRESS SUSP BUV F/100ML"
+  },
+  {
+    "id": "2464",
+    "name": "UMEPENTA 40MG PDRE INJ B/1"
+  },
+  {
+    "id": "2465",
+    "name": "UNIMER ISOTONIQUE PED SOL NAS SPR F100ML"
+  },
+  {
+    "id": "2466",
+    "name": "UNIMER HYPERTONIQ PED SOL NAS SPR F100ML"
+  },
+  {
+    "id": "2467",
+    "name": "UVIMAG B6 NF BUV AMP 10ML B/20"
+  },
+  {
+    "id": "2468",
+    "name": "VEGEBOM BME SECOURS T/7,5G"
+  },
+  {
+    "id": "2469",
+    "name": "VEGEBOM GEL SECOURS T/45ML"
+  },
+  {
+    "id": "2470",
+    "name": "VELITEN CPR BT 30"
+  },
+  {
+    "id": "2471",
+    "name": "VEREX 400MG SUSP BUV F/10ML"
+  },
+  {
+    "id": "2472",
+    "name": "VOLTARENE EMULGEL 1% T/50G"
+  },
+  {
+    "id": "2473",
+    "name": "WELVIT PLUS CPR B/30"
+  },
+  {
+    "id": "2474",
+    "name": "XYLOCAINE VISQ GELEE TB 100G"
+  },
+  {
+    "id": "2475",
+    "name": "ZOLINE 500MG CPR B/10"
+  },
+  {
+    "id": "2476",
+    "name": "ZYNOVIT CAPS B/30"
+  },
+  {
+    "id": "2477",
+    "name": "ADEPAL CPR DRG PLQ 1X21"
+  },
+  {
+    "id": "2478",
+    "name": "APEXIME 200MG/5ML SUSP BUV F/15ML"
+  },
+  {
+    "id": "2479",
+    "name": "APEXIME 250MG CPR PELL B/6"
+  },
+  {
+    "id": "2480",
+    "name": "APEXIME 500MG CPR PELL B/3"
+  },
+  {
+    "id": "2481",
+    "name": "ARTRINE 20MG/120MG CPR B/24"
+  },
+  {
+    "id": "2482",
+    "name": "AVENE TRIACNEAL EXPERT EMULS F/30ML"
+  },
+  {
+    "id": "2483",
+    "name": "BETASTENE 0,05% SOL BUV F/30ML"
+  },
+  {
+    "id": "2484",
+    "name": "BIBACTIN FORT 960MG CPR B/100"
+  },
+  {
+    "id": "2485",
+    "name": "BRUSTAN CPR BT 10"
+  },
+  {
+    "id": "2486",
+    "name": "BRUSTAN CPR B/20"
+  },
+  {
+    "id": "2487",
+    "name": "CARDOGREL 75MG CPR B/28"
+  },
+  {
+    "id": "2488",
+    "name": "CEFTRIAZ 250MG PDR S INJ 1FL+SOLV AMP5ML"
+  },
+  {
+    "id": "2489",
+    "name": "CEPODEM 200MG CPR B/10"
+  },
+  {
+    "id": "2490",
+    "name": "CHLORUMAGENE PDRE ORAL BT 100G"
+  },
+  {
+    "id": "2491",
+    "name": "CIPROAS-TZ 500MG/600MG CPR B/20"
+  },
+  {
+    "id": "2492",
+    "name": "CLAVAM 562,5MG PDRE SUSP BUV F/60ML"
+  },
+  {
+    "id": "2493",
+    "name": "CLAVAM 281,25MG PDRE SUSP BUV F/60ML"
+  },
+  {
+    "id": "2494",
+    "name": "CORYPHEDRINE 500MG CPR B/20"
+  },
+  {
+    "id": "2495",
+    "name": "D-ARTEPP 20MG/160MG CPR DISP B/6"
+  },
+  {
+    "id": "2496",
+    "name": "D-ARTEPP 40MG/320MG CPR DISP B/6"
+  },
+  {
+    "id": "2497",
+    "name": "D-ARTEPP 80MG/640MG CPR PELL B/6"
+  },
+  {
+    "id": "2498",
+    "name": "DEBRIDAT 100MG CPR B/30"
+  },
+  {
+    "id": "2499",
+    "name": "DIARUM 0,2MG/ML SP F/100ML"
+  },
+  {
+    "id": "2500",
+    "name": "DICLO PHARMA5 50MG CPR B/20"
+  },
+  {
+    "id": "2501",
+    "name": "EAU DE BOTOT F/150ML"
+  },
+  {
+    "id": "2502",
+    "name": "ENTAMIZOLE 250MG/200MG CPR B/30"
+  },
+  {
+    "id": "2503",
+    "name": "EXACYL 500MG IV AMP 5ML B/5"
+  },
+  {
+    "id": "2504",
+    "name": "FANTEM FORTE 80MG/480MG CPR B/6"
+  },
+  {
+    "id": "2505",
+    "name": "FIZO 20MG CPR B/10"
+  },
+  {
+    "id": "2506",
+    "name": "FLUCESS 50MG CPR B/7"
+  },
+  {
+    "id": "2507",
+    "name": "GINKOCER 40MG CPR B/30"
+  },
+  {
+    "id": "2508",
+    "name": "GLEVO 500MG CPR PELL B/5"
+  },
+  {
+    "id": "2509",
+    "name": "GLUCOSE 10% KABIPAC PERF 500ML FRES"
+  },
+  {
+    "id": "2510",
+    "name": "GRANI DENK 1MG/ML SOL INJ AMP/1ML B/5"
+  },
+  {
+    "id": "2511",
+    "name": "KINAFON 80MG CPR B/30"
+  },
+  {
+    "id": "2512",
+    "name": "LACTIV SOL VAG F/200ML"
+  },
+  {
+    "id": "2513",
+    "name": "LARITHER 80MG INJ 1ML B/6"
+  },
+  {
+    "id": "2514",
+    "name": "LARITEM 40/240MG CPR B/12"
+  },
+  {
+    "id": "2515",
+    "name": "MAGNESIUM MARIN FORT CPR B/15"
+  },
+  {
+    "id": "2516",
+    "name": "MEDOMOX 500MG GEL B/500"
+  },
+  {
+    "id": "2517",
+    "name": "MEGAMAG GELULE BT 40"
+  },
+  {
+    "id": "2518",
+    "name": "MODECATE 25MG INJ AMP 1ML BT 3"
+  },
+  {
+    "id": "2519",
+    "name": "MO-FLOREN COLLYRE F/5ML"
+  },
+  {
+    "id": "2520",
+    "name": "MOLGAM 200MG CPR B/20"
+  },
+  {
+    "id": "2521",
+    "name": "MOLGAM 100MG CPR B/20"
+  },
+  {
+    "id": "2522",
+    "name": "MUKESTAT 200MG CPR PELL SEC B/10"
+  },
+  {
+    "id": "2523",
+    "name": "MYLEUGYN LP 150MG OVULE B/1"
+  },
+  {
+    "id": "2524",
+    "name": "NASAX 50MCG DOSES F/100"
+  },
+  {
+    "id": "2525",
+    "name": "NOOTROPYL INJ AMP 15ML B/4"
+  },
+  {
+    "id": "2526",
+    "name": "OROKEN 200MG CPR BT 8"
+  },
+  {
+    "id": "2527",
+    "name": "PANTO DENK 20MG CPR B/28"
+  },
+  {
+    "id": "2528",
+    "name": "PARACETAMOL WINTHROP 500MG CPR B/20"
+  },
+  {
+    "id": "2529",
+    "name": "PEVAGINE 150MG OV B/3"
+  },
+  {
+    "id": "2530",
+    "name": "PROKEFEN 100MG SUPPO B/10"
+  },
+  {
+    "id": "2531",
+    "name": "RIDMAL 40/320MG CPR B/9"
+  },
+  {
+    "id": "2532",
+    "name": "RIGIDE 50MG CPR PELL B/4"
+  },
+  {
+    "id": "2533",
+    "name": "RINGER LACTATE KABIPAC 500ML PERF FRES"
+  },
+  {
+    "id": "2534",
+    "name": "SERUM PHYSIO BABYSOIN DOSE 5ML B/30"
+  },
+  {
+    "id": "2535",
+    "name": "SERUM PHYSIO BABYSOIN DOSE 5ML B/18"
+  },
+  {
+    "id": "2536",
+    "name": "SODROL 40MG PDRE INJ B/1"
+  },
+  {
+    "id": "2537",
+    "name": "SOTAMOX 1000MG/200MG INJ IV B/1"
+  },
+  {
+    "id": "2538",
+    "name": "STRIMIDE 2,5MG CPR B/28"
+  },
+  {
+    "id": "2539",
+    "name": "TRIMAREL 20MG CPR B/60"
+  },
+  {
+    "id": "2540",
+    "name": "VASELINE SALICYLEE 10% PDE T/40G"
+  },
+  {
+    "id": "2541",
+    "name": "VICLINE 200MG CPR PELL SEC B/10"
+  },
+  {
+    "id": "2542",
+    "name": "VIT B12 DULCIS COLLYRE FL 5ML"
+  },
+  {
+    "id": "2543",
+    "name": "VOGALENE 10MG INJ AMP1ML BT 10"
+  },
+  {
+    "id": "2544",
+    "name": "ADVILMED 20MG/ML SUSP PEDIA F/200ML"
+  },
+  {
+    "id": "2545",
+    "name": "AMITRON 500MG GEL 50BL10"
+  },
+  {
+    "id": "2546",
+    "name": "AMLIBON 5MG CPR B/30"
+  },
+  {
+    "id": "2547",
+    "name": "ARGILETZ ARGILE VERTE PATE T/150G"
+  },
+  {
+    "id": "2548",
+    "name": "TENSIOMETRE POIGNET LABELL/1"
+  },
+  {
+    "id": "2549",
+    "name": "BIPLATRIX BDE PLATRE BLEUE 3MX20CM/1"
+  },
+  {
+    "id": "2550",
+    "name": "CALCIUM GLUCON PROAMP10% S INJ AMP10ML50"
+  },
+  {
+    "id": "2551",
+    "name": "CARBOMUC 5% AD SP F/125ML"
+  },
+  {
+    "id": "2552",
+    "name": "CATHETER LABELL IV 20G 33MM ROSE/1"
+  },
+  {
+    "id": "2553",
+    "name": "CATHETER LABELL IV 22G 25MM BLEU/1"
+  },
+  {
+    "id": "2554",
+    "name": "CC-NEFRO 500MG CPR PELL B/100"
+  },
+  {
+    "id": "2555",
+    "name": "CETIX 10MG CPR B/7"
+  },
+  {
+    "id": "2556",
+    "name": "CHROME ORGAN BIOFAR CPR EFFV20"
+  },
+  {
+    "id": "2557",
+    "name": "CIPHASTEINE 5% AD SP F/125ML"
+  },
+  {
+    "id": "2558",
+    "name": "CIPHASTEINE 2% ENF SP F/125ML"
+  },
+  {
+    "id": "2559",
+    "name": "CLIVON CPR VAG B/10"
+  },
+  {
+    "id": "2560",
+    "name": "COLOSAR DENK 100MG/12,5MG CPR PELL B/28"
+  },
+  {
+    "id": "2561",
+    "name": "COMPRESS PUR LABELL 20X20 PQ10"
+  },
+  {
+    "id": "2562",
+    "name": "COMPRESS PUR LABELL 30X30 PQ10"
+  },
+  {
+    "id": "2563",
+    "name": "COMPRESS PUR LABELL 40X40 PQ10"
+  },
+  {
+    "id": "2564",
+    "name": "COCHON POMMADE KERATOLYTIQ 10G"
+  },
+  {
+    "id": "2565",
+    "name": "CYCLO 3 FORT GEL B/30"
+  },
+  {
+    "id": "2566",
+    "name": "DEPIWHITE MASQ PELLICUL ECLAIRC T/40ML"
+  },
+  {
+    "id": "2567",
+    "name": "DICLOWAL 100MG RETARD CPR BT10"
+  },
+  {
+    "id": "2568",
+    "name": "ELGYDIUM DENTIFRICE T/150G"
+  },
+  {
+    "id": "2569",
+    "name": "ELGYDIUM JUNIOR 7-12ANS BUBBLE DENT/50ML"
+  },
+  {
+    "id": "2570",
+    "name": "EPICRAN 5/10 25G ORAN LABELL/1"
+  },
+  {
+    "id": "2571",
+    "name": "FEROGRAD LP VIT C 500 CPR BT30"
+  },
+  {
+    "id": "2572",
+    "name": "FORTALINE SP F/100ML"
+  },
+  {
+    "id": "2573",
+    "name": "HEXOMEDINE 0,1% SOL FP 250ML"
+  },
+  {
+    "id": "2574",
+    "name": "IMOX 500MG GEL 2BL10"
+  },
+  {
+    "id": "2575",
+    "name": "ISOPTO PILOCARPINE 2% COLL F/10ML"
+  },
+  {
+    "id": "2576",
+    "name": "LATOCHEK 0,005% COLL F/2,5ML"
+  },
+  {
+    "id": "2577",
+    "name": "LOXEN 10MG INJ AMP 10ML BT 5"
+  },
+  {
+    "id": "2578",
+    "name": "MALAVAN 120MG PDR SOL INJ F/1+SOLV/2 B/1"
+  },
+  {
+    "id": "2579",
+    "name": "MANIX GEL LUBRIF NATURAL T/100ML"
+  },
+  {
+    "id": "2580",
+    "name": "MANIX GEL LUBRIF EFFECT T/100ML"
+  },
+  {
+    "id": "2581",
+    "name": "MANIX GEL LUBRIF INFINITI T/100ML"
+  },
+  {
+    "id": "2582",
+    "name": "MANIX GEL LUBRIF FRAISE T/100ML"
+  },
+  {
+    "id": "2583",
+    "name": "METROWIN 200MG/5ML SUSP BUV F/60ML"
+  },
+  {
+    "id": "2584",
+    "name": "MICROVAL CPR DRG PLQ 1X28"
+  },
+  {
+    "id": "2585",
+    "name": "NEO MEDROL ACNE LOT F/25ML"
+  },
+  {
+    "id": "2586",
+    "name": "NICARDIPINE AGUET10MG SOL INJ AMP10ML/10"
+  },
+  {
+    "id": "2587",
+    "name": "NO SPA 40MG INJ 2ML AMP B/5"
+  },
+  {
+    "id": "2588",
+    "name": "NOVEX 4000UI/0,4ML SER PREREMPL B/2"
+  },
+  {
+    "id": "2589",
+    "name": "OCUGUARD GEL B/20"
+  },
+  {
+    "id": "2590",
+    "name": "PEDIAKID SOMMEIL SUSP F/125ML"
+  },
+  {
+    "id": "2591",
+    "name": "QUINIMAX 500MG INJ AMP 4ML BT3"
+  },
+  {
+    "id": "2592",
+    "name": "RENERVE P GEL B/30"
+  },
+  {
+    "id": "2593",
+    "name": "RENNIE PASTILLE B/48"
+  },
+  {
+    "id": "2594",
+    "name": "RHINEX 100MG/2,5MG SP F/100ML"
+  },
+  {
+    "id": "2595",
+    "name": "SENSODYNE VIT SOIN COMPLET DENTIF T/75ML"
+  },
+  {
+    "id": "2596",
+    "name": "SERING UBI ONE 3P 2,5ML AIG100"
+  },
+  {
+    "id": "2597",
+    "name": "SERVIFLOX 500MG CPR B/10"
+  },
+  {
+    "id": "2598",
+    "name": "SPASFON SOL INJ AMP/4ML B/6"
+  },
+  {
+    "id": "2599",
+    "name": "TALC VENISE GILB ETUI SCH/200G"
+  },
+  {
+    "id": "2600",
+    "name": "TESS 0,1% PATE BUCCALE T/5G"
+  },
+  {
+    "id": "2601",
+    "name": "TOPICREM CICA CR REPAR T/40ML"
+  },
+  {
+    "id": "2602",
+    "name": "TRAXOL 500MG SOL INJ  F/5ML"
+  },
+  {
+    "id": "2603",
+    "name": "VENTOLINE 2MG CPR B/40"
+  },
+  {
+    "id": "2604",
+    "name": "WORMIN 500MG CPR B/1"
+  },
+  {
+    "id": "2605",
+    "name": "ACINET 1,2G SOL INJ F/5ML"
+  },
+  {
+    "id": "2606",
+    "name": "ACUIGEN 0,3% COLL F/5ML"
+  },
+  {
+    "id": "2607",
+    "name": "ALBENDAZOLE UBI 400MG CPR 50BL1"
+  },
+  {
+    "id": "2608",
+    "name": "AMINOCAL CPR B/30"
+  },
+  {
+    "id": "2609",
+    "name": "ANDOL 500MG CPR EFFV B/16"
+  },
+  {
+    "id": "2610",
+    "name": "BETADINE GARG BAIN BCHE F125ML"
+  },
+  {
+    "id": "2611",
+    "name": "BON BON GRIPPE WATER F/100ML"
+  },
+  {
+    "id": "2612",
+    "name": "CALMIXENE SP F/150ML"
+  },
+  {
+    "id": "2613",
+    "name": "CARBACTIVE 120MG GEL B/30"
+  },
+  {
+    "id": "2614",
+    "name": "CARBIGEN 5MG CPR B/30"
+  },
+  {
+    "id": "2615",
+    "name": "CELIA DEVELOP 1ER AGE LAIT B/400G"
+  },
+  {
+    "id": "2616",
+    "name": "CELIA DEVELOP 3 CROISSANCE LAIT B/400G"
+  },
+  {
+    "id": "2617",
+    "name": "CELIA MAMA LAIT B/400G"
+  },
+  {
+    "id": "2618",
+    "name": "CELIA DEVELOP LAIT AR B/400G"
+  },
+  {
+    "id": "2619",
+    "name": "CIFRAN CT CPR B/10"
+  },
+  {
+    "id": "2620",
+    "name": "CLAMOXYL 500MG PDR SIR FL 60ML"
+  },
+  {
+    "id": "2621",
+    "name": "ALFAMOX 500MG PDRE SUSP BUV SACH B/14"
+  },
+  {
+    "id": "2622",
+    "name": "DAFALGAN 1G CPR EFFV B/8"
+  },
+  {
+    "id": "2623",
+    "name": "AMODEX 500MG GELULE BT 12"
+  },
+  {
+    "id": "2624",
+    "name": "DICACILLINE 2,4MUI SOL INJ+SOLV AMP B/1"
+  },
+  {
+    "id": "2625",
+    "name": "DIOVENOR 600MG CPR BT 30"
+  },
+  {
+    "id": "2626",
+    "name": "DUOPIL CPR /21"
+  },
+  {
+    "id": "2627",
+    "name": "EFFERALGAN VITC 500MG/200MG CPR EFFV/16"
+  },
+  {
+    "id": "2628",
+    "name": "ELICA-M CR T/30G"
+  },
+  {
+    "id": "2629",
+    "name": "EVIDAN 1MG/ML SUSP BUV F/200ML"
+  },
+  {
+    "id": "2630",
+    "name": "FASIGYNE 500MG CPR B/4"
+  },
+  {
+    "id": "2631",
+    "name": "FERRIC CITR AMM UBI 160MG/15ML SP/200ML"
+  },
+  {
+    "id": "2632",
+    "name": "GENFORTE 100MG/125MG SUSP BUV F/120ML"
+  },
+  {
+    "id": "2633",
+    "name": "HUMEX RHUME CPR/12+ GEL/4"
+  },
+  {
+    "id": "2634",
+    "name": "IBUPROFENE GH 400MG CPR B/100"
+  },
+  {
+    "id": "2635",
+    "name": "IMMUNORHO 300MCG-1500UI PDR INJ+SOLV/2ML"
+  },
+  {
+    "id": "2636",
+    "name": "INIGAST 20MG CPR GASTRO RESIST 3BL10"
+  },
+  {
+    "id": "2637",
+    "name": "INIGAST 40MG CPR GASTRO RESIST 3BL10"
+  },
+  {
+    "id": "2638",
+    "name": "INTRALGINE PERF 1% F/100ML"
+  },
+  {
+    "id": "2639",
+    "name": "ISOTONIC SOL MENINGO B/10"
+  },
+  {
+    "id": "2640",
+    "name": "KETESSE 50MG SOL INJ AMP/2ML B/1"
+  },
+  {
+    "id": "2641",
+    "name": "KETESSE 50MG SOL INJ AMP/2ML B/5"
+  },
+  {
+    "id": "2642",
+    "name": "KETOPROFENE UBI 100MG CPR 10 BL 10"
+  },
+  {
+    "id": "2643",
+    "name": "KETONAL DUO 150MG CPR B/20"
+  },
+  {
+    "id": "2644",
+    "name": "LAROXYL 40MG BUV GTTE FL 20ML"
+  },
+  {
+    "id": "2645",
+    "name": "LIC DAZOL 400MG CPR B/2"
+  },
+  {
+    "id": "2646",
+    "name": "LOVENOX 2000UI ANTI XA SER 0,2ML B/2"
+  },
+  {
+    "id": "2647",
+    "name": "LYSANXIA 40MG CPR BT 20"
+  },
+  {
+    "id": "2648",
+    "name": "MEDROL 4MG CPR B/30"
+  },
+  {
+    "id": "2649",
+    "name": "NESTEFFER 500MG CPR EFFV B/16"
+  },
+  {
+    "id": "2650",
+    "name": "NO SPA 40MG INJ 2ML AMP B/25"
+  },
+  {
+    "id": "2651",
+    "name": "OMEGEN 20MG GEL B/14"
+  },
+  {
+    "id": "2652",
+    "name": "PARANTAL 500MG CPR B/20"
+  },
+  {
+    "id": "2653",
+    "name": "PEDIFEN AD 400MG CPR B/30"
+  },
+  {
+    "id": "2654",
+    "name": "PERINDOGEN 5MG CPR B/30"
+  },
+  {
+    "id": "2655",
+    "name": "PERINDOGEN 10MG CPR B/30"
+  },
+  {
+    "id": "2656",
+    "name": "QUINIMAX 250MG INJ AMP 2ML B25"
+  },
+  {
+    "id": "2657",
+    "name": "RASGIL HTZ 5MG/25MG CPR B/30"
+  },
+  {
+    "id": "2658",
+    "name": "RASGIL HTZ 10MG/12,5MG CPR B/30"
+  },
+  {
+    "id": "2659",
+    "name": "RASGIL HTZ 10MG/25MG CPR B/30"
+  },
+  {
+    "id": "2660",
+    "name": "REGULIX 40MG CPR B/20"
+  },
+  {
+    "id": "2661",
+    "name": "RINITEX 5MG/10MG CPR B/20"
+  },
+  {
+    "id": "2662",
+    "name": "ROCEPHINE 500MG IV FL+AMP B/1"
+  },
+  {
+    "id": "2663",
+    "name": "SAFORELLE CR T/50ML"
+  },
+  {
+    "id": "2664",
+    "name": "SALIFEN 1% GEL 30MG T/30G"
+  },
+  {
+    "id": "2665",
+    "name": "SENSODYNE PRO BLANCHEUR DENTIF T/75ML"
+  },
+  {
+    "id": "2666",
+    "name": "SERVIFLOX 250MG CPR B/10"
+  },
+  {
+    "id": "2667",
+    "name": "SERVIFLOX 750MG CPR B/10"
+  },
+  {
+    "id": "2668",
+    "name": "SPIFEN 400MG GR SACH B/20"
+  },
+  {
+    "id": "2669",
+    "name": "TADAGEN 20MG CPR B/1"
+  },
+  {
+    "id": "2670",
+    "name": "TEMERIT DUO 5MG/25MG CPR B/30"
+  },
+  {
+    "id": "2671",
+    "name": "TONLUM 20MG/120MG CPR DISP B/6"
+  },
+  {
+    "id": "2672",
+    "name": "VIBRA 200MG CPR B/8"
+  },
+  {
+    "id": "2673",
+    "name": "VITAVIT VIT C GOMMES B/60"
+  },
+  {
+    "id": "2674",
+    "name": "VITAVIT MULTIVITAMINE GOMMES B/60"
+  },
+  {
+    "id": "2675",
+    "name": "VITAVIT VIT D/CA GOMMES B/60"
+  },
+  {
+    "id": "2676",
+    "name": "WORMIN 100MG SUSP F/30ML"
+  },
+  {
+    "id": "2677",
+    "name": "ACTIFED RHUME JOUR ET NUIT CPR B/16"
+  },
+  {
+    "id": "2678",
+    "name": "ALFAMOX 1G PDRE SUSP BUV SACH B/14"
+  },
+  {
+    "id": "2679",
+    "name": "ARCET 120MG/5ML SUSP BUV F/60ML"
+  },
+  {
+    "id": "2680",
+    "name": "ATORCAP 20MG CPR B/30"
+  },
+  {
+    "id": "2681",
+    "name": "BETADINE SCRUB FL 500ML ROUGE"
+  },
+  {
+    "id": "2682",
+    "name": "BIOMIST ND 0,05% PED GTTE NAS F/10ML"
+  },
+  {
+    "id": "2683",
+    "name": "BIOMIST ND 0,1% GTTE NAS F/10ML"
+  },
+  {
+    "id": "2684",
+    "name": "CAPCAINE 2% SOL INJ F/30ML"
+  },
+  {
+    "id": "2685",
+    "name": "COLLEC URINE LABELL 2L SACH/5"
+  },
+  {
+    "id": "2686",
+    "name": "CREATOL PARACETAMOL 500MG CPR EFFV B/16"
+  },
+  {
+    "id": "2687",
+    "name": "CURAM 1G/200MG AMP INJ IV B/1"
+  },
+  {
+    "id": "2688",
+    "name": "CYSTINE B6 BAILLEUL CPR PELL B/20"
+  },
+  {
+    "id": "2689",
+    "name": "DOLKO ENF*BEBE SIROP FL 90ML"
+  },
+  {
+    "id": "2690",
+    "name": "DOLO DENK GEL T/50G"
+  },
+  {
+    "id": "2691",
+    "name": "DUCRAY KERACNYL MASQUE T/40ML"
+  },
+  {
+    "id": "2692",
+    "name": "DUCRAY KERACNYL GEL MOUSS SEBO REG/200ML"
+  },
+  {
+    "id": "2693",
+    "name": "EAU PRECIEUSE PUR GEL NETT T/150ML"
+  },
+  {
+    "id": "2694",
+    "name": "EUROMOX 1G CPR B/10"
+  },
+  {
+    "id": "2695",
+    "name": "FEVASTIN 10MG/ML IV SOL INJ F/100ML"
+  },
+  {
+    "id": "2696",
+    "name": "GELEE ROYALE 1000MG SOL BUV AMP10ML B/20"
+  },
+  {
+    "id": "2697",
+    "name": "HUILE RICIN PERLE FL1LITRE CPF"
+  },
+  {
+    "id": "2698",
+    "name": "HUILE PARAFFINE FL 250ML"
+  },
+  {
+    "id": "2699",
+    "name": "KETONAL 100MG CPR B/20"
+  },
+  {
+    "id": "2700",
+    "name": "LANZOCAP 30MG GEL B/30"
+  },
+  {
+    "id": "2701",
+    "name": "LORKOF EXPECTORANT SP F/100ML"
+  },
+  {
+    "id": "2702",
+    "name": "METROLEX-F 400/100MG CPR B/21"
+  },
+  {
+    "id": "2703",
+    "name": "OFLOCARE 200MG CPR B/10"
+  },
+  {
+    "id": "2704",
+    "name": "OMNIPAQUE 300MG/ML SOL INJ FP/100ML"
+  },
+  {
+    "id": "2705",
+    "name": "OMNIPAQUE 350MG/ML SOL INJ FP/100ML"
+  },
+  {
+    "id": "2706",
+    "name": "OMNIPAQUE 300MG/ML SOL INJ FP/50ML"
+  },
+  {
+    "id": "2707",
+    "name": "OMNIPAQUE 350MG/ML SOL INJ FP/50ML"
+  },
+  {
+    "id": "2708",
+    "name": "OPTICRON 2% COLLYRE FL 5ML"
+  },
+  {
+    "id": "2709",
+    "name": "PAPS PDRE HYG CORPS F/100G"
+  },
+  {
+    "id": "2710",
+    "name": "PARODONTAX DENTIF FRAICH INTENSE T/75ML"
+  },
+  {
+    "id": "2711",
+    "name": "POLYVITA M SOL INJ AMP 10ML B/5"
+  },
+  {
+    "id": "2712",
+    "name": "RADIOSELECTAN UV 76% A20ML BT1"
+  },
+  {
+    "id": "2713",
+    "name": "RINIALER 10MG CPR B/20"
+  },
+  {
+    "id": "2714",
+    "name": "RISORDAN 20MG CPR B/60"
+  },
+  {
+    "id": "2715",
+    "name": "SAFORELLE SOL LAVANTE DOUCE F/ 250ML"
+  },
+  {
+    "id": "2716",
+    "name": "SAFORELLE SOL LAVANTE DOUCE F/100ML"
+  },
+  {
+    "id": "2717",
+    "name": "SYNERGON 10MG/1MG SOL INJ AMP/1ML B/3"
+  },
+  {
+    "id": "2718",
+    "name": "SYNTOCINON 5UI INJ AMP/1ML B/3"
+  },
+  {
+    "id": "2719",
+    "name": "TOPICREM ULTRA HYDR LAIT CORPS F500ML /2"
+  },
+  {
+    "id": "2720",
+    "name": "TOPICREM ULTR HYDR LEGERE CR VIS T/40ML"
+  },
+  {
+    "id": "2721",
+    "name": "TRIVITA B SOL INJ IM/IV AMP/2ML B/6"
+  },
+  {
+    "id": "2722",
+    "name": "VAC AVAXIM 80 PED SER PREREMP/0,5ML B/1"
+  }
+]
