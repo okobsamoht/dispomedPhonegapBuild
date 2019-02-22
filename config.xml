@@ -93,5 +93,4 @@
   </config-file>
   <engine name="browser" spec="~5.0.4"/>
   <plugin name="cordova-plugin-camera" spec="~4.0.3"/>
-  <plugin name="com-sarriaroman-photoviewer" spec="^1.2.0"/>
 </widget>
