@@ -10,8 +10,8 @@
     "commune": "COTONOU",
     "arrondissement": "8ème",
     "quartier": "AGONTIKON-AYIDOTE",
-    "latitude": "6,3747",
-    "longitude": "2,40422"
+    "latitude": "6.3747",
+    "longitude": "2.40422"
   },
   {
     "n": "2",
@@ -24,8 +24,8 @@
     "commune": "COTONOU",
     "arrondissement": "8ème",
     "quartier": "STE RITA",
-    "latitude": "6,38202",
-    "longitude": "2,40811"
+    "latitude": "6.38202",
+    "longitude": "2.40811"
   },
   {
     "n": "3",
@@ -38,8 +38,8 @@
     "commune": "COTONOU",
     "arrondissement": "8ème",
     "quartier": "FIFADJI",
-    "latitude": "6,38614",
-    "longitude": "2,40456"
+    "latitude": "6.38614",
+    "longitude": "2.40456"
   },
   {
     "n": "4",
@@ -52,8 +52,8 @@
     "commune": "COTONOU",
     "arrondissement": "8ème",
     "quartier": "VEDOKO",
-    "latitude": "6,37684",
-    "longitude": "2,40092"
+    "latitude": "6.37684",
+    "longitude": "2.40092"
   },
   {
     "n": "5",
@@ -66,8 +66,8 @@
     "commune": "COTONOU",
     "arrondissement": "12ème",
     "quartier": "CADJEHOUN",
-    "latitude": "6,3611",
-    "longitude": "2,39758"
+    "latitude": "6.3611",
+    "longitude": "2.39758"
   },
   {
     "n": "6",
@@ -80,8 +80,8 @@
     "commune": "COTONOU",
     "arrondissement": "12ème",
     "quartier": "AHOUANLEKO",
-    "latitude": "6,35682",
-    "longitude": "2,39994"
+    "latitude": "6.35682",
+    "longitude": "2.39994"
   },
   {
     "n": "7",
@@ -94,8 +94,8 @@
     "commune": "COTONOU",
     "arrondissement": "12ème",
     "quartier": "AHOUANLEKO",
-    "latitude": "6,35385",
-    "longitude": "2,41005"
+    "latitude": "6.35385",
+    "longitude": "2.41005"
   },
   {
     "n": "8",
@@ -108,8 +108,8 @@
     "commune": "COTONOU",
     "arrondissement": "12ème",
     "quartier": "PATTE D'OIE",
-    "latitude": "6,35438",
-    "longitude": "2,40742"
+    "latitude": "6.35438",
+    "longitude": "2.40742"
   },
   {
     "n": "9",
@@ -122,8 +122,8 @@
     "commune": "COTONOU",
     "arrondissement": "11ème",
     "quartier": "GBEGAME",
-    "latitude": "6,36339",
-    "longitude": "2,40843"
+    "latitude": "6.36339",
+    "longitude": "2.40843"
   },
   {
     "n": "10",
@@ -136,8 +136,8 @@
     "commune": "COTONOU",
     "arrondissement": "11ème",
     "quartier": "GBEGAME",
-    "latitude": "6,36261",
-    "longitude": "2,41383"
+    "latitude": "6.36261",
+    "longitude": "2.41383"
   },
   {
     "n": "11",
@@ -150,8 +150,8 @@
     "commune": "COTONOU",
     "arrondissement": "11ème",
     "quartier": "GBEGAME",
-    "latitude": "6,36442",
-    "longitude": "2,41087"
+    "latitude": "6.36442",
+    "longitude": "2.41087"
   },
   {
     "n": "12",
@@ -164,8 +164,8 @@
     "commune": "COTONOU",
     "arrondissement": "12ème",
     "quartier": "CADJEHOUN AUPIAIS",
-    "latitude": "6,3609",
-    "longitude": "2,40776"
+    "latitude": "6.3609",
+    "longitude": "2.40776"
   },
   {
     "n": "13",
@@ -178,8 +178,8 @@
     "commune": "COTONOU",
     "arrondissement": "13ème",
     "quartier": "AGLA",
-    "latitude": "6,3809",
-    "longitude": "2,37248"
+    "latitude": "6.3809",
+    "longitude": "2.37248"
   },
   {
     "n": "14",
@@ -192,8 +192,8 @@
     "commune": "COTONOU",
     "arrondissement": "12ème",
     "quartier": "FIDJROSSE HOUENOUSSOU",
-    "latitude": "6,35689",
-    "longitude": "2,36513"
+    "latitude": "6.35689",
+    "longitude": "2.36513"
   },
   {
     "n": "15",
@@ -206,8 +206,8 @@
     "commune": "COTONOU",
     "arrondissement": "12ème",
     "quartier": "FIDJROSSE CALVAIRE",
-    "latitude": "6,35774",
-    "longitude": "2,37028"
+    "latitude": "6.35774",
+    "longitude": "2.37028"
   },
   {
     "n": "16",
@@ -220,8 +220,8 @@
     "commune": "COTONOU",
     "arrondissement": "13ème",
     "quartier": "AGLA HLAZOUNTO",
-    "latitude": "6,36936",
-    "longitude": "2,36072"
+    "latitude": "6.36936",
+    "longitude": "2.36072"
   },
   {
     "n": "17",
@@ -234,8 +234,8 @@
     "commune": "COTONOU",
     "arrondissement": "12ème",
     "quartier": "AGLA HLAZOUNTO",
-    "latitude": "6,37189",
-    "longitude": "2,35682"
+    "latitude": "6.37189",
+    "longitude": "2.35682"
   },
   {
     "n": "18",
@@ -248,8 +248,8 @@
     "commune": "COTONOU",
     "arrondissement": "13ème",
     "quartier": "AGLA-AKPLOMEY",
-    "latitude": "6,37822",
-    "longitude": "2,35355"
+    "latitude": "6.37822",
+    "longitude": "2.35355"
   },
   {
     "n": "19",
@@ -262,8 +262,8 @@
     "commune": "COTONOU",
     "arrondissement": "13ème",
     "quartier": "AGLA",
-    "latitude": "6,37561",
-    "longitude": "2,35738"
+    "latitude": "6.37561",
+    "longitude": "2.35738"
   },
   {
     "n": "20",
@@ -276,8 +276,8 @@
     "commune": "COTONOU",
     "arrondissement": "13ème",
     "quartier": "AGLA",
-    "latitude": "6,3801",
-    "longitude": "2,36393"
+    "latitude": "6.3801",
+    "longitude": "2.36393"
   },
   {
     "n": "21",
@@ -290,8 +290,8 @@
     "commune": "COTONOU",
     "arrondissement": "13ème",
     "quartier": "AGLA",
-    "latitude": "6,38508",
-    "longitude": "2,37414"
+    "latitude": "6.38508",
+    "longitude": "2.37414"
   },
   {
     "n": "22",
@@ -304,8 +304,8 @@
     "commune": "COTONOU",
     "arrondissement": "10ème",
     "quartier": "KINDONOU",
-    "latitude": "6,39259",
-    "longitude": "2,36068"
+    "latitude": "6.39259",
+    "longitude": "2.36068"
   },
   {
     "n": "23",
@@ -318,8 +318,8 @@
     "commune": "COTONOU",
     "arrondissement": "10ème",
     "quartier": "KINDONOU",
-    "latitude": "6,39209",
-    "longitude": "2,36487"
+    "latitude": "6.39209",
+    "longitude": "2.36487"
   },
   {
     "n": "24",
@@ -332,8 +332,8 @@
     "commune": "COTONOU",
     "arrondissement": "9ème",
     "quartier": "MENONTIN LOT 2322-A",
-    "latitude": "6,38752",
-    "longitude": "2,3687"
+    "latitude": "6.38752",
+    "longitude": "2.3687"
   },
   {
     "n": "25",
@@ -346,8 +346,8 @@
     "commune": "COTONOU",
     "arrondissement": "10ème",
     "quartier": "MENONTIN LOT 2067BIS PARCELLE P",
-    "latitude": "6,38816",
-    "longitude": "2,37466"
+    "latitude": "6.38816",
+    "longitude": "2.37466"
   },
   {
     "n": "26",
@@ -360,8 +360,8 @@
     "commune": "COTONOU",
     "arrondissement": "10ème",
     "quartier": "CASSE-AUTO KOUHOUNNOU",
-    "latitude": "6,38132",
-    "longitude": "2,37947"
+    "latitude": "6.38132",
+    "longitude": "2.37947"
   },
   {
     "n": "27",
@@ -374,8 +374,8 @@
     "commune": "COTONOU",
     "arrondissement": "9ème",
     "quartier": "ZOGBO LOT 1998",
-    "latitude": "6,38683",
-    "longitude": "2,38454"
+    "latitude": "6.38683",
+    "longitude": "2.38454"
   },
   {
     "n": "28",
@@ -388,8 +388,8 @@
     "commune": "COTONOU",
     "arrondissement": "9ème",
     "quartier": "ZOGBOHOUE",
-    "latitude": "6,39211",
-    "longitude": "2,3828"
+    "latitude": "6.39211",
+    "longitude": "2.3828"
   },
   {
     "n": "29",
@@ -402,8 +402,8 @@
     "commune": "COTONOU",
     "arrondissement": "9ème",
     "quartier": "FIFADJI",
-    "latitude": "6,39084",
-    "longitude": "2,39774"
+    "latitude": "6.39084",
+    "longitude": "2.39774"
   },
   {
     "n": "30",
@@ -416,8 +416,8 @@
     "commune": "COTONOU",
     "arrondissement": "10ème",
     "quartier": "ZOGBO",
-    "latitude": "6,39066",
-    "longitude": "2,39338"
+    "latitude": "6.39066",
+    "longitude": "2.39338"
   },
   {
     "n": "31",
@@ -430,8 +430,8 @@
     "commune": "COTONOU",
     "arrondissement": "10ème",
     "quartier": "VEDOKO",
-    "latitude": "6,38198",
-    "longitude": "2,39126"
+    "latitude": "6.38198",
+    "longitude": "2.39126"
   },
   {
     "n": "32",
@@ -444,8 +444,8 @@
     "commune": "COTONOU",
     "arrondissement": "10ème",
     "quartier": "ZOGBO",
-    "latitude": "6,3032",
-    "longitude": "2,38794"
+    "latitude": "6.3032",
+    "longitude": "2.38794"
   },
   {
     "n": "33",
@@ -458,8 +458,8 @@
     "commune": "COTONOU",
     "arrondissement": "9ème",
     "quartier": "VEDOKO",
-    "latitude": "6,37824",
-    "longitude": "2,3902"
+    "latitude": "6.37824",
+    "longitude": "2.3902"
   },
   {
     "n": "34",
@@ -472,8 +472,8 @@
     "commune": "COTONOU",
     "arrondissement": "12ème",
     "quartier": "COCOTIERS",
-    "latitude": "6,35366",
-    "longitude": "2,3989"
+    "latitude": "6.35366",
+    "longitude": "2.3989"
   },
   {
     "n": "35",
@@ -486,8 +486,8 @@
     "commune": "COTONOU",
     "arrondissement": "",
     "quartier": "SIKECODJI",
-    "latitude": "6,37061",
-    "longitude": "2,41655"
+    "latitude": "6.37061",
+    "longitude": "2.41655"
   },
   {
     "n": "36",
@@ -500,8 +500,8 @@
     "commune": "COTONOU",
     "arrondissement": "8ème",
     "quartier": "WOLOGUEDE STE RITA",
-    "latitude": "6,3777",
-    "longitude": "2,41135"
+    "latitude": "6.3777",
+    "longitude": "2.41135"
   },
   {
     "n": "37",
@@ -514,8 +514,8 @@
     "commune": "COTONOU",
     "arrondissement": "",
     "quartier": "ENANGNON",
-    "latitude": "6,41284",
-    "longitude": "2,37368"
+    "latitude": "6.41284",
+    "longitude": "2.37368"
   },
   {
     "n": "38",
@@ -528,8 +528,8 @@
     "commune": "COTONOU",
     "arrondissement": "8ème",
     "quartier": "DAGBEDJI",
-    "latitude": "6,36975",
-    "longitude": "2,41213"
+    "latitude": "6.36975",
+    "longitude": "2.41213"
   },
   {
     "n": "39",
@@ -542,8 +542,8 @@
     "commune": "COTONOU",
     "arrondissement": "7ème",
     "quartier": "SEDAMI",
-    "latitude": "6,36715",
-    "longitude": "2,42019"
+    "latitude": "6.36715",
+    "longitude": "2.42019"
   },
   {
     "n": "40",
@@ -556,8 +556,8 @@
     "commune": "COTONOU",
     "arrondissement": "11ème",
     "quartier": "SIKECODJI",
-    "latitude": "6,36912",
-    "longitude": "2,41545"
+    "latitude": "6.36912",
+    "longitude": "2.41545"
   },
   {
     "n": "41",
@@ -570,8 +570,8 @@
     "commune": "COTONOU",
     "arrondissement": "11ème",
     "quartier": "ST JEAN",
-    "latitude": "6,36589",
-    "longitude": "2,41654"
+    "latitude": "6.36589",
+    "longitude": "2.41654"
   },
   {
     "n": "42",
@@ -584,7 +584,7 @@
     "commune": "COTONOU",
     "arrondissement": "12ème",
     "quartier": "FIDJROSSE-HLAZOUNTO",
-    "latitude": "6,37461",
-    "longitude": "2,3504"
+    "latitude": "6.37461",
+    "longitude": "2.3504"
   }
 ]
