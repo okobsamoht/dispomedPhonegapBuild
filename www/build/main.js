@@ -1082,12 +1082,12 @@ var ApiProvider = /** @class */ (function () {
         // Update the count down every 1 second
         var x = setInterval(function () {
             // Get todays date and time
-            var now = new Date().getTime();
+            //let now = new Date().getTime();
             // Find the distance between now and the count down date
             var distance = countDownDate - Date.now();
             // Time calculations for days, hours, minutes and seconds
-            var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-            var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            //let days = Math.floor(distance / (1000 * 60 * 60 * 24));
+            //let hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
             var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
             var seconds = Math.floor((distance % (1000 * 60)) / 1000);
             //console.log(now, "now", "countDownDate", countDownDate, "distance", distance, "days", days);
@@ -1116,12 +1116,12 @@ var ApiProvider = /** @class */ (function () {
         }, 1000);
         var y = setInterval(function () {
             // Get todays date and time
-            var now = new Date().getTime();
+            //let now = new Date().getTime();
             // Find the distance between now and the count down date
             var distance = countDownHour - Date.now();
             // Time calculations for days, hours, minutes and seconds
-            var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-            var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            //let days = Math.floor(distance / (1000 * 60 * 60 * 24));
+            //let hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
             var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
             var seconds = Math.floor((distance % (1000 * 60)) / 1000);
             //console.log(now, "now", "countDownDate", countDownDate, "distance", distance, "days", days);
@@ -1152,7 +1152,7 @@ var ApiProvider = /** @class */ (function () {
         }, 1000);
     };
     ApiProvider.prototype.requestRestarter = function () {
-        var req = JSON.parse(localStorage.getItem('dispomed_cureq'));
+        //let req = JSON.parse(localStorage.getItem('dispomed_cureq'));
         this.requestTimer();
     };
     ApiProvider.prototype.presentToast = function (msg) {
@@ -1331,6 +1331,7 @@ var ApiProvider = /** @class */ (function () {
         var count = 0;
         for (var c in o) {
             count = count + 1;
+            c.length;
         }
         return count;
     };
@@ -1437,12 +1438,12 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 var environment = {
     production: false,
     firebase: {
-        apiKey: "AIzaSyDQDekHlQmgGdtZk-bfoM4-n69DefwYmcw",
-        authDomain: "rare-truck-546.firebaseapp.com",
-        databaseURL: "https://rare-truck-546.firebaseio.com",
-        projectId: "rare-truck-546",
-        storageBucket: "rare-truck-546.appspot.com",
-        messagingSenderId: "478851719352"
+        apiKey: "AIzaSyAdObHow109uB-4aPdz3qxklOTE6bjcBGs",
+        authDomain: "dispomed-da61b.firebaseapp.com",
+        databaseURL: "https://dispomed-da61b.firebaseio.com",
+        projectId: "dispomed-da61b",
+        storageBucket: "dispomed-da61b.appspot.com",
+        messagingSenderId: "521388710211"
     }
 };
 var AppModule = /** @class */ (function () {
