@@ -2,7 +2,7 @@
 <widget id="com.dispomed.itnum" version="0.0.4" xmlns="http://www.w3.org/ns/widgets">
     <name>DispoMed</name>
     <description>An app to request for drugs availability in pharmacies nearby.</description>
-    <author email="info@it-num.com" href="http://ionicframework.com/">IT-NUM Dev Team</author>
+    <author email="info@it-num.com" href="http://it-num.com/">IT-NUM Dev Team</author>
     <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
@@ -19,7 +19,7 @@
     <preference name="FadeSplashScreenDuration" value="300" />
     <preference name="SplashShowOnlyFirstTime" value="false" />
     <preference name="SplashScreen" value="screen" />
-    <preference name="SplashScreenDelay" value="3000" />
+    <preference name="SplashScreenDelay" value="7000" />
     <preference name="AutoHideSplashScreen" value="false" />
     <platform name="android">
         <allow-intent href="market:*" />
