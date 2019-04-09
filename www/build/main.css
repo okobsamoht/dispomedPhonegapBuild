@@ -28882,6 +28882,10 @@ ion-navbar.toolbar {
   }
 }
 
+page-home ion-label {
+  white-space: unset !important;
+}
+
 page-ordonance img {
   margin-top: 64px;
 }
