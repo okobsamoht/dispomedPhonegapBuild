@@ -1,9 +1,9 @@
 [
   {
     "departement": "ALIBORI",
-    "commune": "BANIKOARA",
-    "denomination": "Pharmacie Centrale de BANIKOARA",
-    "address": "BANIKOARA",
+    "commune": "Banikoara",
+    "denomination": "Pharmacie Centrale de Banikoara",
+    "address": "Banikoara",
     "responsable": "AFIDJI Kifayatou",
     "contacts": 94013984,
     "tel": 95811460,
@@ -12,9 +12,9 @@
   },
   {
     "departement": "ALIBORI",
-    "commune": "KANDI",
+    "commune": "Kandi",
     "denomination": "Pharmacie Na Siara",
-    "address": "KANDI BP.:27",
+    "address": "Kandi BP.:27",
     "responsable": "Raïmi Y. TOGBE",
     "contacts": 23630046,
     "tel": "",
@@ -23,9 +23,9 @@
   },
   {
     "departement": "ALIBORI",
-    "commune": "KANDI",
+    "commune": "Kandi",
     "denomination": "Pharmacie Albarika (décès)",
-    "address": "KANDI BP.:41",
+    "address": "Kandi BP.:41",
     "responsable": "Feu Madina YARO",
     "contacts": 97122441,
     "tel": 23630045,
@@ -34,7 +34,7 @@
   },
   {
     "departement": "ALIBORI",
-    "commune": "MALANVILLE",
+    "commune": "Malanville",
     "denomination": "Pharmacie DARA FARI",
     "address": "Malanville centre BP 101",
     "responsable": "Tidjani LEHMAN",
@@ -45,7 +45,7 @@
   },
   {
     "departement": "ALIBORI",
-    "commune": "MALANVILLE",
+    "commune": "Malanville",
     "denomination": "Pharmacie DU SAHEL",
     "address": "Malanville centre BP 92",
     "responsable": "Feu Clement A. LISSANON",
@@ -89,7 +89,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie Du Lac",
     "address": "CALAVI KPOTA B.P. : 87",
     "responsable": "Rita DADELE née ELISHA",
@@ -100,7 +100,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie Du Château d’eau",
     "address": "CALAVI KPOTA B.P. : 192",
     "responsable": "ANIFOWOSHE BELLO Adébissi Sulifath",
@@ -111,7 +111,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie L’Angélus",
     "address": "",
     "responsable": "Marcelin C.TAKIN",
@@ -122,7 +122,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie De l'immaculée conception",
     "address": "DJADJO BETON ARME",
     "responsable": "Pedro E, T, SEKLOKA",
@@ -133,7 +133,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie Cité Arconville",
     "address": "CITE ARCONVILLE B.P. : 1309",
     "responsable": "Wilfrid Didier D. AGBATCHOSSOU",
@@ -144,7 +144,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie Les Grace Divine de Houèdo",
     "address": "HOUEDO",
     "responsable": "MAVOHA Achille",
@@ -155,7 +155,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie SOS SANTE",
     "address": "AGORI SOS 01BP7755",
     "responsable": "KOROGONE Edwige Tècle B.S.",
@@ -166,7 +166,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie Du Campus UAC",
     "address": "UAC 08 BP:268",
     "responsable": "Marlène T. S. M. KOUDANDE",
@@ -177,7 +177,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie Principale de HOUETO",
     "address": "HOUETO BP 420 Cotonou",
     "responsable": "Estelle E, SEWADE",
@@ -188,7 +188,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie DE L’Emmanuel",
     "address": "AGORI 1 02 - B.P : 1410",
     "responsable": "Régina E. Irma GNACADJA épouse BADET",
@@ -199,7 +199,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie Saint Gérard",
     "address": "ZOUNDJA",
     "responsable": "Lidwine N, HOUNKPATIN",
@@ -210,7 +210,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie Zoca",
     "address": "ZOKA",
     "responsable": "Gounou Khamel LAFIA",
@@ -221,7 +221,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie Tokan",
     "address": "TOKAN",
     "responsable": "Anihuvi Nadège BEBADA",
@@ -232,7 +232,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie Zopah Oluwatobi",
     "address": "ZOPAH",
     "responsable": "OUINSOU HOUENOU Elsie",
@@ -243,7 +243,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie Akassato",
     "address": "AKASSATO 03 - B.P : 1496",
     "responsable": "Hélène GBEMENOU",
@@ -254,7 +254,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie Saint Georges",
     "address": "ADJAGBO",
     "responsable": "Eunice S, D, GOUTON",
@@ -265,7 +265,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "PHARMACIE FIFAME",
     "address": "GBETAGO",
     "responsable": "KOISSI Joel,",
@@ -276,7 +276,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie Sainte Marie Elise",
     "address": "GLO-DJIGBE CENTRE",
     "responsable": "Kadi Jacques Francis Régis CHABI CHALLA",
@@ -287,7 +287,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie Togoudo",
     "address": "TOGOUDO 03 - B.P. : 1726",
     "responsable": "Zacharie BIO YERIMA",
@@ -298,7 +298,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie Ste Adèle de l’Echangeur",
     "address": "GODOMEY",
     "responsable": "Henri Charles AÏNADOU",
@@ -309,7 +309,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie Houénoussou",
     "address": "GODOMEY GARE",
     "responsable": "Valère  Comlan C. AMEGANKPOE",
@@ -320,7 +320,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie Le Jourdain Togoudo",
     "address": "TOGOUDO B.P. : 1164",
     "responsable": "Esaïe Moudewhenou MARSHALL",
@@ -331,7 +331,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie Hèdomey",
     "address": "HEDOMEY B.P. :",
     "responsable": "Dèlomè Tchédé VODOUHE",
@@ -342,7 +342,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie IITA",
     "address": "TOGOUDO",
     "responsable": "EDAH Alain M. V.",
@@ -353,7 +353,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie Déo Gratias",
     "address": "COCOTOMEY 08-B.P. : 1091",
     "responsable": "Marthe Aniname SALLAN",
@@ -364,7 +364,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie Godomey PK 14",
     "address": "GODOMEY PK 14 03- B.P. : 1025",
     "responsable": "Claude Mireille CODJIA",
@@ -375,7 +375,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie Godomey Fignonhou",
     "address": "FIGNONHOU 01- B.P. : 04239",
     "responsable": "Céline Raymonde Dossi ZOUNON",
@@ -386,7 +386,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie Saint BENOIT de womey",
     "address": "WOMEY",
     "responsable": "SONDJO Gethaime",
@@ -397,7 +397,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie Eyitayo de Womey",
     "address": "WOMEY 05-B.P. : 1903",
     "responsable": "Esperance Clémence. E.KATOSSI",
@@ -408,7 +408,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie Maria-Gléta",
     "address": "MARIA-GLETA",
     "responsable": "Noubiowa Conrad B. KOUSSIHOUEDE",
@@ -419,7 +419,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie La Concorde",
     "address": "COCOTOMEY BP :28",
     "responsable": "Corine DEGLA épse AOUTCHEME",
@@ -430,7 +430,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie Le Président",
     "address": "COCOTOMEY 081-B.P. :7021",
     "responsable": "Bonaventure PADONOU",
@@ -441,7 +441,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie Le Sycomore",
     "address": "COCOCODJI 03 - B. P. : 674",
     "responsable": "Feu Théotime BRAHI",
@@ -452,7 +452,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie St Abel Pharmabel de Tankpè",
     "address": "TANKPE CARREFOUR BP1709",
     "responsable": "Camille Rock DOMONHEDO",
@@ -463,7 +463,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie Le Schilo (Tankpè-Parana)",
     "address": "ZOGBADJE 03-B.P. : 3284",
     "responsable": "Eunice Labissi KOMI Epse JOHNSON",
@@ -474,7 +474,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie Espace Santé",
     "address": "DEKOUGBE 02 - B.P. : 801",
     "responsable": "Marina Vidova épse ANANI",
@@ -485,7 +485,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie Dèkoungbé",
     "address": "DEKOUGBE INTERIEUR",
     "responsable": "Firmine KINHA",
@@ -496,7 +496,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie Godomey Centre",
     "address": "GODOMEY SAVI 01 - B.P: 1960",
     "responsable": "HESSOU Coffi Pascal",
@@ -507,7 +507,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie Saint Paul",
     "address": "Godomey Nouvènamèdé",
     "responsable": "Aristide S, AKOVOWANOU",
@@ -518,7 +518,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie Godomey",
     "address": "Godomey 03BP2673",
     "responsable": "CAPO CHICHI Philippe",
@@ -529,7 +529,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie Magnificat",
     "address": "GBODJE",
     "responsable": "LOKO Armelle Mylène",
@@ -540,7 +540,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ABOMEY-CALAVI",
+    "commune": "Abomey-Calavi",
     "denomination": "Pharmacie Hêvié Sarl",
     "address": "HEVIE               04 -BP.: 494",
     "responsable": "DOHOU Angèle Modupè Epse YEMOA",
@@ -573,7 +573,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ALLADA",
+    "commune": "Allada",
     "denomination": "Pharmacie Adanhounsa",
     "address": "ADANHOUNSA B P. : 123",
     "responsable": "Narcisse GBEDJI décès",
@@ -584,9 +584,9 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ALLADA",
+    "commune": "Allada",
     "denomination": "Pharmacie TOUSSAINT LOUVERTURE",
-    "address": "ALLADA",
+    "address": "Allada",
     "responsable": "GOUMISSI Inès Evita",
     "contacts": 94626295,
     "tel": "",
@@ -595,7 +595,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "ALLADA",
+    "commune": "Allada",
     "denomination": "Pharmacie Les Capucines",
     "address": "SEKOU",
     "responsable": "GNINTOUNGBE Linette",
@@ -606,7 +606,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "TOFFO",
+    "commune": "Toffo",
     "denomination": "Pharmacie Saint Enfant Jésus",
     "address": "HOUEGBO B.P: 84",
     "responsable": "Virginie AGBEGBANOU.",
@@ -617,7 +617,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "TOFFO",
+    "commune": "Toffo",
     "denomination": "Pharmacie Sèhouè",
     "address": "SEHOUE 07 - B.P. : 619",
     "responsable": "Marius HOUEZE",
@@ -628,7 +628,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "OUIDAH",
+    "commune": "Ouidah",
     "denomination": "Pharmacie PAHOU",
     "address": "PAHOU03 - B. P. :301",
     "responsable": "Audrey Nina DJENONTIN",
@@ -639,7 +639,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "OUIDAH",
+    "commune": "Ouidah",
     "denomination": "Pharmacie Prunelle de l'Eternel de PAHOU",
     "address": "152 Sè",
     "responsable": "LAWAL Abdelaziz",
@@ -650,7 +650,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "OUIDAH",
+    "commune": "Ouidah",
     "denomination": "Pharmacie Dagbédé de Vassého",
     "address": "Ouidah",
     "responsable": "ADEOSSI Ronick Landry",
@@ -661,7 +661,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "OUIDAH",
+    "commune": "Ouidah",
     "denomination": "Pharmacie La Grâce",
     "address": "KPASSETON   B.P. : 28",
     "responsable": "Etienne D. OUSSOU",
@@ -672,7 +672,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "OUIDAH",
+    "commune": "Ouidah",
     "denomination": "Pharmacie Mitonwè",
     "address": "MITONWE B.P. : 273",
     "responsable": "Gisèle Sicca ELISHA ADJANOHOUN",
@@ -683,7 +683,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "OUIDAH",
+    "commune": "Ouidah",
     "denomination": "Pharmacie Gbèna",
     "address": "GBENAN        B.P. : 141",
     "responsable": "Christian ATTIGNON",
@@ -694,7 +694,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "OUIDAH",
+    "commune": "Ouidah",
     "denomination": "Pharmacie La Providence",
     "address": "KPASSE",
     "responsable": "Angelot Paul Z. AHOUANSE",
@@ -705,7 +705,7 @@
   },
   {
     "departement": "ATLANTIQUE",
-    "commune": "TORI-BOSSITO",
+    "commune": "Tori-Bossito",
     "denomination": "Pharmacie Sainte Bernadette",
     "address": "TORI-GARE (AHOKO)",
     "responsable": "HOUNGNIMY H. Ghislaine Angèle",
@@ -727,7 +727,7 @@
   },
   {
     "departement": "BORGOU",
-    "commune": "NIKKI",
+    "commune": "Nikki",
     "denomination": "Pharmacie Don de Dieu",
     "address": "Nikki BP. :21",
     "responsable": "Abdoulaye A. W. BACHABI",
@@ -738,7 +738,7 @@
   },
   {
     "departement": "BORGOU",
-    "commune": "PARAKOU",
+    "commune": "Parakou",
     "denomination": "Pharmacie Santé Vitale",
     "address": "",
     "responsable": "Gil TOSSOU",
@@ -749,7 +749,7 @@
   },
   {
     "departement": "BORGOU",
-    "commune": "PARAKOU",
+    "commune": "Parakou",
     "denomination": "Pharmacie La Gare",
     "address": "Quartier GARE B.P. : 824",
     "responsable": "Janvier Guy ZINZINDOHOUE",
@@ -760,7 +760,7 @@
   },
   {
     "departement": "BORGOU",
-    "commune": "PARAKOU",
+    "commune": "Parakou",
     "denomination": "Pharmacie La Grâce",
     "address": "02 B.P. : 62",
     "responsable": "Roger ADJITORE",
@@ -771,7 +771,7 @@
   },
   {
     "departement": "BORGOU",
-    "commune": "PARAKOU",
+    "commune": "Parakou",
     "denomination": "Pharmacie Carrefour Hubert K.MAGA",
     "address": "B.P. : 26",
     "responsable": "Martine Mahougnon KOGNONSA",
@@ -782,7 +782,7 @@
   },
   {
     "departement": "BORGOU",
-    "commune": "PARAKOU",
+    "commune": "Parakou",
     "denomination": "Pharmacie Du Lycée",
     "address": "B.P. : 546",
     "responsable": "Maurice Codjo E. ASSOGBA",
@@ -793,7 +793,7 @@
   },
   {
     "departement": "BORGOU",
-    "commune": "PARAKOU",
+    "commune": "Parakou",
     "denomination": "Pharmacie Confiance",
     "address": "GANOU",
     "responsable": "AKOBI Sadia",
@@ -804,7 +804,7 @@
   },
   {
     "departement": "BORGOU",
-    "commune": "PARAKOU",
+    "commune": "Parakou",
     "denomination": "Pharmacie Nouvelle Albarika",
     "address": "B.P. : 80",
     "responsable": "GOUDOTE Alain",
@@ -815,7 +815,7 @@
   },
   {
     "departement": "BORGOU",
-    "commune": "PARAKOU",
+    "commune": "Parakou",
     "denomination": "Pharmacie Banikanni",
     "address": "BANIKANNI B.P. : 805",
     "responsable": "Pierre NAGOBA",
@@ -826,7 +826,7 @@
   },
   {
     "departement": "BORGOU",
-    "commune": "PARAKOU",
+    "commune": "Parakou",
     "denomination": "Pharmacie Du Campus",
     "address": "B.P. : 1014",
     "responsable": "Fortuné Allyou SABI MEKIRE",
@@ -837,7 +837,7 @@
   },
   {
     "departement": "BORGOU",
-    "commune": "PARAKOU",
+    "commune": "Parakou",
     "denomination": "",
     "address": "",
     "responsable": "Farid BOURAIMA",
@@ -848,7 +848,7 @@
   },
   {
     "departement": "BORGOU",
-    "commune": "PARAKOU",
+    "commune": "Parakou",
     "denomination": "Pharmacie Tranza     (Transfert)",
     "address": "B.P. : 684",
     "responsable": "Benoît N. DAKOU",
@@ -859,7 +859,7 @@
   },
   {
     "departement": "BORGOU",
-    "commune": "PARAKOU",
+    "commune": "Parakou",
     "denomination": "Pharmacie Zongo II",
     "address": "ZONGO        B.P. : 827",
     "responsable": "Imorou KOUTOUMA ADA",
@@ -870,7 +870,7 @@
   },
   {
     "departement": "BORGOU",
-    "commune": "PARAKOU",
+    "commune": "Parakou",
     "denomination": "Pharmacie Vita - Plus",
     "address": "02 B.P. : 61",
     "responsable": "Wêi feng FANG épse ADJITORE",
@@ -881,7 +881,7 @@
   },
   {
     "departement": "BORGOU",
-    "commune": "PARAKOU",
+    "commune": "Parakou",
     "denomination": "Pharmacie Camp Séro Kpéra",
     "address": "B.P. : 284",
     "responsable": "Abdel Wahid BABIO",
@@ -892,7 +892,7 @@
   },
   {
     "departement": "BORGOU",
-    "commune": "PARAKOU",
+    "commune": "Parakou",
     "denomination": "Pharmacie Des trois banques",
     "address": "",
     "responsable": "ATINDOGBE Raoul",
@@ -903,7 +903,7 @@
   },
   {
     "departement": "BORGOU",
-    "commune": "PARAKOU",
+    "commune": "Parakou",
     "denomination": "Pharmacie Guéma",
     "address": "GUEMA",
     "responsable": "Tchinou Diane ALOUKOUTOU",
@@ -914,9 +914,9 @@
   },
   {
     "departement": "BORGOU",
-    "commune": "N’DALI",
-    "denomination": "Pharmacie N’DALI",
-    "address": "N’DALI",
+    "commune": "N’Dali",
+    "denomination": "Pharmacie N’Dali",
+    "address": "N’Dali",
     "responsable": "AMIDOU Moustapha",
     "contacts": 97015254,
     "tel": 97015254,
@@ -925,9 +925,9 @@
   },
   {
     "departement": "COLLINES",
-    "commune": "BANTE",
+    "commune": "Bantè",
     "denomination": "Pharmacie LES COLLINES",
-    "address": "ILELAKOUN/BANTE",
+    "address": "ILELAKOUN/Bantè",
     "responsable": "Rodrigue Abiola AGBODJOGBE",
     "contacts": 97894836,
     "tel": 95639911,
@@ -936,7 +936,7 @@
   },
   {
     "departement": "COLLINES",
-    "commune": "SAVALOU",
+    "commune": "Savalou",
     "denomination": "Pharmacie AGBADO",
     "address": "AGBADO BP : 97",
     "responsable": "Michel Arnaud AKPAMOLI",
@@ -947,9 +947,9 @@
   },
   {
     "departement": "COLLINES",
-    "commune": "SAVALOU",
+    "commune": "Savalou",
     "denomination": "Pharmacie LAFIA Sarl",
-    "address": "SAVALOU B.P. : 351",
+    "address": "Savalou B.P. : 351",
     "responsable": "Tayo Hervé AYEKO",
     "contacts": 22048450,
     "tel": 61937749,
@@ -958,9 +958,9 @@
   },
   {
     "departement": "COLLINES",
-    "commune": "GLAZOUE",
+    "commune": "Glazoué",
     "denomination": "Pharmacie Principale Glazoué",
-    "address": "GLAZOUE",
+    "address": "Glazoué",
     "responsable": "DANKORO Yacine Séro",
     "contacts": 96690869,
     "tel": 94005555,
@@ -969,9 +969,9 @@
   },
   {
     "departement": "COLLINES",
-    "commune": "GLAZOUE",
+    "commune": "Glazoué",
     "denomination": "Pharmacie DE LA SAVANE",
-    "address": "GLAZOUE BP :4",
+    "address": "Glazoué BP :4",
     "responsable": "Kinti Yassénon ADANDE",
     "contacts": 22540082,
     "tel": 22540082,
@@ -980,7 +980,7 @@
   },
   {
     "departement": "COLLINES",
-    "commune": "DASSA ZOUME",
+    "commune": "Dassa-Zoumè",
     "denomination": "Pharmacie DASSA CARREFOUR",
     "address": "DASSA M/ BOKO Hilaire",
     "responsable": "AGONNOUDE Wilfried",
@@ -991,7 +991,7 @@
   },
   {
     "departement": "COLLINES",
-    "commune": "DASSA ZOUME",
+    "commune": "Dassa-Zoumè",
     "denomination": "Pharmacie LES COLLINES",
     "address": "DASSA BP 67",
     "responsable": "Salimi ALIOU",
@@ -1002,7 +1002,7 @@
   },
   {
     "departement": "COLLINES",
-    "commune": "DASSA ZOUME",
+    "commune": "Dassa-Zoumè",
     "denomination": "Pharmacie Priorité Santé",
     "address": "DOMEY  Dassa-Zoumè",
     "responsable": "Célestin C. AKOLE",
@@ -1013,7 +1013,7 @@
   },
   {
     "departement": "COLLINES",
-    "commune": "SAVE",
+    "commune": "Savè",
     "denomination": "Pharmacie De La Source",
     "address": "B.P. :85",
     "responsable": "Alain FADONOUGBO",
@@ -1024,7 +1024,7 @@
   },
   {
     "departement": "COLLINES",
-    "commune": "SAVE",
+    "commune": "Savè",
     "denomination": "Pharmacie Ouesse centre",
     "address": "ouesse centre",
     "responsable": "Boris SEGLA",
@@ -1035,7 +1035,7 @@
   },
   {
     "departement": "COLLINES",
-    "commune": "SAVE",
+    "commune": "Savè",
     "denomination": "Pharmacie oluwatobi de kilibo",
     "address": "kilibo",
     "responsable": "Guillume DOFLIN",
@@ -1046,7 +1046,7 @@
   },
   {
     "departement": "COLLINES",
-    "commune": "SAVE",
+    "commune": "Savè",
     "denomination": "Pharmacie Ireti",
     "address": "KINGOU",
     "responsable": "Houmènou Jules Romuald AKPAKA",
@@ -1057,7 +1057,7 @@
   },
   {
     "departement": "COUFFO",
-    "commune": "DJAKOTOMEY",
+    "commune": "Djakotomey",
     "denomination": "Pharmacie Sainte Victorine",
     "address": "Djakotomey",
     "responsable": "MADEGNAN Juste",
@@ -1068,9 +1068,9 @@
   },
   {
     "departement": "COUFFO",
-    "commune": "DOGBO",
-    "denomination": "Pharmacie Gloria Déi de DOGBO Sarl",
-    "address": "DOGBO",
+    "commune": "Dogbo",
+    "denomination": "Pharmacie Gloria Déi de Dogbo Sarl",
+    "address": "Dogbo",
     "responsable": "Dognon Yves Constantin BOKO-VOU",
     "contacts": 22463130,
     "tel": 97195927,
@@ -1079,7 +1079,7 @@
   },
   {
     "departement": "COUFFO",
-    "commune": "APLAHOUE",
+    "commune": "Aplahoué",
     "denomination": "Pharmacie Saint Marcel (Azovè)",
     "address": "AZOVE",
     "responsable": "Bienvenu GBEDJINOU",
@@ -1090,7 +1090,7 @@
   },
   {
     "departement": "COUFFO",
-    "commune": "APLAHOUE",
+    "commune": "Aplahoué",
     "denomination": "Pharmacie Grace Divine (Azovè décès)",
     "address": "AZOVE",
     "responsable": "Feu Hanifath Abèni A. OBAHORIN",
@@ -1101,9 +1101,9 @@
   },
   {
     "departement": "COUFFO",
-    "commune": "KLOUEKANME",
+    "commune": "Klouekanmè",
     "denomination": "Pharmacie SAINTE CARINE",
-    "address": "KLOUEKANME",
+    "address": "Klouekanmè",
     "responsable": "Bienvenu Dékpali SEKPE",
     "contacts": 97295856,
     "tel": 95853668,
@@ -1112,9 +1112,9 @@
   },
   {
     "departement": "DONGA",
-    "commune": "BASSILA",
+    "commune": "Bassila",
     "denomination": "Pharmacie Safari",
-    "address": "BASSILA",
+    "address": "Bassila",
     "responsable": "Adamou KPERA",
     "contacts": 97891997,
     "tel": 94366025,
@@ -1123,9 +1123,9 @@
   },
   {
     "departement": "DONGA",
-    "commune": "DJOUGOU",
+    "commune": "Djougou",
     "denomination": "Pharmacie Madina",
-    "address": "DJOUGOU       B.P. : 108",
+    "address": "Djougou       B.P. : 108",
     "responsable": "Marcel – Antonin DEDEGBE",
     "contacts": 23801541,
     "tel": 23801541,
@@ -1134,9 +1134,9 @@
   },
   {
     "departement": "DONGA",
-    "commune": "DJOUGOU",
+    "commune": "Djougou",
     "denomination": "Pharmacie TAIFA",
-    "address": "DJOUGOU",
+    "address": "Djougou",
     "responsable": "DANKORO Samia",
     "contacts": 61183333,
     "tel": 63638181,
@@ -2223,9 +2223,9 @@
   },
   {
     "departement": "MONO",
-    "commune": "COME",
+    "commune": "Comè",
     "denomination": "Pharmacie La Nériad",
-    "address": "COME",
+    "address": "Comè",
     "responsable": "MADOKPON Mêgnissè",
     "contacts": 61169891,
     "tel": 65807872,
@@ -2234,9 +2234,9 @@
   },
   {
     "departement": "MONO",
-    "commune": "COME",
+    "commune": "Comè",
     "denomination": "Grande Pharmacie de Comè Sarl",
-    "address": "COME",
+    "address": "Comè",
     "responsable": "Fabrice Kadjogbé ODJARADO",
     "contacts": 97082036,
     "tel": 22430290,
@@ -2245,7 +2245,7 @@
   },
   {
     "departement": "MONO",
-    "commune": "HOUEYOGBE",
+    "commune": "Houeyogbe",
     "denomination": "Pharmacie La Prunelle de l’Eternel",
     "address": "SE",
     "responsable": "Abdelazize Okéladji LAWAL",
@@ -2256,7 +2256,7 @@
   },
   {
     "departement": "MONO",
-    "commune": "HOUEYOGBE",
+    "commune": "Houeyogbe",
     "denomination": "Pharmacie SAHOUE",
     "address": "ADROME",
     "responsable": "Sochi Marie HOUNSOU",
@@ -2267,7 +2267,7 @@
   },
   {
     "departement": "MONO",
-    "commune": "GRAND-POPO",
+    "commune": "Grand-Popo",
     "denomination": "Pharmacie Notre Dame du Perpétuel Secours",
     "address": "HILLACONDJI",
     "responsable": "ADIGBIDI",
@@ -2278,7 +2278,7 @@
   },
   {
     "departement": "MONO",
-    "commune": "LOKOSSA",
+    "commune": "Lokossa",
     "denomination": "Nouvelle Pharmacie  Zogbédji",
     "address": "Zogbédji",
     "responsable": "BAH TASSOU BAGNAN",
@@ -2289,9 +2289,9 @@
   },
   {
     "departement": "MONO",
-    "commune": "LOKOSSA",
+    "commune": "Lokossa",
     "denomination": "Pharmacie Le Bon Samaritain",
-    "address": "LOKOSSA",
+    "address": "Lokossa",
     "responsable": "Ernest DOSSOU",
     "contacts": 22411321,
     "tel": 22411321,
@@ -2388,7 +2388,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "PORTO-NOVO",
+    "commune": "Porto-Novo",
     "denomination": "Pharmacie Koutongbé (Ex- National)",
     "address": "KOUTONGBE",
     "responsable": "Yacoubou Abioye ADJE",
@@ -2399,7 +2399,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "PORTO-NOVO",
+    "commune": "Porto-Novo",
     "denomination": "Pharmacie Centrale Kokoyè",
     "address": "KOKOYE B.P: 177",
     "responsable": "C. ZOMAHOUN",
@@ -2410,7 +2410,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "PORTO-NOVO",
+    "commune": "Porto-Novo",
     "denomination": "Pharmacie Catchi",
     "address": "CATCHI B.P: 67",
     "responsable": "Lati ADEBO",
@@ -2421,7 +2421,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "PORTO-NOVO",
+    "commune": "Porto-Novo",
     "denomination": "Pharmacie Du Grand Marché",
     "address": "GRAND-MARCHE",
     "responsable": "HOUNDJO Gylchrist",
@@ -2432,7 +2432,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "PORTO-NOVO",
+    "commune": "Porto-Novo",
     "denomination": "Pharmacie Suru - Léré",
     "address": "SURU-LERE",
     "responsable": "Virginie GBADAMASSI",
@@ -2443,7 +2443,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "PORTO-NOVO",
+    "commune": "Porto-Novo",
     "denomination": "Pharmacie Les Palmiers",
     "address": "OUANDO",
     "responsable": "Mystoura AKPLOGAN",
@@ -2454,7 +2454,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "PORTO-NOVO",
+    "commune": "Porto-Novo",
     "denomination": "Pharmacie Kandévié (Dédès)",
     "address": "B.P. : 1267",
     "responsable": "Feu Stéphanie HOUNSOU-VE",
@@ -2465,7 +2465,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "PORTO-NOVO",
+    "commune": "Porto-Novo",
     "denomination": "Pharmacie Oganla",
     "address": "B.P. : 607",
     "responsable": "Léopoldine da - SILVA",
@@ -2476,7 +2476,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "PORTO-NOVO",
+    "commune": "Porto-Novo",
     "denomination": "Pharmacie Olayèmi",
     "address": "Guévié",
     "responsable": "HOUETO O, Lydie",
@@ -2487,7 +2487,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "PORTO-NOVO",
+    "commune": "Porto-Novo",
     "denomination": "Pharmacie Olatoundji",
     "address": "B.P. : 1226",
     "responsable": "Saliou LATOUNDJI",
@@ -2498,7 +2498,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "PORTO-NOVO",
+    "commune": "Porto-Novo",
     "denomination": "Pharmacie Agbokou",
     "address": "B.P. : 110",
     "responsable": "Adéline Valérie AGBOTON",
@@ -2509,7 +2509,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "PORTO-NOVO",
+    "commune": "Porto-Novo",
     "denomination": "PharmacieLe Prestige du Pont",
     "address": "HONME",
     "responsable": "TAIROU Kazirath Mariette Bimbola",
@@ -2520,7 +2520,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "PORTO-NOVO",
+    "commune": "Porto-Novo",
     "denomination": "Pharmacie Boladji",
     "address": "B.P. : 16",
     "responsable": "Safiatou  Y. BAKARY",
@@ -2531,7 +2531,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "PORTO-NOVO",
+    "commune": "Porto-Novo",
     "denomination": "Pharmacie BADIROU de TCHINVIE",
     "address": "TCHINVIE",
     "responsable": "ADJIBADE BADIROU Izbath Armelle",
@@ -2542,7 +2542,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "PORTO-NOVO",
+    "commune": "Porto-Novo",
     "denomination": "Pharmacie Vêkpa",
     "address": "B.P. : 1010",
     "responsable": "Moustapha Ibrahim ABLOH",
@@ -2553,7 +2553,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "PORTO-NOVO",
+    "commune": "Porto-Novo",
     "denomination": "Pharmacie Du Boulevard Djassin",
     "address": "B.P. : 786",
     "responsable": "Ismahinl ONIFADE",
@@ -2564,7 +2564,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "PORTO-NOVO",
+    "commune": "Porto-Novo",
     "denomination": "Pharmacie Dona (Transfert)",
     "address": "B.P. : 454",
     "responsable": "Mathias SOUDE",
@@ -2575,7 +2575,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "PORTO-NOVO",
+    "commune": "Porto-Novo",
     "denomination": "Pharmacie Adjibadé",
     "address": "02 -B.P. :173",
     "responsable": "Soumaïla IKILILOU",
@@ -2586,7 +2586,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "PORTO-NOVO",
+    "commune": "Porto-Novo",
     "denomination": "Pharmacie L'Unité",
     "address": "",
     "responsable": "Raïma ODJO",
@@ -2597,7 +2597,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "PORTO-NOVO",
+    "commune": "Porto-Novo",
     "denomination": "Pharmacie Toffa 1er",
     "address": "B.P. : 104",
     "responsable": "Appoline AGBENONCI",
@@ -2608,7 +2608,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "PORTO-NOVO",
+    "commune": "Porto-Novo",
     "denomination": "Pharmacie Place Bayol",
     "address": "B.P. : 345",
     "responsable": "Charlemagne AHOUANDJINOU",
@@ -2619,7 +2619,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "PORTO-NOVO",
+    "commune": "Porto-Novo",
     "denomination": "Pharmacie  Adjarra Docodji UPAO",
     "address": "Adjégounlè 01BP 948 PN",
     "responsable": "FAGBEMI Joel Martial",
@@ -2630,7 +2630,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "PORTO-NOVO",
+    "commune": "Porto-Novo",
     "denomination": "Pharmacie Cristal Dodji",
     "address": "B.P. : 697",
     "responsable": "Christophe Elie ODJO",
@@ -2641,7 +2641,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "PORTO-NOVO",
+    "commune": "Porto-Novo",
     "denomination": "Pharmacie St Raymond du Marché Agata",
     "address": "",
     "responsable": "CAPO CHICHI AGBOTON Clotilde",
@@ -2652,7 +2652,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "PORTO-NOVO",
+    "commune": "Porto-Novo",
     "denomination": "Pharmacie Sainte Marie",
     "address": "B.P. : 1674",
     "responsable": "Chantal Sylvie ALLADAYE",
@@ -2663,7 +2663,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "PORTO-NOVO",
+    "commune": "Porto-Novo",
     "denomination": "Pharmacie DJEGAN KPEVI",
     "address": "DJEGAN KPEVI",
     "responsable": "Mohamed Kèfil SOUNKERE",
@@ -2674,7 +2674,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "PORTO-NOVO",
+    "commune": "Porto-Novo",
     "denomination": "Pharmacie De l'Emmanuel",
     "address": "01 - B.P. : 2232",
     "responsable": "Déo - Gratias AMOUSSOU",
@@ -2685,7 +2685,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "PORTO-NOVO",
+    "commune": "Porto-Novo",
     "denomination": "Pharmacie Tokpota 2 - Davo",
     "address": "01 - B.P. : 653",
     "responsable": "Sidikath M.M.   SAÏZONOU épse SAGBO",
@@ -2696,7 +2696,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "SEME-KPODJI",
+    "commune": "Sèmè-Kpodji",
     "denomination": "Pharmacie Dowa",
     "address": "07- B.P. : 0319",
     "responsable": "Cyr Marceau Pierre GBESSOU",
@@ -2707,7 +2707,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "SEME-KPODJI",
+    "commune": "Sèmè-Kpodji",
     "denomination": "Pharmacie Carrefour Gbodjè",
     "address": "",
     "responsable": "Malick ADJIBOLA",
@@ -2718,7 +2718,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "SEME-KPODJI",
+    "commune": "Sèmè-Kpodji",
     "denomination": "Pharmacie OWODE",
     "address": "OWODE",
     "responsable": "AVODE Nadège",
@@ -2729,7 +2729,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "SEME-KPODJI",
+    "commune": "Sèmè-Kpodji",
     "denomination": "Pharmacie Notre Dame de l'Atlantique",
     "address": "DJREGBE",
     "responsable": "Blaise KOUDOGBO",
@@ -2740,7 +2740,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "SEME-KPODJI",
+    "commune": "Sèmè-Kpodji",
     "denomination": "Pharmacie Kraké Plage",
     "address": "Kraké Plage B.P 115",
     "responsable": "Hugues T.VIAINON",
@@ -2751,9 +2751,9 @@
   },
   {
     "departement": "OUEME",
-    "commune": "SEME-KPODJI",
+    "commune": "Sèmè-Kpodji",
     "denomination": "Pharmacie Nouvel Horizon",
-    "address": "SEME-KPODJI",
+    "address": "Sèmè-Kpodji",
     "responsable": "Eugène DEGUENON",
     "contacts": 20240067,
     "tel": 20240067,
@@ -2762,7 +2762,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "SEME-KPODJI",
+    "commune": "Sèmè-Kpodji",
     "denomination": "Pharmacie Dona - Déï",
     "address": "PK 14",
     "responsable": "Jean - Marie TOKOUDAGBA",
@@ -2773,7 +2773,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "SEME-KPODJI",
+    "commune": "Sèmè-Kpodji",
     "denomination": "Pharmacie Les Chérubins",
     "address": "",
     "responsable": "K. Régis Michaël AMEGEE",
@@ -2784,7 +2784,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "SEME-KPODJI",
+    "commune": "Sèmè-Kpodji",
     "denomination": "Pharmacie Fontaine de Jouvence",
     "address": "SEKANDJI",
     "responsable": "ALAVO Nadège",
@@ -2795,7 +2795,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "SEME-KPODJI",
+    "commune": "Sèmè-Kpodji",
     "denomination": "Pharmacie Agblangandan",
     "address": "Agblangandan",
     "responsable": "Madinatou DENDE BADIROU",
@@ -2806,7 +2806,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "SEME-KPODJI",
+    "commune": "Sèmè-Kpodji",
     "denomination": "Pharmacie Val des Graces Sarl",
     "address": "",
     "responsable": "Syadath Suruléré Omoniyi BOURAÏMA",
@@ -2817,7 +2817,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "SEME-KPODJI",
+    "commune": "Sèmè-Kpodji",
     "denomination": "Pharmacie L'Harmonie",
     "address": "Agblangandan M/ AFOLABI",
     "responsable": "LIADY Suad",
@@ -2828,7 +2828,7 @@
   },
   {
     "departement": "OUEME",
-    "commune": "SEME-KPODJI",
+    "commune": "Sèmè-Kpodji",
     "denomination": "Pharmacie Saint Pierre de SEMEKPODJI",
     "address": "Briade routière de SEME KPODJI",
     "responsable": "SABI BOUN Saidou",
@@ -2839,12 +2839,23 @@
   },
   {
     "departement": "OUEME",
-    "commune": "SEME-KPODJI",
+    "commune": "Sèmè-Kpodji",
     "denomination": "Pharmacie DJEFFA",
     "address": "Djeffa",
     "responsable": "GOUNOU Solange",
     "contacts": 96271879,
     "tel": 96271879,
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "departement": "OUEME",
+    "commune": "Sèmè-Kpodji",
+    "denomination": "Pharmacoe Ekpe",
+    "address": "Ekpe",
+    "responsable": "Remi AHOLOUKPE",
+    "contacts": 96821974,
+    "tel": 96821974,
     "latitude": "",
     "longitude": ""
   },
@@ -2894,7 +2905,7 @@
   },
   {
     "departement": "PLATEAU",
-    "commune": "Ikpinlè",
+    "commune": "Adja-Ouèrè",
     "denomination": "Pharmacie Olabissi",
     "address": "AJA-OUERE",
     "responsable": "Olabissi Pancras ELEGBEDE",
@@ -2905,9 +2916,9 @@
   },
   {
     "departement": "ZOU",
-    "commune": "DJIDJA",
+    "commune": "Djidja",
     "denomination": "Pharmacie Péniel de Djidja",
-    "address": "DJIDJA",
+    "address": "Djidja",
     "responsable": "Obassandjo F. Benoît TAO",
     "contacts": 96240960,
     "tel": 96009030,
@@ -2995,7 +3006,7 @@
     "departement": "ZOU",
     "commune": "Bohicon",
     "denomination": "Pharmacie Ave Maria Carrefour Zakpo",
-    "address": "BP 1868 Abomey Calavi",
+    "address": "BP 1868 Abomey-Calavi",
     "responsable": "AMOUSSOU Nathalie Gisèle",
     "contacts": 95566817,
     "tel": 68002462,

@@ -5,13 +5,13 @@
     (function(w){var i=w.Ionic=w.Ionic||{};i.version='^3.9.2';i.angular='5.2.11';i.staticDir='build/';})(window);
   </script>
   <meta charset="UTF-8">
-  <title>DispoMed</title>
+    <title>DispoMed</title>
   <meta name="viewport" content="viewport-fit=cover, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <meta name="format-detection" content="telephone=no">
   <meta name="msapplication-tap-highlight" content="no">
 
-  <link rel="icon" type="image/x-icon" href="icon/favicon.ico">
-  <link rel="manifest" href="../manifest.json">
+    <link href="icon/favicon.ico" rel="icon" type="image/x-icon">
+    <link href="../manifest.json" rel="manifest">
   <meta name="theme-color" content="#4e8ef7">
 
   <!-- add to homescreen for ios -->
@@ -39,32 +39,32 @@
 <ion-app></ion-app>
 
 <script>
-  (function () {
-    var lastTime = 0;
-    var vendors = ['ms', 'moz', 'webkit', 'o'];
-    for (var x = 0; x < vendors.length && !window.requestAnimationFrame; ++x) {
-      window.requestAnimationFrame = window[vendors[x] + 'RequestAnimationFrame'];
-      window.cancelAnimationFrame = window[vendors[x] + 'CancelAnimationFrame']
-              || window[vendors[x] + 'CancelRequestAnimationFrame'];
-    }
+    (function () {
+        var lastTime = 0;
+        var vendors = ['ms', 'moz', 'webkit', 'o'];
+        for (var x = 0; x < vendors.length && !window.requestAnimationFrame; ++x) {
+            window.requestAnimationFrame = window[vendors[x] + 'RequestAnimationFrame'];
+            window.cancelAnimationFrame = window[vendors[x] + 'CancelAnimationFrame']
+                || window[vendors[x] + 'CancelRequestAnimationFrame'];
+        }
 
-    if (!window.requestAnimationFrame)
-      window.requestAnimationFrame = function (callback, element) {
-        var currTime = new Date().getTime();
-        var timeToCall = Math.max(0, 16 - (currTime - lastTime));
-        var id = window.setTimeout(function () {
-                  callback(currTime + timeToCall);
-                },
-                timeToCall);
-        lastTime = currTime + timeToCall;
-        return id;
-      };
+        if (!window.requestAnimationFrame)
+            window.requestAnimationFrame = function (callback, element) {
+                var currTime = new Date().getTime();
+                var timeToCall = Math.max(0, 16 - (currTime - lastTime));
+                var id = window.setTimeout(function () {
+                        callback(currTime + timeToCall);
+                    },
+                    timeToCall);
+                lastTime = currTime + timeToCall;
+                return id;
+            };
 
-    if (!window.cancelAnimationFrame)
-      window.cancelAnimationFrame = function (id) {
-        clearTimeout(id);
-      };
-  }());
+        if (!window.cancelAnimationFrame)
+            window.cancelAnimationFrame = function (id) {
+                clearTimeout(id);
+            };
+    }());
 </script>
 <!-- The polyfills js is generated during the build process -->
 <script src="build/polyfills.js"></script>

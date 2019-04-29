@@ -1,0 +1,247 @@
+[
+  {
+    "id": "69",
+    "name": "Abomey",
+    "departement_id": "12"
+  },
+  {
+    "id": "16",
+    "name": "Abomey-Calavi",
+    "departement_id": "3"
+  },
+  {
+    "id": "64",
+    "name": "Adja-Ouèrè",
+    "departement_id": "11"
+  },
+  {
+    "id": "55",
+    "name": "Adjarra",
+    "departement_id": "10"
+  },
+  {
+    "id": "56",
+    "name": "Adjohoun",
+    "departement_id": "10"
+  },
+  {
+    "id": "70",
+    "name": "Agbangnizoun",
+    "departement_id": "12"
+  },
+  {
+    "id": "58",
+    "name": "Akpro-Missérété",
+    "departement_id": "10"
+  },
+  {
+    "id": "17",
+    "name": "Allada",
+    "departement_id": "3"
+  },
+  {
+    "id": "38",
+    "name": "Aplahoué",
+    "departement_id": "6"
+  },
+  {
+    "id": "59",
+    "name": "Avrankou",
+    "departement_id": "10"
+  },
+  {
+    "id": "1",
+    "name": "Banikoara",
+    "departement_id": "1"
+  },
+  {
+    "id": "32",
+    "name": "Bantè",
+    "departement_id": "5"
+  },
+  {
+    "id": "44",
+    "name": "Bassila",
+    "departement_id": "7"
+  },
+  {
+    "id": "24",
+    "name": "Bembèrèkè",
+    "departement_id": "4"
+  },
+  {
+    "id": "71",
+    "name": "Bohicon",
+    "departement_id": "12"
+  },
+  {
+    "id": "51",
+    "name": "Comè",
+    "departement_id": "9"
+  },
+  {
+    "id": "48",
+    "name": "Cotonou",
+    "departement_id": "8"
+  },
+  {
+    "id": "72",
+    "name": "Covè",
+    "departement_id": "12"
+  },
+  {
+    "id": "61",
+    "name": "Dangbo",
+    "departement_id": "10"
+  },
+  {
+    "id": "33",
+    "name": "Dassa-Zoumè",
+    "departement_id": "5"
+  },
+  {
+    "id": "39",
+    "name": "Djakotomey",
+    "departement_id": "6"
+  },
+  {
+    "id": "73",
+    "name": "Djidja",
+    "departement_id": "12"
+  },
+  {
+    "id": "46",
+    "name": "Djougou",
+    "departement_id": "7"
+  },
+  {
+    "id": "40",
+    "name": "Dogbo",
+    "departement_id": "6"
+  },
+  {
+    "id": "34",
+    "name": "Glazoué",
+    "departement_id": "5"
+  },
+  {
+    "id": "52",
+    "name": "Grand-Popo",
+    "departement_id": "9"
+  },
+  {
+    "id": "53",
+    "name": "Houeyogbe",
+    "departement_id": "9"
+  },
+  {
+    "id": "65",
+    "name": "Ifangni",
+    "departement_id": "11"
+  },
+  {
+    "id": "3",
+    "name": "Kandi ",
+    "departement_id": "1"
+  },
+  {
+    "id": "41",
+    "name": "Klouekanmè",
+    "departement_id": "6"
+  },
+  {
+    "id": "66",
+    "name": "Kétou ",
+    "departement_id": "11"
+  },
+  {
+    "id": "54",
+    "name": "Lokossa",
+    "departement_id": "9"
+  },
+  {
+    "id": "5",
+    "name": "Malanville",
+    "departement_id": "1"
+  },
+  {
+    "id": "12",
+    "name": "Natitingou",
+    "departement_id": "2"
+  },
+  {
+    "id": "27",
+    "name": "Nikki",
+    "departement_id": "4"
+  },
+  {
+    "id": "26",
+    "name": "N’Dali",
+    "departement_id": "4"
+  },
+  {
+    "id": "19",
+    "name": "Ouidah",
+    "departement_id": "3"
+  },
+  {
+    "id": "28",
+    "name": "Parakou",
+    "departement_id": "4"
+  },
+  {
+    "id": "67",
+    "name": "Pobè",
+    "departement_id": "11"
+  },
+  {
+    "id": "62",
+    "name": "Porto-Novo",
+    "departement_id": "10"
+  },
+  {
+    "id": "68",
+    "name": "Sakété ",
+    "departement_id": "11"
+  },
+  {
+    "id": "36",
+    "name": "Savalou",
+    "departement_id": "5"
+  },
+  {
+    "id": "37",
+    "name": "Savè",
+    "departement_id": "5"
+  },
+  {
+    "id": "20",
+    "name": "So-Ava",
+    "departement_id": "3"
+  },
+  {
+    "id": "63",
+    "name": "Sèmè-Kpodji",
+    "departement_id": "10"
+  },
+  {
+    "id": "14",
+    "name": "Tanguiéta",
+    "departement_id": "2"
+  },
+  {
+    "id": "21",
+    "name": "Toffo",
+    "departement_id": "3"
+  },
+  {
+    "id": "22",
+    "name": "Tori-Bossito",
+    "departement_id": "3"
+  },
+  {
+    "id": "77",
+    "name": "Zogbodomey",
+    "departement_id": "12"
+  }
+]
