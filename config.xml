@@ -98,6 +98,5 @@
     <plugin name="cordova-plugin-background-mode" spec="^0.7.2" />
     <plugin name="onesignal-cordova-plugin" spec="^2.4.7" />
     <plugin name="cordova-plugin-fcm-with-dependecy-updated" spec="^2.4.0" />
-    <plugin name="cordova-support-google-services" spec="1.1.0" />
     <engine name="android" spec="7.1.4" />
 </widget>
