@@ -41,6 +41,8 @@
         <splash density="port-xhdpi" src="resources/android/splash/drawable-port-xhdpi-screen.png" />
         <splash density="port-xxhdpi" src="resources/android/splash/drawable-port-xxhdpi-screen.png" />
         <splash density="port-xxxhdpi" src="resources/android/splash/drawable-port-xxxhdpi-screen.png" />
+          <resource-file src="google-services.json" target="app/google-services.json" />
+          <resource-file src="google-services.json" target="google-services.json" />
     </platform>
     <platform name="ios">
         <allow-intent href="itms:*" />
@@ -96,5 +98,6 @@
     <plugin name="cordova-plugin-background-mode" spec="^0.7.2" />
     <plugin name="onesignal-cordova-plugin" spec="^2.4.7" />
     <plugin name="cordova-plugin-fcm-with-dependecy-updated" spec="^2.4.0" />
+    <plugin name="cordova-support-google-services" spec="1.1.0" />
     <engine name="android" spec="7.1.4" />
 </widget>
