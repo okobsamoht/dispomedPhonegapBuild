@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "521388710211",
+    "firebase_url": "https://dispomed-da61b.firebaseio.com",
+    "project_id": "dispomed-da61b",
+    "storage_bucket": "dispomed-da61b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521388710211:android:21eae57bd9d6300c",
+        "android_client_info": {
+          "package_name": "com.dispomed.itnum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521388710211-lejolf97jsu5rqmsk993ol2m4b87h77h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM1CjCc72O8nEDUjtqnSuBxLii4auNRxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521388710211-lejolf97jsu5rqmsk993ol2m4b87h77h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
