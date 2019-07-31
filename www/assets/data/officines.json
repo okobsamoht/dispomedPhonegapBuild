@@ -2180,6 +2180,17 @@
   {
     "departement": "LITTORAL",
     "commune": "Cotonou",
+    "denomination": "Pharmacie 4 Therapies",
+    "address": "Tokpa",
+    "responsable": "Elyse Kinkinginhoun",
+    "contacts": "98846095",
+    "tel": 66602133,
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "departement": "LITTORAL",
+    "commune": "Cotonou",
     "denomination": "Pharmacie Salem -Hlazounto",
     "address": "AGLA HLAZOUTO",
     "responsable": "Esther Diana Dédévi AJAVON",

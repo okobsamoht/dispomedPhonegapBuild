@@ -94,4 +94,7 @@
     </plugin>
     <plugin name="cordova-plugin-badge" spec="^0.8.8" />
     <plugin name="cordova-plugin-background-mode" spec="^0.7.2" />
+    <plugin name="onesignal-cordova-plugin" spec="^2.4.7" />
+    <plugin name="cordova-plugin-fcm-with-dependecy-updated" spec="^2.4.0" />
+    <engine name="android" spec="7.1.4" />
 </widget>
