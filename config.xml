@@ -94,4 +94,5 @@
     <plugin name="cordova-plugin-geolocation" spec="~4.0.1">
         <variable name="GEOLOCATION_USAGE_DESCRIPTION" value="Pour localiser les pharmacies plus proches de vous." />
     </plugin>
+    <plugin name="onesignal-cordova-plugin" spec="^2.2.0" />
 </widget>
