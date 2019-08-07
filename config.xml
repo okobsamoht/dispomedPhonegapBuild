@@ -94,5 +94,4 @@
     <plugin name="cordova-plugin-geolocation" spec="~4.0.1">
         <variable name="GEOLOCATION_USAGE_DESCRIPTION" value="Pour localiser les pharmacies plus proches de vous." />
     </plugin>
-    <plugin name="cordova-plugin-background-mode" spec="^0.7.2" />
 </widget>
