@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.dispomed.itnum" version="0.1.1" xmlns="http://www.w3.org/ns/widgets">
+<widget id="com.dispomed.itnum" version="0.1.2" xmlns="http://www.w3.org/ns/widgets">
     <name>DispoMed</name>
     <description>An app to request for drugs availability in pharmacies nearby.</description>
     <author email="info@it-num.com" href="http://ionicframework.com/">IT-NUM Dev Team</author>
