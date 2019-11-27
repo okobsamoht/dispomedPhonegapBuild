@@ -1292,7 +1292,7 @@ var ApiProvider = /** @class */ (function () {
     ApiProvider.prototype.analytics = function (key, value) {
         var _this = this;
         var dp = this;
-        this.ga.startTrackerWithId('G-0013ENL3BL')
+        this.ga.startTrackerWithId('UA-153265280-1')
             .then(function () {
             console.log('Google analytics is ready now');
             _this.ga.enableUncaughtExceptionReporting(true);
